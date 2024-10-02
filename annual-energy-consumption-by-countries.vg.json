@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Annual Energy Comsumption (%) by Country (1966-2023)",
-  "width": 800,
-  "height": 600,
+  "width": 600,
+  "height": 400,
   "params": [
     {
       "name": "year",
