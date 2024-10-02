@@ -1,6 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Annual Energy Comsumption (%) by Country",
+    "title": {
+      "text": "Annual Energy Comsumption (%) by Country",
+      "fontSize": 24,
+      "font": "Oswald",
+      "fontWeight": "bold",
+      "anchor": "middle",
+      "color": "#333"
+},
   "width": 600,
   "height": 400,
   "params": [
