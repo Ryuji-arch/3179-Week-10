@@ -1,12 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Annual Energy Comsumption (%) by Country (1966-2023)",
+  "title": "Annual Energy Comsumption (%) by Country",
   "width": 600,
   "height": 400,
   "params": [
     {
       "name": "year",
-      "value": 2019,
+      "value": 2020,
       "bind": {
         "input": "range",
         "min": 1966,
@@ -62,12 +62,12 @@
         "color": {
           "field": "Annual_change_in_primary_energy_consumption",
           "type": "quantitative",
-          "title": "Annual_change_in_primary_energy_consumption",
+          "title": "Change from Previous Year (%)",
           "scale": {"scheme": "blues"}
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-          {"field": "Annual_change_in_primary_energy_consumption", "type": "quantitative", "title": "Annual_change_in_primary_energy_consumption"},
+          {"field": "Annual_change_in_primary_energy_consumption", "type": "quantitative", "title": "Percentage Change"},
           {"field": "Year", "type": "quantitative", "title": "Year"}
         ]
       }
