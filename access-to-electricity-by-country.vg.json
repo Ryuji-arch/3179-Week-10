@@ -62,7 +62,7 @@
           "color": {
             "field": "Access_to_electricity",
             "type": "quantitative",
-            "title": "Access_to_Electricity (%)",
+            "title": "Access to Electricity (%)",
             "scale": {"scheme": "blues"}
           },
           "tooltip": [
