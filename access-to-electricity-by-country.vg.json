@@ -1,6 +1,13 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Access to Electricity by Country (1990-2021)",
+    "title": {
+      "text": "Access to Electricity by Country (1990-2021)",
+      "fontSize": 24,
+      "font": "Oswald",
+      "fontWeight": "bold",
+      "anchor": "middle",
+      "color": "#333"
+},
     "width": 600,
     "height": 400,
     "params": [
