@@ -1,0 +1,15 @@
+/* Apply styles to h1 with the class 'oswald-text' */
+.oswald-text {
+    font-family: "Oswald", sans-serif; /* Set the font family */
+    font-weight: 500; /* Set the font weight */
+    font-style: normal; /* Set the font style */
+    font-size: 30px;   /* Set the font size */
+    color: #333;       /* Font color */
+    text-align: center; /* Center align the text */
+    margin-top: 20px;  /* Add some space at the top */
+    margin-bottom: 20px; /* Add some space at the bottom */
+}
+
+
+  
+
