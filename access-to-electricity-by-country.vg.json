@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
-      "text": "Access to Electricity by Country",
+      "text": "Access to Electricity (%) by Country",
       "fontSize": 24,
       "font": "Oswald",
       "fontWeight": "bold",
