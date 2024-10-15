@@ -1,7 +1,4 @@
 Entity,Code,Year,Access_to_electricity,"GDP_per_capita,",Continent
-Abkhazia,OWID_ABK,2015,,,Asia
-Afghanistan,AFG,2000,4.446891,,Asia
-Afghanistan,AFG,2001,9.294527,,Asia
 Afghanistan,AFG,2002,14.133616,1280.4631,Asia
 Afghanistan,AFG,2003,18.971165,1292.3335,Asia
 Afghanistan,AFG,2004,23.814182,1260.0605,Asia
@@ -22,8 +19,6 @@ Afghanistan,AFG,2018,93.43088,2060.699,Asia
 Afghanistan,AFG,2019,97.7,2079.9219,Asia
 Afghanistan,AFG,2020,97.7,1968.341,Asia
 Afghanistan,AFG,2021,97.7,1516.2733,Asia
-Akrotiri and Dhekelia,OWID_AKD,2015,,,Asia
-Aland Islands,ALA,2015,,,Europe
 Albania,ALB,1990,100.0,4827.0513,Europe
 Albania,ALB,1991,100.0,3496.3867,Europe
 Albania,ALB,1992,100.0,3264.8367,Europe
@@ -56,17 +51,6 @@ Albania,ALB,2018,100.0,13317.185,Europe
 Albania,ALB,2019,100.0,13653.249,Europe
 Albania,ALB,2020,100.0,13278.435,Europe
 Albania,ALB,2021,100.0,14596.016,Europe
-Albania,ALB,2022,,15492.067,Europe
-Algeria,DZA,1990,,8828.874,Africa
-Algeria,DZA,1991,,8517.377,Africa
-Algeria,DZA,1992,,8471.527,Africa
-Algeria,DZA,1993,,8109.884,Africa
-Algeria,DZA,1994,,7869.2705,Africa
-Algeria,DZA,1995,,8013.1235,Africa
-Algeria,DZA,1996,,8195.86,Africa
-Algeria,DZA,1997,,8147.8784,Africa
-Algeria,DZA,1998,,8435.036,Africa
-Algeria,DZA,1999,,8584.071,Africa
 Algeria,DZA,2000,98.64003,8786.19,Africa
 Algeria,DZA,2001,98.63797,8926.11,Africa
 Algeria,DZA,2002,98.62736,9299.683,Africa
@@ -89,50 +73,6 @@ Algeria,DZA,2018,99.63774,11725.878,Africa
 Algeria,DZA,2019,99.5,11627.28,Africa
 Algeria,DZA,2020,99.71877,10844.7705,Africa
 Algeria,DZA,2021,99.78783,11029.139,Africa
-Algeria,DZA,2022,,11198.233,Africa
-American Samoa,ASM,2015,,,Oceania
-Andorra,AND,1990,100.0,,Europe
-Andorra,AND,1991,100.0,,Europe
-Andorra,AND,1992,100.0,,Europe
-Andorra,AND,1993,100.0,,Europe
-Andorra,AND,1994,100.0,,Europe
-Andorra,AND,1995,100.0,,Europe
-Andorra,AND,1996,100.0,,Europe
-Andorra,AND,1997,100.0,,Europe
-Andorra,AND,1998,100.0,,Europe
-Andorra,AND,1999,100.0,,Europe
-Andorra,AND,2000,100.0,,Europe
-Andorra,AND,2001,100.0,,Europe
-Andorra,AND,2002,100.0,,Europe
-Andorra,AND,2003,100.0,,Europe
-Andorra,AND,2004,100.0,,Europe
-Andorra,AND,2005,100.0,,Europe
-Andorra,AND,2006,100.0,,Europe
-Andorra,AND,2007,100.0,,Europe
-Andorra,AND,2008,100.0,,Europe
-Andorra,AND,2009,100.0,,Europe
-Andorra,AND,2010,100.0,,Europe
-Andorra,AND,2011,100.0,,Europe
-Andorra,AND,2012,100.0,,Europe
-Andorra,AND,2013,100.0,,Europe
-Andorra,AND,2014,100.0,,Europe
-Andorra,AND,2015,100.0,,Europe
-Andorra,AND,2016,100.0,,Europe
-Andorra,AND,2017,100.0,,Europe
-Andorra,AND,2018,100.0,,Europe
-Andorra,AND,2019,100.0,,Europe
-Andorra,AND,2020,100.0,,Europe
-Andorra,AND,2021,100.0,,Europe
-Angola,AGO,1990,,5793.0845,Africa
-Angola,AGO,1991,,5659.119,Africa
-Angola,AGO,1992,,5158.384,Africa
-Angola,AGO,1993,,3799.1948,Africa
-Angola,AGO,1994,,3728.8862,Africa
-Angola,AGO,1995,,4149.446,Africa
-Angola,AGO,1996,,4557.148,Africa
-Angola,AGO,1997,,4728.2925,Africa
-Angola,AGO,1998,,4790.4185,Africa
-Angola,AGO,1999,,4739.51,Africa
 Angola,AGO,2000,24.238865,4728.3745,Africa
 Angola,AGO,2001,20.0,4768.009,Africa
 Angola,AGO,2002,26.320255,5241.821,Africa
@@ -155,9 +95,6 @@ Angola,AGO,2018,45.29,6878.59,Africa
 Angola,AGO,2019,45.63388,6602.269,Africa
 Angola,AGO,2020,46.955444,6029.692,Africa
 Angola,AGO,2021,48.223854,5911.8354,Africa
-Angola,AGO,2022,,5906.1157,Africa
-Anguilla,AIA,2015,,,North America
-Antarctica,ATA,2015,,,Antarctica
 Antigua and Barbuda,ATG,1990,95.76305,17016.865,North America
 Antigua and Barbuda,ATG,1991,95.94065,17303.639,North America
 Antigua and Barbuda,ATG,1992,96.11813,17226.615,North America
@@ -190,7 +127,6 @@ Antigua and Barbuda,ATG,2018,100.0,23050.686,North America
 Antigua and Barbuda,ATG,2019,100.0,23638.686,North America
 Antigua and Barbuda,ATG,2020,100.0,19062.412,North America
 Antigua and Barbuda,ATG,2021,100.0,20501.162,North America
-Antigua and Barbuda,ATG,2022,,22321.87,North America
 Argentina,ARG,1990,92.1548,14136.525,South America
 Argentina,ARG,1991,92.49219,15209.487,South America
 Argentina,ARG,1992,92.82945,16190.511,South America
@@ -223,17 +159,6 @@ Argentina,ARG,2018,99.99374,22747.242,South America
 Argentina,ARG,2019,100.0,22071.748,South America
 Argentina,ARG,2020,100.0,19694.56,South America
 Argentina,ARG,2021,100.0,21599.797,South America
-Argentina,ARG,2022,,22461.441,South America
-Armenia,ARM,1990,,5153.2983,Asia
-Armenia,ARM,1991,,4473.519,Asia
-Armenia,ARM,1992,,2634.9631,Asia
-Armenia,ARM,1993,,2484.5522,Asia
-Armenia,ARM,1994,,2683.6375,Asia
-Armenia,ARM,1995,,2912.781,Asia
-Armenia,ARM,1996,,3105.953,Asia
-Armenia,ARM,1997,,3236.0605,Asia
-Armenia,ARM,1998,,3505.3684,Asia
-Armenia,ARM,1999,,3660.0342,Asia
 Armenia,ARM,2000,98.9,3921.8574,Asia
 Armenia,ARM,2001,100.0,4346.9077,Asia
 Armenia,ARM,2002,98.0,4965.224,Asia
@@ -256,7 +181,6 @@ Armenia,ARM,2018,99.9,13231.431,Asia
 Armenia,ARM,2019,100.0,14317.553,Asia
 Armenia,ARM,2020,100.0,13357.697,Asia
 Armenia,ARM,2021,100.0,14206.545,Asia
-Armenia,ARM,2022,,16057.007,Asia
 Aruba,ABW,1990,100.0,32278.87,North America
 Aruba,ABW,1991,99.153656,33744.11,North America
 Aruba,ABW,1992,99.19713,34544.062,North America
@@ -289,7 +213,6 @@ Aruba,ABW,2018,100.0,39597.66,North America
 Aruba,ABW,2019,100.0,38511.336,North America
 Aruba,ABW,2020,100.0,29236.047,North America
 Aruba,ABW,2021,100.0,37333.516,North America
-Aruba,ABW,2022,,41273.613,North America
 Australia,AUS,1990,100.0,30897.965,Oceania
 Australia,AUS,1991,100.0,30390.135,Oceania
 Australia,AUS,1992,100.0,30180.31,Oceania
@@ -322,7 +245,6 @@ Australia,AUS,2018,100.0,49085.934,Oceania
 Australia,AUS,2019,100.0,49420.94,Oceania
 Australia,AUS,2020,100.0,48651.734,Oceania
 Australia,AUS,2021,100.0,49609.23,Oceania
-Australia,AUS,2022,,51090.26,Oceania
 Austria,AUT,1990,100.0,37494.56,Europe
 Austria,AUT,1991,100.0,38399.676,Europe
 Austria,AUT,1992,100.0,38774.492,Europe
@@ -355,17 +277,6 @@ Austria,AUT,2018,100.0,55217.285,Europe
 Austria,AUT,2019,100.0,55769.684,Europe
 Austria,AUT,2020,100.0,51854.75,Europe
 Austria,AUT,2021,100.0,53817.305,Europe
-Austria,AUT,2022,,55867.184,Europe
-Austria-Hungary,OWID_AUH,2015,,,Europe
-Azerbaijan,AZE,1990,,7616.91,Asia
-Azerbaijan,AZE,1991,,7463.629,Asia
-Azerbaijan,AZE,1992,,5690.181,Asia
-Azerbaijan,AZE,1993,,4309.9214,Asia
-Azerbaijan,AZE,1994,,3414.5112,Asia
-Azerbaijan,AZE,1995,,2976.995,Asia
-Azerbaijan,AZE,1996,,2985.3372,Asia
-Azerbaijan,AZE,1997,,3128.164,Asia
-Azerbaijan,AZE,1998,,3408.4753,Asia
 Azerbaijan,AZE,1999,97.0,3628.7168,Asia
 Azerbaijan,AZE,2000,98.908226,3998.5205,Asia
 Azerbaijan,AZE,2001,98.598,4360.4595,Asia
@@ -389,8 +300,6 @@ Azerbaijan,AZE,2018,100.0,14209.593,Asia
 Azerbaijan,AZE,2019,100.0,14442.041,Asia
 Azerbaijan,AZE,2020,100.0,13726.77,Asia
 Azerbaijan,AZE,2021,100.0,14433.904,Asia
-Azerbaijan,AZE,2022,,15094.284,Asia
-Baden,OWID_BAD,2015,,,Europe
 Bahamas,BHS,1990,100.0,36161.11,North America
 Bahamas,BHS,1991,100.0,33973.793,North America
 Bahamas,BHS,1992,100.0,31988.69,North America
@@ -423,7 +332,6 @@ Bahamas,BHS,2018,100.0,34810.277,North America
 Bahamas,BHS,2019,100.0,34324.996,North America
 Bahamas,BHS,2020,100.0,26132.207,North America
 Bahamas,BHS,2021,100.0,30463.084,North America
-Bahamas,BHS,2022,,34663.496,North America
 Bahrain,BHR,1990,99.9414,36997.734,Asia
 Bahrain,BHR,1991,99.96739,39769.312,Asia
 Bahrain,BHR,1992,99.98718,40971.727,Asia
@@ -456,8 +364,6 @@ Bahrain,BHR,2018,100.0,48937.66,Asia
 Bahrain,BHR,2019,100.0,49768.977,Asia
 Bahrain,BHR,2020,100.0,47994.414,Asia
 Bahrain,BHR,2021,100.0,49754.047,Asia
-Bahrain,BHR,2022,,51854.715,Asia
-Bangladesh,BGD,1990,,1730.3689,Asia
 Bangladesh,BGD,1991,14.29,1756.3326,Asia
 Bangladesh,BGD,1992,9.905419,1818.1508,Asia
 Bangladesh,BGD,1993,12.71788,1867.7809,Asia
@@ -489,7 +395,6 @@ Bangladesh,BGD,2018,86.91528,5124.4985,Asia
 Bangladesh,BGD,2019,92.2,5467.2075,Asia
 Bangladesh,BGD,2020,96.2,5591.3735,Asia
 Bangladesh,BGD,2021,98.99103,5911.013,Asia
-Bangladesh,BGD,2022,,6263.0044,Asia
 Barbados,BRB,1990,99.98425,14086.431,North America
 Barbados,BRB,1991,99.99344,13509.206,North America
 Barbados,BRB,1992,99.99869,12700.533,North America
@@ -522,8 +427,6 @@ Barbados,BRB,2018,100.0,16063.454,North America
 Barbados,BRB,2019,100.0,16077.515,North America
 Barbados,BRB,2020,100.0,14003.922,North America
 Barbados,BRB,2021,100.0,13869.242,North America
-Barbados,BRB,2022,,15417.297,North America
-Bavaria,OWID_BAV,2015,,,Europe
 Belarus,BLR,1990,100.0,8895.172,Europe
 Belarus,BLR,1991,100.0,8784.377,Europe
 Belarus,BLR,1992,100.0,7923.65,Europe
@@ -556,7 +459,6 @@ Belarus,BLR,2018,99.34876,18974.746,Europe
 Belarus,BLR,2019,100.0,19288.041,Europe
 Belarus,BLR,2020,100.0,19239.553,Europe
 Belarus,BLR,2021,100.0,19872.693,Europe
-Belarus,BLR,2022,,19092.111,Europe
 Belgium,BEL,1990,100.0,35506.926,Europe
 Belgium,BEL,1991,100.0,36023.684,Europe
 Belgium,BEL,1992,100.0,36426.992,Europe
@@ -589,8 +491,6 @@ Belgium,BEL,2018,100.0,51113.48,Europe
 Belgium,BEL,2019,100.0,51977.17,Europe
 Belgium,BEL,2020,100.0,49030.992,Europe
 Belgium,BEL,2021,100.0,52174.906,Europe
-Belgium,BEL,2022,,53287.152,Europe
-Belize,BLZ,1990,,6292.179,North America
 Belize,BLZ,1991,67.0,6887.2275,North America
 Belize,BLZ,1992,72.224915,7607.846,North America
 Belize,BLZ,1993,73.12333,7913.5415,North America
@@ -622,13 +522,6 @@ Belize,BLZ,2018,91.72,8719.991,North America
 Belize,BLZ,2019,92.72,8925.19,North America
 Belize,BLZ,2020,96.807625,7586.0234,North America
 Belize,BLZ,2021,97.69215,8826.859,North America
-Belize,BLZ,2022,,9473.706,North America
-Benin,BEN,1990,,2109.5593,Africa
-Benin,BEN,1991,,2132.3967,Africa
-Benin,BEN,1992,,2129.2012,Africa
-Benin,BEN,1993,,2155.3665,Africa
-Benin,BEN,1994,,2118.2786,Africa
-Benin,BEN,1995,,2200.5938,Africa
 Benin,BEN,1996,14.5,2237.5261,Africa
 Benin,BEN,1997,18.589626,2297.9941,Africa
 Benin,BEN,1998,19.578255,2317.4812,Africa
@@ -655,7 +548,6 @@ Benin,BEN,2018,39.009422,3040.1672,Africa
 Benin,BEN,2019,39.998093,3156.4387,Africa
 Benin,BEN,2020,40.98593,3186.486,Africa
 Benin,BEN,2021,41.973633,3321.552,Africa
-Benin,BEN,2022,,3435.1716,Africa
 Bermuda,BMU,1990,100.0,65961.41,North America
 Bermuda,BMU,1991,100.0,63958.895,North America
 Bermuda,BMU,1992,100.0,64385.406,North America
@@ -688,17 +580,6 @@ Bermuda,BMU,2018,100.0,81423.41,North America
 Bermuda,BMU,2019,100.0,81681.73,North America
 Bermuda,BMU,2020,100.0,76117.805,North America
 Bermuda,BMU,2021,100.0,78570.49,North America
-Bermuda,BMU,2022,,81165.65,North America
-Bhutan,BTN,1990,,2895.535,Asia
-Bhutan,BTN,1991,,2836.6472,Asia
-Bhutan,BTN,1992,,3085.4546,Asia
-Bhutan,BTN,1993,,3298.4258,Asia
-Bhutan,BTN,1994,,3458.9448,Asia
-Bhutan,BTN,1995,,3659.5732,Asia
-Bhutan,BTN,1996,,3791.6619,Asia
-Bhutan,BTN,1997,,3926.9546,Asia
-Bhutan,BTN,1998,,4082.4683,Asia
-Bhutan,BTN,1999,,4301.504,Asia
 Bhutan,BTN,2000,31.15,4323.041,Asia
 Bhutan,BTN,2001,40.244278,4559.524,Asia
 Bhutan,BTN,2002,44.119186,4931.44,Asia
@@ -721,8 +602,6 @@ Bhutan,BTN,2018,99.95767,11931.663,Asia
 Bhutan,BTN,2019,100.0,12530.171,Asia
 Bhutan,BTN,2020,100.0,11176.29,Asia
 Bhutan,BTN,2021,100.0,11595.684,Asia
-Bolivia,BOL,1990,,4437.8667,South America
-Bolivia,BOL,1991,,4575.7065,South America
 Bolivia,BOL,1992,60.0279,4556.9937,South America
 Bolivia,BOL,1993,61.38403,4657.0303,South America
 Bolivia,BOL,1994,64.1,4779.8394,South America
@@ -753,12 +632,6 @@ Bolivia,BOL,2018,92.8,8466.293,South America
 Bolivia,BOL,2019,95.08,8528.749,South America
 Bolivia,BOL,2020,97.22182,7679.933,South America
 Bolivia,BOL,2021,98.55623,8052.6,South America
-Bolivia,BOL,2022,,8244.235,South America
-Bonaire Sint Eustatius and Saba,BES,2015,,,North America
-Bosnia and Herzegovina,BIH,1990,100.0,,Europe
-Bosnia and Herzegovina,BIH,1991,100.0,,Europe
-Bosnia and Herzegovina,BIH,1992,100.0,,Europe
-Bosnia and Herzegovina,BIH,1993,100.0,,Europe
 Bosnia and Herzegovina,BIH,1994,100.0,1730.1332,Europe
 Bosnia and Herzegovina,BIH,1995,100.0,2096.5781,Europe
 Bosnia and Herzegovina,BIH,1996,100.0,3802.2527,Europe
@@ -787,8 +660,6 @@ Bosnia and Herzegovina,BIH,2018,100.0,14267.606,Europe
 Bosnia and Herzegovina,BIH,2019,100.0,14851.738,Europe
 Bosnia and Herzegovina,BIH,2020,100.0,14587.57,Europe
 Bosnia and Herzegovina,BIH,2021,100.0,15893.156,Europe
-Bosnia and Herzegovina,BIH,2022,,16737.227,Europe
-Botswana,BWA,1990,,9164.757,Africa
 Botswana,BWA,1991,10.1,9569.34,Africa
 Botswana,BWA,1992,9.398227,9570.429,Africa
 Botswana,BWA,1993,11.6420765,9476.542,Africa
@@ -820,8 +691,6 @@ Botswana,BWA,2018,68.25474,14961.831,Africa
 Botswana,BWA,2019,70.095085,15117.685,Africa
 Botswana,BWA,2020,71.829124,13545.048,Africa
 Botswana,BWA,2021,73.72591,14906.897,Africa
-Botswana,BWA,2022,,15518.651,Africa
-Bouvet Island,BVT,2015,,,Antarctica
 Brazil,BRA,1990,87.47511,10401.843,South America
 Brazil,BRA,1991,90.606544,10328.957,South America
 Brazil,BRA,1992,88.80383,10103.788,South America
@@ -854,40 +723,6 @@ Brazil,BRA,2018,99.7,14619.591,South America
 Brazil,BRA,2019,99.8,14685.128,South America
 Brazil,BRA,2020,99.70271,14109.764,South America
 Brazil,BRA,2021,99.46212,14735.582,South America
-Brazil,BRA,2022,,15093.465,South America
-British Indian Ocean Territory,IOT,2015,,,Asia
-British Virgin Islands,VGB,1990,94.60656,,North America
-British Virgin Islands,VGB,1991,94.82474,,North America
-British Virgin Islands,VGB,1992,95.0428,,North America
-British Virgin Islands,VGB,1993,95.26019,,North America
-British Virgin Islands,VGB,1994,95.47622,,North America
-British Virgin Islands,VGB,1995,95.6902,,North America
-British Virgin Islands,VGB,1996,95.901474,,North America
-British Virgin Islands,VGB,1997,96.10934,,North America
-British Virgin Islands,VGB,1998,96.313126,,North America
-British Virgin Islands,VGB,1999,96.51208,,North America
-British Virgin Islands,VGB,2000,97.14577,,North America
-British Virgin Islands,VGB,2001,97.24842,,North America
-British Virgin Islands,VGB,2002,97.34253,,North America
-British Virgin Islands,VGB,2003,97.4351,,North America
-British Virgin Islands,VGB,2004,97.53313,,North America
-British Virgin Islands,VGB,2005,97.64363,,North America
-British Virgin Islands,VGB,2006,97.7734,,North America
-British Virgin Islands,VGB,2007,97.923996,,North America
-British Virgin Islands,VGB,2008,98.09182,,North America
-British Virgin Islands,VGB,2009,98.27303,,North America
-British Virgin Islands,VGB,2010,98.3,,North America
-British Virgin Islands,VGB,2011,98.66026,,North America
-British Virgin Islands,VGB,2012,98.858604,,North America
-British Virgin Islands,VGB,2013,99.05498,,North America
-British Virgin Islands,VGB,2014,99.246315,,North America
-British Virgin Islands,VGB,2015,100.0,,North America
-British Virgin Islands,VGB,2016,100.0,,North America
-British Virgin Islands,VGB,2017,100.0,,North America
-British Virgin Islands,VGB,2018,100.0,,North America
-British Virgin Islands,VGB,2019,100.0,,North America
-British Virgin Islands,VGB,2020,100.0,,North America
-British Virgin Islands,VGB,2021,100.0,,North America
 Brunei,BRN,1990,100.0,70358.73,Asia
 Brunei,BRN,1991,100.0,70439.055,Asia
 Brunei,BRN,1992,100.0,71781.1,Asia
@@ -920,7 +755,6 @@ Brunei,BRN,2018,100.0,59650.23,Asia
 Brunei,BRN,2019,100.0,61424.363,Asia
 Brunei,BRN,2020,100.0,61603.55,Asia
 Brunei,BRN,2021,100.0,60127.023,Asia
-Brunei,BRN,2022,,58669.902,Asia
 Bulgaria,BGR,1990,100.0,12508.321,Europe
 Bulgaria,BGR,1991,100.0,11565.936,Europe
 Bulgaria,BGR,1992,100.0,10840.605,Europe
@@ -953,10 +787,6 @@ Bulgaria,BGR,2018,98.69964,22196.02,Europe
 Bulgaria,BGR,2019,99.19501,23254.787,Europe
 Bulgaria,BGR,2020,99.7,22466.918,Europe
 Bulgaria,BGR,2021,99.8,24386.18,Europe
-Bulgaria,BGR,2022,,26961.291,Europe
-Burkina Faso,BFA,1990,,981.8448,Africa
-Burkina Faso,BFA,1991,,1044.174,Africa
-Burkina Faso,BFA,1992,,1021.14453,Africa
 Burkina Faso,BFA,1993,6.1,1030.5592,Africa
 Burkina Faso,BFA,1994,6.12501,1018.1222,Africa
 Burkina Faso,BFA,1995,6.625333,1049.0837,Africa
@@ -986,15 +816,6 @@ Burkina Faso,BFA,2018,14.4,2051.2185,Africa
 Burkina Faso,BFA,2019,17.6,2106.0361,Africa
 Burkina Faso,BFA,2020,18.46728,2089.5679,Africa
 Burkina Faso,BFA,2021,18.950687,2176.0933,Africa
-Burkina Faso,BFA,2022,,2158.8584,Africa
-Burundi,BDI,1990,,1175.155,Africa
-Burundi,BDI,1991,,1209.3882,Africa
-Burundi,BDI,1992,,1190.0674,Africa
-Burundi,BDI,1993,,1153.5413,Africa
-Burundi,BDI,1994,,1103.1674,Africa
-Burundi,BDI,1995,,956.49097,Africa
-Burundi,BDI,1996,,880.3094,Africa
-Burundi,BDI,1997,,867.28424,Africa
 Burundi,BDI,1998,3.9,891.6998,Africa
 Burundi,BDI,1999,2.0709493,862.00665,Africa
 Burundi,BDI,2000,2.5382779,837.3484,Africa
@@ -1019,12 +840,6 @@ Burundi,BDI,2018,9.509293,740.44824,Africa
 Burundi,BDI,2019,9.8394,729.65845,Africa
 Burundi,BDI,2020,9.1,711.3553,Africa
 Burundi,BDI,2021,10.233828,714.0667,Africa
-Burundi,BDI,2022,,708.1783,Africa
-Cambodia,KHM,1993,,1716.841,Asia
-Cambodia,KHM,1994,,1077.8984,Asia
-Cambodia,KHM,1995,,1153.9265,Asia
-Cambodia,KHM,1996,,1193.2308,Asia
-Cambodia,KHM,1997,,1214.0117,Asia
 Cambodia,KHM,1998,18.67,1244.981,Asia
 Cambodia,KHM,1999,8.820037,1376.0468,Asia
 Cambodia,KHM,2000,16.6,1486.107,Asia
@@ -1049,8 +864,6 @@ Cambodia,KHM,2018,80.70083,4217.6216,Asia
 Cambodia,KHM,2019,84.0,4464.2944,Asia
 Cambodia,KHM,2020,86.4,4276.1846,Asia
 Cambodia,KHM,2021,82.50172,4354.5654,Asia
-Cambodia,KHM,2022,,4533.8643,Asia
-Cameroon,CMR,1990,,3483.1868,Africa
 Cameroon,CMR,1991,29.0,3251.7551,Africa
 Cameroon,CMR,1992,32.697525,3059.7925,Africa
 Cameroon,CMR,1993,33.849194,2736.2827,Africa
@@ -1082,7 +895,6 @@ Cameroon,CMR,2018,62.2,3732.5012,Africa
 Cameroon,CMR,2019,63.176895,3756.5095,Africa
 Cameroon,CMR,2020,64.311874,3665.5105,Africa
 Cameroon,CMR,2021,65.44671,3689.359,Africa
-Cameroon,CMR,2022,,3723.5322,Africa
 Canada,CAN,1990,100.0,34544.625,North America
 Canada,CAN,1991,100.0,33404.55,North America
 Canada,CAN,1992,100.0,33305.434,North America
@@ -1115,17 +927,6 @@ Canada,CAN,2018,100.0,48946.246,North America
 Canada,CAN,2019,100.0,49169.12,North America
 Canada,CAN,2020,100.0,46193.176,North America
 Canada,CAN,2021,100.0,48356.332,North America
-Canada,CAN,2022,,49296.38,North America
-Cape Verde,CPV,1990,,1816.0248,Africa
-Cape Verde,CPV,1991,,1801.2177,Africa
-Cape Verde,CPV,1992,,1949.9609,Africa
-Cape Verde,CPV,1993,,2066.7307,Africa
-Cape Verde,CPV,1994,,2402.4348,Africa
-Cape Verde,CPV,1995,,2678.9822,Africa
-Cape Verde,CPV,1996,,2914.7578,Africa
-Cape Verde,CPV,1997,,3166.2805,Africa
-Cape Verde,CPV,1998,,3485.2446,Africa
-Cape Verde,CPV,1999,,3795.229,Africa
 Cape Verde,CPV,2000,58.560192,4255.7456,Africa
 Cape Verde,CPV,2001,60.26353,4278.758,Africa
 Cape Verde,CPV,2002,58.6,4434.2183,Africa
@@ -1148,23 +949,6 @@ Cape Verde,CPV,2018,90.19693,7314.3013,Africa
 Cape Verde,CPV,2019,91.4,7743.479,Africa
 Cape Verde,CPV,2020,93.746956,6073.3804,Africa
 Cape Verde,CPV,2021,95.521416,6356.745,Africa
-Cape Verde,CPV,2022,,7379.2476,Africa
-Cayman Islands,CYM,1990,99.846924,,North America
-Cayman Islands,CYM,1991,99.878815,,North America
-Cayman Islands,CYM,1992,99.91024,,North America
-Cayman Islands,CYM,1993,100.0,,North America
-Cayman Islands,CYM,1994,100.0,,North America
-Cayman Islands,CYM,1995,100.0,,North America
-Cayman Islands,CYM,1996,100.0,,North America
-Cayman Islands,CYM,1997,100.0,,North America
-Cayman Islands,CYM,1998,100.0,,North America
-Cayman Islands,CYM,1999,100.0,,North America
-Cayman Islands,CYM,2000,100.0,,North America
-Cayman Islands,CYM,2001,100.0,,North America
-Cayman Islands,CYM,2002,100.0,,North America
-Cayman Islands,CYM,2003,100.0,,North America
-Cayman Islands,CYM,2004,100.0,,North America
-Cayman Islands,CYM,2005,100.0,,North America
 Cayman Islands,CYM,2006,100.0,84778.38,North America
 Cayman Islands,CYM,2007,100.0,84870.016,North America
 Cayman Islands,CYM,2008,100.0,82125.12,North America
@@ -1181,12 +965,6 @@ Cayman Islands,CYM,2018,100.0,71046.02,North America
 Cayman Islands,CYM,2019,100.0,72432.5,North America
 Cayman Islands,CYM,2020,100.0,67530.695,North America
 Cayman Islands,CYM,2021,100.0,69400.67,North America
-Cayman Islands,CYM,2022,,71353.89,North America
-Central African Republic,CAF,1990,,1200.6134,Africa
-Central African Republic,CAF,1991,,1157.3817,Africa
-Central African Republic,CAF,1992,,1049.1194,Africa
-Central African Republic,CAF,1993,,1019.441,Africa
-Central African Republic,CAF,1994,,1036.2839,Africa
 Central African Republic,CAF,1995,3.0,1080.77,Africa
 Central African Republic,CAF,1996,3.3349156,1010.7439,Africa
 Central African Republic,CAF,1997,3.8302102,1035.1074,Africa
@@ -1214,14 +992,6 @@ Central African Republic,CAF,2018,14.643955,854.64746,Africa
 Central African Republic,CAF,2019,14.3,861.7668,Africa
 Central African Republic,CAF,2020,15.405713,847.765,Africa
 Central African Republic,CAF,2021,15.680277,838.19293,Africa
-Central African Republic,CAF,2022,,823.9822,Africa
-Chad,TCD,1990,,1027.2444,Africa
-Chad,TCD,1991,,1075.1841,Africa
-Chad,TCD,1992,,1113.2217,Africa
-Chad,TCD,1993,,917.1849,Africa
-Chad,TCD,1994,,987.9856,Africa
-Chad,TCD,1995,,957.2465,Africa
-Chad,TCD,1996,,936.1237,Africa
 Chad,TCD,1997,2.3,955.7835,Africa
 Chad,TCD,1998,2.4203873,987.98285,Africa
 Chad,TCD,1999,2.8062134,947.70355,Africa
@@ -1247,39 +1017,6 @@ Chad,TCD,2018,10.058806,1563.544,Africa
 Chad,TCD,2019,8.4,1561.9967,Africa
 Chad,TCD,2020,10.865677,1489.1868,Africa
 Chad,TCD,2021,11.2685585,1425.4945,Africa
-Chad,TCD,2022,,1412.6708,Africa
-Channel Islands,OWID_CIS,1990,100.0,,Europe
-Channel Islands,OWID_CIS,1991,100.0,,Europe
-Channel Islands,OWID_CIS,1992,100.0,,Europe
-Channel Islands,OWID_CIS,1993,100.0,,Europe
-Channel Islands,OWID_CIS,1994,100.0,,Europe
-Channel Islands,OWID_CIS,1995,100.0,,Europe
-Channel Islands,OWID_CIS,1996,100.0,,Europe
-Channel Islands,OWID_CIS,1997,100.0,,Europe
-Channel Islands,OWID_CIS,1998,100.0,,Europe
-Channel Islands,OWID_CIS,1999,100.0,,Europe
-Channel Islands,OWID_CIS,2000,100.0,,Europe
-Channel Islands,OWID_CIS,2001,100.0,,Europe
-Channel Islands,OWID_CIS,2002,100.0,,Europe
-Channel Islands,OWID_CIS,2003,100.0,,Europe
-Channel Islands,OWID_CIS,2004,100.0,,Europe
-Channel Islands,OWID_CIS,2005,100.0,,Europe
-Channel Islands,OWID_CIS,2006,100.0,,Europe
-Channel Islands,OWID_CIS,2007,100.0,,Europe
-Channel Islands,OWID_CIS,2008,100.0,,Europe
-Channel Islands,OWID_CIS,2009,100.0,,Europe
-Channel Islands,OWID_CIS,2010,100.0,,Europe
-Channel Islands,OWID_CIS,2011,100.0,,Europe
-Channel Islands,OWID_CIS,2012,100.0,,Europe
-Channel Islands,OWID_CIS,2013,100.0,,Europe
-Channel Islands,OWID_CIS,2014,100.0,,Europe
-Channel Islands,OWID_CIS,2015,100.0,,Europe
-Channel Islands,OWID_CIS,2016,100.0,,Europe
-Channel Islands,OWID_CIS,2017,100.0,,Europe
-Channel Islands,OWID_CIS,2018,100.0,,Europe
-Channel Islands,OWID_CIS,2019,100.0,,Europe
-Channel Islands,OWID_CIS,2020,100.0,,Europe
-Channel Islands,OWID_CIS,2021,100.0,,Europe
 Chile,CHL,1990,92.25742,9701.824,South America
 Chile,CHL,1991,94.781624,10290.04,South America
 Chile,CHL,1992,94.56006,11256.21,South America
@@ -1312,17 +1049,6 @@ Chile,CHL,2018,100.0,25071.99,South America
 Chile,CHL,2019,100.0,24809.861,South America
 Chile,CHL,2020,100.0,22970.55,South America
 Chile,CHL,2021,100.0,25412.752,South America
-Chile,CHL,2022,,25886.121,South America
-China,CHN,1990,,1423.8964,Asia
-China,CHN,1991,,1534.7053,Asia
-China,CHN,1992,,1731.6572,Asia
-China,CHN,1993,,1949.5343,Asia
-China,CHN,1994,,2178.924,Asia
-China,CHN,1995,,2391.477,Asia
-China,CHN,1996,,2601.3635,Asia
-China,CHN,1997,,2812.7112,Asia
-China,CHN,1998,,3004.4272,Asia
-China,CHN,1999,,3206.73,Asia
 China,CHN,2000,96.745056,3451.6792,Asia
 China,CHN,2001,96.98531,3712.3381,Asia
 China,CHN,2002,97.21702,4024.3557,Asia
@@ -1345,9 +1071,6 @@ China,CHN,2018,100.0,15133.996,Asia
 China,CHN,2019,100.0,15977.764,Asia
 China,CHN,2020,100.0,16296.609,Asia
 China,CHN,2021,100.0,17657.656,Asia
-China,CHN,2022,,18187.842,Asia
-Christmas Island,CXR,2015,,,Asia
-Cocos Islands,CCK,2015,,,Asia
 Colombia,COL,1990,89.9,8434.959,South America
 Colombia,COL,1991,91.836655,8430.223,South America
 Colombia,COL,1992,92.13266,8598.992,South America
@@ -1380,13 +1103,6 @@ Colombia,COL,2018,98.5,14426.435,South America
 Colombia,COL,2019,99.44426,14616.135,South America
 Colombia,COL,2020,99.721756,13358.298,South America
 Colombia,COL,2021,99.99911,14661.213,South America
-Colombia,COL,2022,,15616.752,South America
-Comoros,COM,1990,,2922.7122,Africa
-Comoros,COM,1991,,2695.256,Africa
-Comoros,COM,1992,,2856.0085,Africa
-Comoros,COM,1993,,2876.2837,Africa
-Comoros,COM,1994,,2666.0454,Africa
-Comoros,COM,1995,,2703.5845,Africa
 Comoros,COM,1996,28.9,2611.8218,Africa
 Comoros,COM,1997,32.762413,2659.274,Africa
 Comoros,COM,1998,35.09453,2636.3442,Africa
@@ -1413,17 +1129,6 @@ Comoros,COM,2018,81.01972,3294.832,Africa
 Comoros,COM,2019,83.32795,3290.6506,Africa
 Comoros,COM,2020,85.635345,3222.374,Africa
 Comoros,COM,2021,87.942604,3228.5269,Africa
-Comoros,COM,2022,,3245.7688,Africa
-Congo,COG,1990,,5080.052,Africa
-Congo,COG,1991,,5059.1323,Africa
-Congo,COG,1992,,5050.6626,Africa
-Congo,COG,1993,,4860.044,Africa
-Congo,COG,1994,,4463.9316,Africa
-Congo,COG,1995,,4518.118,Africa
-Congo,COG,1996,,4587.692,Africa
-Congo,COG,1997,,4466.354,Africa
-Congo,COG,1998,,4535.2803,Africa
-Congo,COG,1999,,4301.7456,Africa
 Congo,COG,2000,29.420082,4454.337,Africa
 Congo,COG,2001,30.327034,4453.1104,Africa
 Congo,COG,2002,31.22544,4549.416,Africa
@@ -1446,18 +1151,6 @@ Congo,COG,2018,47.037483,4144.949,Africa
 Congo,COG,2019,47.72882,4093.9907,Africa
 Congo,COG,2020,48.67913,3748.9326,Africa
 Congo,COG,2021,49.657204,3700.27,Africa
-Congo,COG,2022,,3670.1997,Africa
-Cook Islands,COK,2015,,,Oceania
-Costa Rica,CRI,1990,,9810.552,North America
-Costa Rica,CRI,1991,,9781.46,North America
-Costa Rica,CRI,1992,,10416.108,North America
-Costa Rica,CRI,1993,,10882.049,North America
-Costa Rica,CRI,1994,,11100.709,North America
-Costa Rica,CRI,1995,,11290.96,North America
-Costa Rica,CRI,1996,,11182.4795,North America
-Costa Rica,CRI,1997,,11532.463,North America
-Costa Rica,CRI,1998,,12092.476,North America
-Costa Rica,CRI,1999,,12343.711,North America
 Costa Rica,CRI,2000,96.94,12570.696,North America
 Costa Rica,CRI,2001,98.24978,12771.951,North America
 Costa Rica,CRI,2002,98.509186,12986.001,North America
@@ -1480,11 +1173,6 @@ Costa Rica,CRI,2018,99.7,20503.277,North America
 Costa Rica,CRI,2019,99.71,20818.062,North America
 Costa Rica,CRI,2020,99.9,19778.387,North America
 Costa Rica,CRI,2021,100.0,21220.162,North America
-Costa Rica,CRI,2022,,22070.922,North America
-Cote d'Ivoire,CIV,1990,,4351.4766,Africa
-Cote d'Ivoire,CIV,1991,,4191.812,Africa
-Cote d'Ivoire,CIV,1992,,4028.788,Africa
-Cote d'Ivoire,CIV,1993,,3876.656,Africa
 Cote d'Ivoire,CIV,1994,36.5,3770.5393,Africa
 Cote d'Ivoire,CIV,1995,43.631252,3898.7068,Africa
 Cote d'Ivoire,CIV,1996,44.648212,4055.0803,Africa
@@ -1513,12 +1201,6 @@ Cote d'Ivoire,CIV,2018,67.14866,4941.794,Africa
 Cote d'Ivoire,CIV,2019,68.56665,5132.342,Africa
 Cote d'Ivoire,CIV,2020,69.87833,5092.1636,Africa
 Cote d'Ivoire,CIV,2021,71.13685,5316.464,Africa
-Cote d'Ivoire,CIV,2022,,5537.3696,Africa
-Croatia,HRV,1990,100.0,,Europe
-Croatia,HRV,1991,100.0,,Europe
-Croatia,HRV,1992,100.0,,Europe
-Croatia,HRV,1993,100.0,,Europe
-Croatia,HRV,1994,100.0,,Europe
 Croatia,HRV,1995,100.0,15087.664,Europe
 Croatia,HRV,1996,100.0,16221.015,Europe
 Croatia,HRV,1997,100.0,17305.969,Europe
@@ -1546,39 +1228,6 @@ Croatia,HRV,2018,100.0,28288.168,Europe
 Croatia,HRV,2019,100.0,29412.422,Europe
 Croatia,HRV,2020,100.0,27002.2,Europe
 Croatia,HRV,2021,100.0,32060.504,Europe
-Croatia,HRV,2022,,34302.348,Europe
-Cuba,CUB,2000,97.0,,North America
-Cuba,CUB,2001,96.21025,,North America
-Cuba,CUB,2002,95.5,,North America
-Cuba,CUB,2003,96.477,,North America
-Cuba,CUB,2004,96.61507,,North America
-Cuba,CUB,2005,96.76561,,North America
-Cuba,CUB,2006,96.93541,,North America
-Cuba,CUB,2007,97.126045,,North America
-Cuba,CUB,2008,97.33391,,North America
-Cuba,CUB,2009,97.55515,,North America
-Cuba,CUB,2010,97.78596,,North America
-Cuba,CUB,2011,98.02246,,North America
-Cuba,CUB,2012,98.26083,,North America
-Cuba,CUB,2013,98.49724,,North America
-Cuba,CUB,2014,98.728615,,North America
-Cuba,CUB,2015,98.95501,,North America
-Cuba,CUB,2016,99.17726,,North America
-Cuba,CUB,2017,99.39619,,North America
-Cuba,CUB,2018,99.612625,,North America
-Cuba,CUB,2019,99.8,,North America
-Cuba,CUB,2020,99.93264,,North America
-Cuba,CUB,2021,100.0,,North America
-Curacao,CUW,1990,100.0,,North America
-Curacao,CUW,1991,100.0,,North America
-Curacao,CUW,1992,100.0,,North America
-Curacao,CUW,1993,100.0,,North America
-Curacao,CUW,1994,100.0,,North America
-Curacao,CUW,1995,100.0,,North America
-Curacao,CUW,1996,100.0,,North America
-Curacao,CUW,1997,100.0,,North America
-Curacao,CUW,1998,100.0,,North America
-Curacao,CUW,1999,100.0,,North America
 Curacao,CUW,2000,99.96133,28613.9,North America
 Curacao,CUW,2001,99.920135,29474.59,North America
 Curacao,CUW,2002,99.868095,29555.438,North America
@@ -1601,7 +1250,6 @@ Curacao,CUW,2018,100.0,24401.684,North America
 Curacao,CUW,2019,100.0,23903.621,North America
 Curacao,CUW,2020,100.0,19907.123,North America
 Curacao,CUW,2021,100.0,21090.889,North America
-Curacao,CUW,2022,,23114.951,North America
 Cyprus,CYP,1990,100.0,25232.2,Europe
 Cyprus,CYP,1991,100.0,24769.252,Europe
 Cyprus,CYP,1992,100.0,26386.148,Europe
@@ -1634,7 +1282,6 @@ Cyprus,CYP,2018,100.0,39977.312,Europe
 Cyprus,CYP,2019,100.0,41741.805,Europe
 Cyprus,CYP,2020,100.0,39871.87,Europe
 Cyprus,CYP,2021,100.0,43417.27,Europe
-Cyprus,CYP,2022,,44996.316,Europe
 Czechia,CZE,1990,100.0,23585.182,Europe
 Czechia,CZE,1991,100.0,20895.879,Europe
 Czechia,CZE,1992,100.0,20768.79,Europe
@@ -1667,18 +1314,6 @@ Czechia,CZE,2018,100.0,39941.285,Europe
 Czechia,CZE,2019,100.0,40989.727,Europe
 Czechia,CZE,2020,100.0,38639.98,Europe
 Czechia,CZE,2021,100.0,40744.457,Europe
-Czechia,CZE,2022,,41052.348,Europe
-Czechoslovakia,OWID_CZS,2015,,,Europe
-Democratic Republic of Congo,COD,1990,,1750.1697,Africa
-Democratic Republic of Congo,COD,1991,,1550.7637,Africa
-Democratic Republic of Congo,COD,1992,,1346.7472,Africa
-Democratic Republic of Congo,COD,1993,,1128.5931,Africa
-Democratic Republic of Congo,COD,1994,,1034.1234,Africa
-Democratic Republic of Congo,COD,1995,,998.6883,Africa
-Democratic Republic of Congo,COD,1996,,969.80865,Africa
-Democratic Republic of Congo,COD,1997,,900.9678,Africa
-Democratic Republic of Congo,COD,1998,,865.6066,Africa
-Democratic Republic of Congo,COD,1999,,805.2779,Africa
 Democratic Republic of Congo,COD,2000,6.7,728.2072,Africa
 Democratic Republic of Congo,COD,2001,7.1113477,691.70917,Africa
 Democratic Republic of Congo,COD,2002,7.726086,690.6596,Africa
@@ -1701,7 +1336,6 @@ Democratic Republic of Congo,COD,2018,18.683859,1048.2465,Africa
 Democratic Republic of Congo,COD,2019,19.1,1059.8921,Africa
 Democratic Republic of Congo,COD,2020,20.07378,1044.0712,Africa
 Democratic Republic of Congo,COD,2021,20.768187,1073.6433,Africa
-Democratic Republic of Congo,COD,2022,,1132.6542,Africa
 Denmark,DNK,1990,100.0,39027.98,Europe
 Denmark,DNK,1991,100.0,39469.324,Europe
 Denmark,DNK,1992,100.0,40108.89,Europe
@@ -1734,24 +1368,6 @@ Denmark,DNK,2018,100.0,56178.773,Europe
 Denmark,DNK,2019,100.0,56813.965,Europe
 Denmark,DNK,2020,100.0,55275.062,Europe
 Denmark,DNK,2021,100.0,58802.96,Europe
-Denmark,DNK,2022,,59935.12,Europe
-Djibouti,DJI,1996,62.0,,Africa
-Djibouti,DJI,1997,56.294495,,Africa
-Djibouti,DJI,1998,56.322254,,Africa
-Djibouti,DJI,1999,56.34517,,Africa
-Djibouti,DJI,2000,55.95718,,Africa
-Djibouti,DJI,2001,56.119118,,Africa
-Djibouti,DJI,2002,49.7,,Africa
-Djibouti,DJI,2003,56.424362,,Africa
-Djibouti,DJI,2004,56.581684,,Africa
-Djibouti,DJI,2005,56.751476,,Africa
-Djibouti,DJI,2006,55.5,,Africa
-Djibouti,DJI,2007,57.15041,,Africa
-Djibouti,DJI,2008,57.37752,,Africa
-Djibouti,DJI,2009,57.618023,,Africa
-Djibouti,DJI,2010,57.86807,,Africa
-Djibouti,DJI,2011,58.123825,,Africa
-Djibouti,DJI,2012,54.6,,Africa
 Djibouti,DJI,2013,58.637104,3664.268,Africa
 Djibouti,DJI,2014,58.88773,3854.27,Africa
 Djibouti,DJI,2015,59.133377,4073.6226,Africa
@@ -1761,15 +1377,6 @@ Djibouti,DJI,2018,62.408333,4589.3784,Africa
 Djibouti,DJI,2019,64.7,4768.113,Africa
 Djibouti,DJI,2020,64.50115,4759.259,Africa
 Djibouti,DJI,2021,65.44125,4905.192,Africa
-Djibouti,DJI,2022,,4989.4087,Africa
-Dominica,DMA,1990,,7855.821,North America
-Dominica,DMA,1991,,8000.8506,North America
-Dominica,DMA,1992,,8166.647,North America
-Dominica,DMA,1993,,8336.286,North America
-Dominica,DMA,1994,,8335.666,North America
-Dominica,DMA,1995,,8587.937,North America
-Dominica,DMA,1996,,8859.004,North America
-Dominica,DMA,1997,,9063.768,North America
 Dominica,DMA,1998,75.0,9425.365,North America
 Dominica,DMA,1999,79.62192,9491.783,North America
 Dominica,DMA,2000,81.05434,9763.941,North America
@@ -1794,8 +1401,6 @@ Dominica,DMA,2018,99.56813,11849.302,North America
 Dominica,DMA,2019,99.91923,12395.421,North America
 Dominica,DMA,2020,99.997215,10255.859,North America
 Dominica,DMA,2021,100.0,10899.414,North America
-Dominica,DMA,2022,,11463.598,North America
-Dominican Republic,DOM,1990,,6207.1123,North America
 Dominican Republic,DOM,1991,78.2,6137.1045,North America
 Dominican Republic,DOM,1992,82.485405,6688.8706,North America
 Dominican Republic,DOM,1993,83.25549,7040.486,North America
@@ -1827,41 +1432,6 @@ Dominican Republic,DOM,2018,98.9,17484.121,North America
 Dominican Republic,DOM,2019,99.0,18171.06,North America
 Dominican Republic,DOM,2020,100.0,16768.426,North America
 Dominican Republic,DOM,2021,98.1,18626.078,North America
-Dominican Republic,DOM,2022,,19338.016,North America
-East Asia and Pacific (WB),,1990,,5159.899,Other
-East Asia and Pacific (WB),,1991,,5362.987,Other
-East Asia and Pacific (WB),,1992,,5565.1743,Other
-East Asia and Pacific (WB),,1993,,5775.22,Other
-East Asia and Pacific (WB),,1994,,6047.481,Other
-East Asia and Pacific (WB),,1995,,6354.8325,Other
-East Asia and Pacific (WB),,1996,,6668.2363,Other
-East Asia and Pacific (WB),,1997,,6882.573,Other
-East Asia and Pacific (WB),,1998,,6792.997,Other
-East Asia and Pacific (WB),,1999,,6997.755,Other
-East Asia and Pacific (WB),,2000,92.1096,7330.632,Other
-East Asia and Pacific (WB),,2001,92.55371,7531.284,Other
-East Asia and Pacific (WB),,2002,92.99924,7835.25,Other
-East Asia and Pacific (WB),,2003,93.21625,8199.489,Other
-East Asia and Pacific (WB),,2004,93.95496,8653.941,Other
-East Asia and Pacific (WB),,2005,93.6178,9140.366,Other
-East Asia and Pacific (WB),,2006,94.66343,9711.117,Other
-East Asia and Pacific (WB),,2007,94.65526,10418.688,Other
-East Asia and Pacific (WB),,2008,95.22039,10853.389,Other
-East Asia and Pacific (WB),,2009,94.998566,11128.493,Other
-East Asia and Pacific (WB),,2010,95.55725,11940.857,Other
-East Asia and Pacific (WB),,2011,96.0328,12556.054,Other
-East Asia and Pacific (WB),,2012,96.25356,13151.834,Other
-East Asia and Pacific (WB),,2013,96.4847,13772.495,Other
-East Asia and Pacific (WB),,2014,96.65041,14369.254,Other
-East Asia and Pacific (WB),,2015,96.96405,14982.719,Other
-East Asia and Pacific (WB),,2016,97.04278,15617.488,Other
-East Asia and Pacific (WB),,2017,97.70247,16337.971,Other
-East Asia and Pacific (WB),,2018,97.66624,17065.322,Other
-East Asia and Pacific (WB),,2019,97.872116,17709.883,Other
-East Asia and Pacific (WB),,2020,97.79571,17601.184,Other
-East Asia and Pacific (WB),,2021,98.15589,18645.273,Other
-East Asia and Pacific (WB),,2022,,19194.568,Other
-East Germany,OWID_GDR,2015,,,Europe
 East Timor,TLS,2000,17.83436,2319.651,Asia
 East Timor,TLS,2001,25.6,2654.6958,Asia
 East Timor,TLS,2002,24.098553,2431.4329,Asia
@@ -1884,12 +1454,6 @@ East Timor,TLS,2018,85.15628,3075.5103,Asia
 East Timor,TLS,2019,90.632484,3740.4346,Asia
 East Timor,TLS,2020,96.00237,4861.6934,Asia
 East Timor,TLS,2021,100.0,5038.926,Asia
-East Timor,TLS,2022,,3943.0925,Asia
-Ecuador,ECU,1990,,8120.001,South America
-Ecuador,ECU,1991,,8281.087,South America
-Ecuador,ECU,1992,,8279.568,South America
-Ecuador,ECU,1993,,8277.154,South America
-Ecuador,ECU,1994,,8466.249,South America
 Ecuador,ECU,1995,89.83017,8496.696,South America
 Ecuador,ECU,1996,92.05138,8487.086,South America
 Ecuador,ECU,1997,92.42982,8697.354,South America
@@ -1917,9 +1481,6 @@ Ecuador,ECU,2018,98.7,11608.419,South America
 Ecuador,ECU,2019,99.09,11390.217,South America
 Ecuador,ECU,2020,98.85,10356.975,South America
 Ecuador,ECU,2021,100.0,10668.758,South America
-Ecuador,ECU,2022,,10859.218,South America
-Egypt,EGY,1990,,6291.7056,Africa
-Egypt,EGY,1991,,6210.9263,Africa
 Egypt,EGY,1992,93.4,6339.669,Africa
 Egypt,EGY,1993,95.39224,6375.518,Africa
 Egypt,EGY,1994,95.64854,6481.666,Africa
@@ -1950,8 +1511,6 @@ Egypt,EGY,2018,100.0,11363.318,Africa
 Egypt,EGY,2019,100.0,11780.962,Africa
 Egypt,EGY,2020,100.0,11989.6,Africa
 Egypt,EGY,2021,100.0,12180.451,Africa
-Egypt,EGY,2022,,12780.76,Africa
-El Salvador,SLV,1990,,5190.0376,North America
 El Salvador,SLV,1991,69.60788,5177.017,North America
 El Salvador,SLV,1992,75.33219,5449.6006,North America
 El Salvador,SLV,1993,76.27614,5685.996,North America
@@ -1983,17 +1542,6 @@ El Salvador,SLV,2018,97.0,8812.925,North America
 El Salvador,SLV,2019,97.36,9015.664,North America
 El Salvador,SLV,2020,99.72254,8294.537,North America
 El Salvador,SLV,2021,97.89,9190.174,North America
-El Salvador,SLV,2022,,9396.014,North America
-Equatorial Guinea,GNQ,1990,,936.41974,Africa
-Equatorial Guinea,GNQ,1991,,893.09735,Africa
-Equatorial Guinea,GNQ,1992,,1159.7386,Africa
-Equatorial Guinea,GNQ,1993,,1240.9086,Africa
-Equatorial Guinea,GNQ,1994,,1394.7865,Africa
-Equatorial Guinea,GNQ,1995,,1578.0494,Africa
-Equatorial Guinea,GNQ,1996,,2530.1987,Africa
-Equatorial Guinea,GNQ,1997,,6084.623,Africa
-Equatorial Guinea,GNQ,1998,,7242.225,Africa
-Equatorial Guinea,GNQ,1999,,8749.426,Africa
 Equatorial Guinea,GNQ,2000,64.82559,9890.817,Africa
 Equatorial Guinea,GNQ,2001,64.86227,15389.156,Africa
 Equatorial Guinea,GNQ,2002,64.8904,17534.848,Africa
@@ -2016,39 +1564,6 @@ Equatorial Guinea,GNQ,2018,66.46249,17764.969,Africa
 Equatorial Guinea,GNQ,2019,66.57125,16240.37,Africa
 Equatorial Guinea,GNQ,2020,66.67919,15045.528,Africa
 Equatorial Guinea,GNQ,2021,66.786995,14730.601,Africa
-Equatorial Guinea,GNQ,2022,,14918.297,Africa
-Eritrea,ERI,1995,22.9,,Africa
-Eritrea,ERI,1996,24.755447,,Africa
-Eritrea,ERI,1997,25.87461,,Africa
-Eritrea,ERI,1998,26.989695,,Africa
-Eritrea,ERI,1999,28.099936,,Africa
-Eritrea,ERI,2000,29.259697,,Africa
-Eritrea,ERI,2001,30.310326,,Africa
-Eritrea,ERI,2002,32.2,,Africa
-Eritrea,ERI,2003,32.392952,,Africa
-Eritrea,ERI,2004,33.43896,,Africa
-Eritrea,ERI,2005,34.497448,,Africa
-Eritrea,ERI,2006,35.575184,,Africa
-Eritrea,ERI,2007,36.673763,,Africa
-Eritrea,ERI,2008,37.789566,,Africa
-Eritrea,ERI,2009,38.91876,,Africa
-Eritrea,ERI,2010,40.057495,,Africa
-Eritrea,ERI,2011,41.201942,,Africa
-Eritrea,ERI,2012,42.34826,,Africa
-Eritrea,ERI,2013,43.492603,,Africa
-Eritrea,ERI,2014,44.63192,,Africa
-Eritrea,ERI,2015,45.76626,,Africa
-Eritrea,ERI,2016,46.896442,,Africa
-Eritrea,ERI,2017,48.02331,,Africa
-Eritrea,ERI,2018,49.14769,,Africa
-Eritrea,ERI,2019,50.27041,,Africa
-Eritrea,ERI,2020,51.3923,,Africa
-Eritrea,ERI,2021,52.51405,,Africa
-Estonia,EST,1990,100.0,,Europe
-Estonia,EST,1991,100.0,,Europe
-Estonia,EST,1992,100.0,,Europe
-Estonia,EST,1993,100.0,,Europe
-Estonia,EST,1994,100.0,,Europe
 Estonia,EST,1995,100.0,12730.718,Europe
 Estonia,EST,1996,100.0,13558.568,Europe
 Estonia,EST,1997,100.0,15503.845,Europe
@@ -2076,17 +1591,6 @@ Estonia,EST,2018,100.0,34979.867,Europe
 Estonia,EST,2019,100.0,36153.434,Europe
 Estonia,EST,2020,100.0,35883.266,Europe
 Estonia,EST,2021,100.0,38717.695,Europe
-Estonia,EST,2022,,37711.82,Europe
-Eswatini,SWZ,1990,,4909.266,Africa
-Eswatini,SWZ,1991,,4795.2285,Africa
-Eswatini,SWZ,1992,,4760.2476,Africa
-Eswatini,SWZ,1993,,4762.4976,Africa
-Eswatini,SWZ,1994,,4875.368,Africa
-Eswatini,SWZ,1995,,5111.515,Africa
-Eswatini,SWZ,1996,,5198.788,Africa
-Eswatini,SWZ,1997,,5267.327,Africa
-Eswatini,SWZ,1998,,5326.936,Africa
-Eswatini,SWZ,1999,,5412.978,Africa
 Eswatini,SWZ,2000,20.428612,5443.4395,Africa
 Eswatini,SWZ,2001,26.9,5443.279,Africa
 Eswatini,SWZ,2002,25.94138,5630.804,Africa
@@ -2109,17 +1613,6 @@ Eswatini,SWZ,2018,73.96111,8343.923,Africa
 Eswatini,SWZ,2019,77.030396,8501.267,Africa
 Eswatini,SWZ,2020,79.99336,8290.409,Africa
 Eswatini,SWZ,2021,82.903175,9086.701,Africa
-Eswatini,SWZ,2022,,9058.583,Africa
-Ethiopia,ETH,1990,,767.1704,Africa
-Ethiopia,ETH,1991,,683.0347,Africa
-Ethiopia,ETH,1992,,598.9227,Africa
-Ethiopia,ETH,1993,,655.2132,Africa
-Ethiopia,ETH,1994,,653.8867,Africa
-Ethiopia,ETH,1995,,671.541,Africa
-Ethiopia,ETH,1996,,731.18463,Africa
-Ethiopia,ETH,1997,,730.875,Africa
-Ethiopia,ETH,1998,,684.33264,Africa
-Ethiopia,ETH,1999,,698.1934,Africa
 Ethiopia,ETH,2000,12.7,719.00446,Africa
 Ethiopia,ETH,2001,10.219621,756.2726,Africa
 Ethiopia,ETH,2002,11.876158,745.5378,Africa
@@ -2142,114 +1635,6 @@ Ethiopia,ETH,2018,44.844326,2067.4565,Africa
 Ethiopia,ETH,2019,48.04762,2181.659,Africa
 Ethiopia,ETH,2020,51.144596,2253.2358,Africa
 Ethiopia,ETH,2021,54.188416,2319.1611,Africa
-Ethiopia,ETH,2022,,2381.1658,Africa
-Ethiopia (former),OWID_ERE,2015,,,Africa
-Europe and Central Asia (WB),,1990,100.0,23525.43,Other
-Europe and Central Asia (WB),,1991,100.0,23241.541,Other
-Europe and Central Asia (WB),,1992,100.0,22630.271,Other
-Europe and Central Asia (WB),,1993,100.0,22160.625,Other
-Europe and Central Asia (WB),,1994,100.0,21967.291,Other
-Europe and Central Asia (WB),,1995,99.99787,22278.43,Other
-Europe and Central Asia (WB),,1996,99.9715,22566.328,Other
-Europe and Central Asia (WB),,1997,99.96528,23178.365,Other
-Europe and Central Asia (WB),,1998,99.967285,23636.746,Other
-Europe and Central Asia (WB),,1999,99.87135,24274.678,Other
-Europe and Central Asia (WB),,2000,99.117004,25399.203,Other
-Europe and Central Asia (WB),,2001,99.154,25987.373,Other
-Europe and Central Asia (WB),,2002,99.199036,26476.59,Other
-Europe and Central Asia (WB),,2003,99.21672,27054.844,Other
-Europe and Central Asia (WB),,2004,99.23165,28025.318,Other
-Europe and Central Asia (WB),,2005,99.283676,28839.598,Other
-Europe and Central Asia (WB),,2006,99.29733,30048.768,Other
-Europe and Central Asia (WB),,2007,99.35905,31242.227,Other
-Europe and Central Asia (WB),,2008,99.40693,31604.639,Other
-Europe and Central Asia (WB),,2009,99.47467,29983.068,Other
-Europe and Central Asia (WB),,2010,99.65819,30728.217,Other
-Europe and Central Asia (WB),,2011,99.66438,31520.594,Other
-Europe and Central Asia (WB),,2012,99.825874,31624.111,Other
-Europe and Central Asia (WB),,2013,99.84942,31838.498,Other
-Europe and Central Asia (WB),,2014,99.87698,32258.855,Other
-Europe and Central Asia (WB),,2015,99.16753,32689.861,Other
-Europe and Central Asia (WB),,2016,99.83231,33155.633,Other
-Europe and Central Asia (WB),,2017,99.96275,34060.496,Other
-Europe and Central Asia (WB),,2018,99.971016,34756.445,Other
-Europe and Central Asia (WB),,2019,99.95029,35332.418,Other
-Europe and Central Asia (WB),,2020,99.97546,33528.645,Other
-Europe and Central Asia (WB),,2021,99.98759,35683.46,Other
-Europe and Central Asia (WB),,2022,,36711.48,Other
-European Union (27),,1990,100.0,28535.203,Other
-European Union (27),,1991,100.0,28838.154,Other
-European Union (27),,1992,100.0,29038.877,Other
-European Union (27),,1993,100.0,28798.367,Other
-European Union (27),,1994,100.0,29493.69,Other
-European Union (27),,1995,100.0,30260.861,Other
-European Union (27),,1996,100.0,30821.996,Other
-European Union (27),,1997,100.0,31565.32,Other
-European Union (27),,1998,100.0,32459.525,Other
-European Union (27),,1999,100.0,33330.97,Other
-European Union (27),,2000,99.47614,34590.848,Other
-European Union (27),,2001,99.50605,35327.445,Other
-European Union (27),,2002,99.53443,35691.297,Other
-European Union (27),,2003,99.55468,35952.965,Other
-European Union (27),,2004,99.57254,36810.74,Other
-European Union (27),,2005,99.59118,37443.824,Other
-European Union (27),,2006,99.61436,38689.645,Other
-European Union (27),,2007,99.64668,39845.703,Other
-European Union (27),,2008,99.67895,40066.02,Other
-European Union (27),,2009,99.72748,38261.906,Other
-European Union (27),,2010,99.75505,38990.766,Other
-European Union (27),,2011,99.78164,39795.496,Other
-European Union (27),,2012,99.8104,39457.727,Other
-European Union (27),,2013,99.83721,39321.195,Other
-European Union (27),,2014,99.8632,39883.344,Other
-European Union (27),,2015,99.88965,40748.29,Other
-European Union (27),,2016,99.91761,41485.742,Other
-European Union (27),,2017,99.969315,42665.477,Other
-European Union (27),,2018,99.97184,43556.344,Other
-European Union (27),,2019,99.98745,44370.934,Other
-European Union (27),,2020,99.99515,41824.28,Other
-European Union (27),,2021,99.996925,44410.605,Other
-European Union (27),,2022,,45977.418,Other
-Faeroe Islands,,1990,100.0,,Other
-Faeroe Islands,,1991,100.0,,Other
-Faeroe Islands,,1992,100.0,,Other
-Faeroe Islands,,1993,100.0,,Other
-Faeroe Islands,,1994,100.0,,Other
-Faeroe Islands,,1995,100.0,,Other
-Faeroe Islands,,1996,100.0,,Other
-Faeroe Islands,,1997,100.0,,Other
-Faeroe Islands,,1998,100.0,,Other
-Faeroe Islands,,1999,100.0,,Other
-Faeroe Islands,,2000,100.0,,Other
-Faeroe Islands,,2001,100.0,,Other
-Faeroe Islands,,2002,100.0,,Other
-Faeroe Islands,,2003,100.0,,Other
-Faeroe Islands,,2004,100.0,,Other
-Faeroe Islands,,2005,100.0,,Other
-Faeroe Islands,,2006,100.0,,Other
-Faeroe Islands,,2007,100.0,,Other
-Faeroe Islands,,2008,100.0,,Other
-Faeroe Islands,,2009,100.0,,Other
-Faeroe Islands,,2010,100.0,,Other
-Faeroe Islands,,2011,100.0,,Other
-Faeroe Islands,,2012,100.0,,Other
-Faeroe Islands,,2013,100.0,,Other
-Faeroe Islands,,2014,100.0,,Other
-Faeroe Islands,,2015,100.0,,Other
-Faeroe Islands,,2016,100.0,,Other
-Faeroe Islands,,2017,100.0,,Other
-Faeroe Islands,,2018,100.0,,Other
-Faeroe Islands,,2019,100.0,,Other
-Faeroe Islands,,2020,100.0,,Other
-Faeroe Islands,,2021,100.0,,Other
-Falkland Islands,FLK,2015,,,South America
-Faroe Islands,FRO,2015,,,Europe
-Fiji,FJI,1990,,7889.8784,Oceania
-Fiji,FJI,1991,,7633.7935,Oceania
-Fiji,FJI,1992,,8078.5903,Oceania
-Fiji,FJI,1993,,8226.214,Oceania
-Fiji,FJI,1994,,8628.203,Oceania
-Fiji,FJI,1995,,8827.8,Oceania
 Fiji,FJI,1996,66.9,9201.685,Oceania
 Fiji,FJI,1997,71.771515,8909.386,Oceania
 Fiji,FJI,1998,73.089584,8921.256,Oceania
@@ -2276,7 +1661,6 @@ Fiji,FJI,2018,95.06063,13311.167,Oceania
 Fiji,FJI,2019,96.09405,13241.546,Oceania
 Fiji,FJI,2020,97.12664,10961.847,Oceania
 Fiji,FJI,2021,92.1,10379.567,Oceania
-Fiji,FJI,2022,,12388.108,Oceania
 Finland,FIN,1990,100.0,32939.383,Europe
 Finland,FIN,1991,100.0,30831.61,Europe
 Finland,FIN,1992,100.0,29648.744,Europe
@@ -2309,7 +1693,6 @@ Finland,FIN,2018,100.0,48048.523,Europe
 Finland,FIN,2019,100.0,48583.434,Europe
 Finland,FIN,2020,100.0,47371.22,Europe
 Finland,FIN,2021,100.0,48614.82,Europe
-Finland,FIN,2022,,49275.152,Europe
 France,FRA,1990,100.0,33843.02,Europe
 France,FRA,1991,100.0,33898.234,Europe
 France,FRA,1992,100.0,34269.285,Europe
@@ -2342,51 +1725,6 @@ France,FRA,2018,100.0,45245.96,Europe
 France,FRA,2019,100.0,45922.793,Europe
 France,FRA,2020,100.0,42344.945,Europe
 France,FRA,2021,100.0,44941.438,Europe
-France,FRA,2022,,45904.41,Europe
-French Guiana,GUF,2015,,,South America
-French Polynesia,PYF,1990,100.0,,Oceania
-French Polynesia,PYF,1991,100.0,,Oceania
-French Polynesia,PYF,1992,100.0,,Oceania
-French Polynesia,PYF,1993,100.0,,Oceania
-French Polynesia,PYF,1994,100.0,,Oceania
-French Polynesia,PYF,1995,100.0,,Oceania
-French Polynesia,PYF,1996,100.0,,Oceania
-French Polynesia,PYF,1997,100.0,,Oceania
-French Polynesia,PYF,1998,100.0,,Oceania
-French Polynesia,PYF,1999,100.0,,Oceania
-French Polynesia,PYF,2000,100.0,,Oceania
-French Polynesia,PYF,2001,100.0,,Oceania
-French Polynesia,PYF,2002,100.0,,Oceania
-French Polynesia,PYF,2003,100.0,,Oceania
-French Polynesia,PYF,2004,100.0,,Oceania
-French Polynesia,PYF,2005,100.0,,Oceania
-French Polynesia,PYF,2006,100.0,,Oceania
-French Polynesia,PYF,2007,100.0,,Oceania
-French Polynesia,PYF,2008,100.0,,Oceania
-French Polynesia,PYF,2009,100.0,,Oceania
-French Polynesia,PYF,2010,100.0,,Oceania
-French Polynesia,PYF,2011,100.0,,Oceania
-French Polynesia,PYF,2012,100.0,,Oceania
-French Polynesia,PYF,2013,100.0,,Oceania
-French Polynesia,PYF,2014,100.0,,Oceania
-French Polynesia,PYF,2015,100.0,,Oceania
-French Polynesia,PYF,2016,100.0,,Oceania
-French Polynesia,PYF,2017,100.0,,Oceania
-French Polynesia,PYF,2018,100.0,,Oceania
-French Polynesia,PYF,2019,100.0,,Oceania
-French Polynesia,PYF,2020,100.0,,Oceania
-French Polynesia,PYF,2021,100.0,,Oceania
-French Southern Territories,ATF,2015,,,Antarctica
-Gabon,GAB,1990,,17559.006,Africa
-Gabon,GAB,1991,,18134.816,Africa
-Gabon,GAB,1992,,17109.402,Africa
-Gabon,GAB,1993,,17318.162,Africa
-Gabon,GAB,1994,,17497.65,Africa
-Gabon,GAB,1995,,17903.781,Africa
-Gabon,GAB,1996,,18091.047,Africa
-Gabon,GAB,1997,,18655.652,Africa
-Gabon,GAB,1998,,18825.361,Africa
-Gabon,GAB,1999,,16716.371,Africa
 Gabon,GAB,2000,73.6,15987.089,Africa
 Gabon,GAB,2001,77.16643,15907.864,Africa
 Gabon,GAB,2002,77.83032,15453.05,Africa
@@ -2409,10 +1747,6 @@ Gabon,GAB,2018,89.57461,14254.462,Africa
 Gabon,GAB,2019,90.319145,14478.002,Africa
 Gabon,GAB,2020,91.06284,13903.289,Africa
 Gabon,GAB,2021,91.806404,13822.509,Africa
-Gabon,GAB,2022,,13939.787,Africa
-Gambia,GMB,1990,,2080.1582,Africa
-Gambia,GMB,1991,,2059.832,Africa
-Gambia,GMB,1992,,2047.0276,Africa
 Gambia,GMB,1993,17.7,2034.4016,Africa
 Gambia,GMB,1994,18.25005,1974.0558,Africa
 Gambia,GMB,1995,19.921444,1933.3098,Africa
@@ -2442,17 +1776,6 @@ Gambia,GMB,2018,60.3,2012.5908,Africa
 Gambia,GMB,2019,62.1,2083.309,Africa
 Gambia,GMB,2020,62.234,2042.6202,Africa
 Gambia,GMB,2021,63.69736,2076.5664,Africa
-Gambia,GMB,2022,,2113.6147,Africa
-Georgia,GEO,1990,,11135.463,Asia
-Georgia,GEO,1991,,8724.29,Asia
-Georgia,GEO,1992,,4769.9966,Asia
-Georgia,GEO,1993,,3346.568,Asia
-Georgia,GEO,1994,,3045.0425,Asia
-Georgia,GEO,1995,,3243.8462,Asia
-Georgia,GEO,1996,,3740.4854,Asia
-Georgia,GEO,1997,,4268.6953,Asia
-Georgia,GEO,1998,,4511.489,Asia
-Georgia,GEO,1999,,4737.4053,Asia
 Georgia,GEO,2000,99.83503,4919.232,Asia
 Georgia,GEO,2001,99.80056,5236.2227,Asia
 Georgia,GEO,2002,99.9,5572.622,Asia
@@ -2475,7 +1798,6 @@ Georgia,GEO,2018,99.9,14253.409,Asia
 Georgia,GEO,2019,100.0,14989.258,Asia
 Georgia,GEO,2020,100.0,13966.326,Asia
 Georgia,GEO,2021,100.0,15486.659,Asia
-Georgia,GEO,2022,,17078.342,Asia
 Germany,DEU,1990,100.0,36699.48,Europe
 Germany,DEU,1991,100.0,38294.156,Europe
 Germany,DEU,1992,100.0,38734.938,Europe
@@ -2508,10 +1830,6 @@ Germany,DEU,2018,100.0,53431.395,Europe
 Germany,DEU,2019,100.0,53884.375,Europe
 Germany,DEU,2020,100.0,51780.027,Europe
 Germany,DEU,2021,100.0,53395.65,Europe
-Germany,DEU,2022,,53969.625,Europe
-Ghana,GHA,1990,,2299.6387,Africa
-Ghana,GHA,1991,,2360.5127,Africa
-Ghana,GHA,1992,,2391.9868,Africa
 Ghana,GHA,1993,30.6,2447.4087,Africa
 Ghana,GHA,1994,30.369406,2469.2417,Africa
 Ghana,GHA,1995,32.45045,2512.1123,Africa
@@ -2541,39 +1859,6 @@ Ghana,GHA,2018,80.4,5125.2495,Africa
 Ghana,GHA,2019,83.5,5345.9414,Africa
 Ghana,GHA,2020,85.44057,5263.5264,Africa
 Ghana,GHA,2021,86.3,5420.792,Africa
-Ghana,GHA,2022,,5480.33,Africa
-Gibraltar,GIB,1990,100.0,,Europe
-Gibraltar,GIB,1991,100.0,,Europe
-Gibraltar,GIB,1992,100.0,,Europe
-Gibraltar,GIB,1993,100.0,,Europe
-Gibraltar,GIB,1994,100.0,,Europe
-Gibraltar,GIB,1995,100.0,,Europe
-Gibraltar,GIB,1996,100.0,,Europe
-Gibraltar,GIB,1997,100.0,,Europe
-Gibraltar,GIB,1998,100.0,,Europe
-Gibraltar,GIB,1999,100.0,,Europe
-Gibraltar,GIB,2000,99.93925,,Europe
-Gibraltar,GIB,2001,99.89853,,Europe
-Gibraltar,GIB,2002,99.84696,,Europe
-Gibraltar,GIB,2003,99.78957,,Europe
-Gibraltar,GIB,2004,99.737656,,Europe
-Gibraltar,GIB,2005,99.69821,,Europe
-Gibraltar,GIB,2006,99.678024,,Europe
-Gibraltar,GIB,2007,99.67867,,Europe
-Gibraltar,GIB,2008,99.69655,,Europe
-Gibraltar,GIB,2009,100.0,,Europe
-Gibraltar,GIB,2010,100.0,,Europe
-Gibraltar,GIB,2011,99.81514,,Europe
-Gibraltar,GIB,2012,99.863525,,Europe
-Gibraltar,GIB,2013,99.90762,,Europe
-Gibraltar,GIB,2014,99.94764,,Europe
-Gibraltar,GIB,2015,100.0,,Europe
-Gibraltar,GIB,2016,100.0,,Europe
-Gibraltar,GIB,2017,100.0,,Europe
-Gibraltar,GIB,2018,100.0,,Europe
-Gibraltar,GIB,2019,100.0,,Europe
-Gibraltar,GIB,2020,100.0,,Europe
-Gibraltar,GIB,2021,100.0,,Europe
 Greece,GRC,1990,100.0,24262.738,Europe
 Greece,GRC,1991,100.0,24716.41,Europe
 Greece,GRC,1992,100.0,24700.023,Europe
@@ -2606,47 +1891,6 @@ Greece,GRC,2018,100.0,29141.174,Europe
 Greece,GRC,2019,100.0,29720.17,Europe
 Greece,GRC,2020,100.0,27009.207,Europe
 Greece,GRC,2021,100.0,29630.93,Europe
-Greece,GRC,2022,,31704.426,Europe
-Greenland,GRL,1990,100.0,,North America
-Greenland,GRL,1991,100.0,,North America
-Greenland,GRL,1992,100.0,,North America
-Greenland,GRL,1993,100.0,,North America
-Greenland,GRL,1994,100.0,,North America
-Greenland,GRL,1995,100.0,,North America
-Greenland,GRL,1996,100.0,,North America
-Greenland,GRL,1997,100.0,,North America
-Greenland,GRL,1998,100.0,,North America
-Greenland,GRL,1999,100.0,,North America
-Greenland,GRL,2000,100.0,,North America
-Greenland,GRL,2001,100.0,,North America
-Greenland,GRL,2002,100.0,,North America
-Greenland,GRL,2003,100.0,,North America
-Greenland,GRL,2004,100.0,,North America
-Greenland,GRL,2005,100.0,,North America
-Greenland,GRL,2006,100.0,,North America
-Greenland,GRL,2007,100.0,,North America
-Greenland,GRL,2008,100.0,,North America
-Greenland,GRL,2009,100.0,,North America
-Greenland,GRL,2010,100.0,,North America
-Greenland,GRL,2011,100.0,,North America
-Greenland,GRL,2012,100.0,,North America
-Greenland,GRL,2013,100.0,,North America
-Greenland,GRL,2014,100.0,,North America
-Greenland,GRL,2015,100.0,,North America
-Greenland,GRL,2016,100.0,,North America
-Greenland,GRL,2017,100.0,,North America
-Greenland,GRL,2018,100.0,,North America
-Greenland,GRL,2019,100.0,,North America
-Greenland,GRL,2020,100.0,,North America
-Greenland,GRL,2021,100.0,,North America
-Grenada,GRD,1990,,8571.968,North America
-Grenada,GRD,1991,,8628.795,North America
-Grenada,GRD,1992,,8446.801,North America
-Grenada,GRD,1993,,8189.511,North America
-Grenada,GRD,1994,,8247.404,North America
-Grenada,GRD,1995,,8351.314,North America
-Grenada,GRD,1996,,8656.579,North America
-Grenada,GRD,1997,,9030.201,North America
 Grenada,GRD,1998,85.04,10029.705,North America
 Grenada,GRD,1999,85.529465,10659.062,North America
 Grenada,GRD,2000,85.9634,11116.695,North America
@@ -2671,45 +1915,6 @@ Grenada,GRD,2018,92.3,15401.78,North America
 Grenada,GRD,2019,92.970695,15394.03,North America
 Grenada,GRD,2020,93.35557,13175.521,North America
 Grenada,GRD,2021,93.740295,13688.298,North America
-Grenada,GRD,2022,,14462.937,North America
-Guadeloupe,GLP,2015,,,North America
-Guam,GUM,1990,99.84431,,Oceania
-Guam,GUM,1991,99.87582,,Oceania
-Guam,GUM,1992,99.90687,,Oceania
-Guam,GUM,1993,99.937256,,Oceania
-Guam,GUM,1994,99.96508,,Oceania
-Guam,GUM,1995,100.0,,Oceania
-Guam,GUM,1996,100.0,,Oceania
-Guam,GUM,1997,100.0,,Oceania
-Guam,GUM,1998,100.0,,Oceania
-Guam,GUM,1999,100.0,,Oceania
-Guam,GUM,2000,100.0,,Oceania
-Guam,GUM,2001,100.0,,Oceania
-Guam,GUM,2002,100.0,,Oceania
-Guam,GUM,2003,100.0,,Oceania
-Guam,GUM,2004,100.0,,Oceania
-Guam,GUM,2005,100.0,,Oceania
-Guam,GUM,2006,100.0,,Oceania
-Guam,GUM,2007,100.0,,Oceania
-Guam,GUM,2008,100.0,,Oceania
-Guam,GUM,2009,100.0,,Oceania
-Guam,GUM,2010,100.0,,Oceania
-Guam,GUM,2011,100.0,,Oceania
-Guam,GUM,2012,100.0,,Oceania
-Guam,GUM,2013,100.0,,Oceania
-Guam,GUM,2014,100.0,,Oceania
-Guam,GUM,2015,100.0,,Oceania
-Guam,GUM,2016,100.0,,Oceania
-Guam,GUM,2017,100.0,,Oceania
-Guam,GUM,2018,100.0,,Oceania
-Guam,GUM,2019,100.0,,Oceania
-Guam,GUM,2020,100.0,,Oceania
-Guam,GUM,2021,100.0,,Oceania
-Guatemala,GTM,1990,,5561.071,North America
-Guatemala,GTM,1991,,5611.5425,North America
-Guatemala,GTM,1992,,5730.646,North America
-Guatemala,GTM,1993,,5805.7095,North America
-Guatemala,GTM,1994,,5891.3276,North America
 Guatemala,GTM,1995,60.8,6033.0425,North America
 Guatemala,GTM,1996,67.67994,6064.021,North America
 Guatemala,GTM,1997,68.904076,6181.1724,North America
@@ -2737,17 +1942,6 @@ Guatemala,GTM,2018,94.20999,8469.115,North America
 Guatemala,GTM,2019,95.429146,8673.002,North America
 Guatemala,GTM,2020,96.64747,8389.106,North America
 Guatemala,GTM,2021,97.865654,8927.302,North America
-Guatemala,GTM,2022,,9162.053,North America
-Guernsey,GGY,2015,,,Europe
-Guinea,GIN,1990,,1507.1985,Africa
-Guinea,GIN,1991,,1485.4352,Africa
-Guinea,GIN,1992,,1485.4214,Africa
-Guinea,GIN,1993,,1512.9799,Africa
-Guinea,GIN,1994,,1526.2556,Africa
-Guinea,GIN,1995,,1552.4917,Africa
-Guinea,GIN,1996,,1576.4238,Africa
-Guinea,GIN,1997,,1624.3464,Africa
-Guinea,GIN,1998,,1651.9987,Africa
 Guinea,GIN,1999,16.4,1676.7183,Africa
 Guinea,GIN,2000,15.155793,1685.2764,Africa
 Guinea,GIN,2001,16.421024,1724.4355,Africa
@@ -2771,19 +1965,6 @@ Guinea,GIN,2018,45.0,2471.719,Africa
 Guinea,GIN,2019,42.2,2545.1401,Africa
 Guinea,GIN,2020,44.745422,2604.1172,Africa
 Guinea,GIN,2021,46.81387,2640.3442,Africa
-Guinea,GIN,2022,,2699.129,Africa
-Guinea-Bissau,GNB,1990,,1998.1732,Africa
-Guinea-Bissau,GNB,1991,,2057.1743,Africa
-Guinea-Bissau,GNB,1992,,2020.7418,Africa
-Guinea-Bissau,GNB,1993,,1997.0764,Africa
-Guinea-Bissau,GNB,1994,,1998.8365,Africa
-Guinea-Bissau,GNB,1995,,2035.2238,Africa
-Guinea-Bissau,GNB,1996,,2224.7485,Africa
-Guinea-Bissau,GNB,1997,,2324.8438,Africa
-Guinea-Bissau,GNB,1998,,1641.0308,Africa
-Guinea-Bissau,GNB,1999,,1627.0753,Africa
-Guinea-Bissau,GNB,2000,,1681.4062,Africa
-Guinea-Bissau,GNB,2001,,1681.956,Africa
 Guinea-Bissau,GNB,2002,1.2795837,1628.7303,Africa
 Guinea-Bissau,GNB,2003,2.5858533,1600.6709,Africa
 Guinea-Bissau,GNB,2004,3.8975902,1606.5822,Africa
@@ -2804,10 +1985,6 @@ Guinea-Bissau,GNB,2018,28.383202,1851.8866,Africa
 Guinea-Bissau,GNB,2019,30.931995,1890.5331,Africa
 Guinea-Bissau,GNB,2020,33.374474,1803.6306,Africa
 Guinea-Bissau,GNB,2021,35.763794,1831.3832,Africa
-Guinea-Bissau,GNB,2022,,1855.1119,Africa
-Guyana,GUY,1990,,4818.393,South America
-Guyana,GUY,1991,,5131.0254,South America
-Guyana,GUY,1992,,5522.39,South America
 Guyana,GUY,1993,72.37663,5956.3345,South America
 Guyana,GUY,1994,70.71398,6444.2256,South America
 Guyana,GUY,1995,71.35198,6749.167,South America
@@ -2837,12 +2014,6 @@ Guyana,GUY,2018,90.88771,12374.208,South America
 Guyana,GUY,2019,91.646484,12820.503,South America
 Guyana,GUY,2020,92.298935,18430.602,South America
 Guyana,GUY,2021,92.89823,21925.223,South America
-Guyana,GUY,2022,,35634.688,South America
-Haiti,HTI,1990,,3612.8152,North America
-Haiti,HTI,1991,,3607.4517,North America
-Haiti,HTI,1992,,3349.6619,North America
-Haiti,HTI,1993,,3107.4558,North America
-Haiti,HTI,1994,,2684.8716,North America
 Haiti,HTI,1995,31.3,2895.9797,North America
 Haiti,HTI,1996,30.013018,2960.2874,North America
 Haiti,HTI,1997,30.557037,2984.8193,North America
@@ -2870,45 +2041,6 @@ Haiti,HTI,2018,44.43624,3209.4297,North America
 Haiti,HTI,2019,45.439533,3112.296,North America
 Haiti,HTI,2020,46.336514,2970.463,North America
 Haiti,HTI,2021,47.180332,2881.1765,North America
-Haiti,HTI,2022,,2799.1125,North America
-Hanover,OWID_HAN,2015,,,Europe
-Heard Island and McDonald Islands,HMD,2015,,,Antarctica
-Hesse Electoral,OWID_HSE,2015,,,Europe
-Hesse Grand Ducal,OWID_HSG,2015,,,Europe
-High-income countries,,1990,99.81794,31786.328,Other
-High-income countries,,1991,99.85943,32014.768,Other
-High-income countries,,1992,99.847084,32434.262,Other
-High-income countries,,1993,99.83932,32611.209,Other
-High-income countries,,1994,99.84307,33451.31,Other
-High-income countries,,1995,99.84894,34206.33,Other
-High-income countries,,1996,99.84593,35018.086,Other
-High-income countries,,1997,99.85963,35990.73,Other
-High-income countries,,1998,99.87596,36751.76,Other
-High-income countries,,1999,99.8705,37742.84,Other
-High-income countries,,2000,99.76339,39090.36,Other
-High-income countries,,2001,99.76544,39449.55,Other
-High-income countries,,2002,99.77568,39825.16,Other
-High-income countries,,2003,99.817604,40498.402,Other
-High-income countries,,2004,99.79015,41679.938,Other
-High-income countries,,2005,99.795044,42632.88,Other
-High-income countries,,2006,99.831825,43696.27,Other
-High-income countries,,2007,99.82694,44589.316,Other
-High-income countries,,2008,99.84113,44546.098,Other
-High-income countries,,2009,99.87629,42770.637,Other
-High-income countries,,2010,99.88609,43814.69,Other
-High-income countries,,2011,99.89579,44570.44,Other
-High-income countries,,2012,99.916046,44928.676,Other
-High-income countries,,2013,99.91597,45332.59,Other
-High-income countries,,2014,99.934074,46041.746,Other
-High-income countries,,2015,99.93865,46891.43,Other
-High-income countries,,2016,99.94879,47504.21,Other
-High-income countries,,2017,99.96616,48417.555,Other
-High-income countries,,2018,99.96608,49334.363,Other
-High-income countries,,2019,99.97264,49994.82,Other
-High-income countries,,2020,99.97813,47666.695,Other
-High-income countries,,2021,99.97834,50378.188,Other
-High-income countries,,2022,,51743.68,Other
-Honduras,HND,1990,,3912.7021,North America
 Honduras,HND,1991,54.781937,3678.262,North America
 Honduras,HND,1992,58.913113,3793.7112,North America
 Honduras,HND,1993,61.100155,3928.3718,North America
@@ -2940,7 +2072,6 @@ Honduras,HND,2018,91.6,5561.2627,North America
 Honduras,HND,2019,91.1,5613.6606,North America
 Honduras,HND,2020,93.0877,5028.145,North America
 Honduras,HND,2021,94.13159,5572.177,North America
-Honduras,HND,2022,,5709.124,North America
 Hong Kong,HKG,1990,100.0,28797.703,Asia
 Hong Kong,HKG,1991,100.0,30188.363,Asia
 Hong Kong,HKG,1992,100.0,31802.424,Asia
@@ -2973,8 +2104,6 @@ Hong Kong,HKG,2018,100.0,61055.33,Asia
 Hong Kong,HKG,2019,100.0,59592.035,Asia
 Hong Kong,HKG,2020,100.0,55892.11,Asia
 Hong Kong,HKG,2021,100.0,60037.445,Asia
-Hong Kong,HKG,2022,,58478.883,Asia
-Hungary,HUN,1990,100.0,,Europe
 Hungary,HUN,1991,100.0,16426.941,Europe
 Hungary,HUN,1992,100.0,15929.822,Europe
 Hungary,HUN,1993,100.0,15856.121,Europe
@@ -3006,12 +2135,6 @@ Hungary,HUN,2018,100.0,31117.28,Europe
 Hungary,HUN,2019,100.0,32645.664,Europe
 Hungary,HUN,2020,100.0,31232.102,Europe
 Hungary,HUN,2021,100.0,33583.785,Europe
-Hungary,HUN,2022,,35356.777,Europe
-Iceland,ISL,1990,100.0,,Europe
-Iceland,ISL,1991,100.0,,Europe
-Iceland,ISL,1992,100.0,,Europe
-Iceland,ISL,1993,100.0,,Europe
-Iceland,ISL,1994,100.0,,Europe
 Iceland,ISL,1995,100.0,33666.18,Europe
 Iceland,ISL,1996,100.0,35014.2,Europe
 Iceland,ISL,1997,100.0,36732.934,Europe
@@ -3039,10 +2162,6 @@ Iceland,ISL,2018,100.0,56816.566,Europe
 Iceland,ISL,2019,100.0,56615.305,Europe
 Iceland,ISL,2020,100.0,51684.402,Europe
 Iceland,ISL,2021,100.0,53135.953,Europe
-Iceland,ISL,2022,,55567.438,Europe
-India,IND,1990,,1819.0216,Asia
-India,IND,1991,,1800.0109,Asia
-India,IND,1992,,1859.7148,Asia
 India,IND,1993,50.9,1908.5782,Asia
 India,IND,1994,49.81131,1994.944,Asia
 India,IND,1995,51.408775,2103.727,Asia
@@ -3072,8 +2191,6 @@ India,IND,2018,95.7,6436.1533,Asia
 India,IND,2019,95.88594,6617.13,Asia
 India,IND,2020,96.5,6172.0425,Asia
 India,IND,2021,99.572525,6677.185,Asia
-India,IND,2022,,7112.0396,Asia
-Indonesia,IDN,1990,,4519.7227,Asia
 Indonesia,IDN,1991,48.9,4742.622,Asia
 Indonesia,IDN,1992,66.69656,4965.134,Asia
 Indonesia,IDN,1993,55.43,5200.023,Asia
@@ -3105,17 +2222,6 @@ Indonesia,IDN,2018,98.51,11397.432,Asia
 Indonesia,IDN,2019,98.85,11857.789,Asia
 Indonesia,IDN,2020,96.95,11515.681,Asia
 Indonesia,IDN,2021,99.21,11859.437,Asia
-Indonesia,IDN,2022,,12409.759,Asia
-Iran,IRN,1990,,9442.248,Asia
-Iran,IRN,1991,,10239.682,Asia
-Iran,IRN,1992,,10331.329,Asia
-Iran,IRN,1993,,10114.039,Asia
-Iran,IRN,1994,,9904.101,Asia
-Iran,IRN,1995,,10006.934,Asia
-Iran,IRN,1996,,10503.593,Asia
-Iran,IRN,1997,,10495.131,Asia
-Iran,IRN,1998,,10547.84,Asia
-Iran,IRN,1999,,10589.984,Asia
 Iran,IRN,2000,97.9,11026.102,Asia
 Iran,IRN,2001,98.06488,11098.446,Asia
 Iran,IRN,2002,98.14432,11878.862,Asia
@@ -3138,17 +2244,6 @@ Iran,IRN,2018,100.0,14691.185,Asia
 Iran,IRN,2019,100.0,14084.354,Asia
 Iran,IRN,2020,100.0,14432.362,Asia
 Iran,IRN,2021,100.0,15004.6875,Asia
-Iran,IRN,2022,,15461.079,Asia
-Iraq,IRQ,1990,,7449.4717,Asia
-Iraq,IRQ,1991,,2650.087,Asia
-Iraq,IRQ,1992,,3410.7405,Asia
-Iraq,IRQ,1993,,4234.2407,Asia
-Iraq,IRQ,1994,,4190.641,Asia
-Iraq,IRQ,1995,,4136.3257,Asia
-Iraq,IRQ,1996,,4445.653,Asia
-Iraq,IRQ,1997,,5222.93,Asia
-Iraq,IRQ,1998,,6822.681,Asia
-Iraq,IRQ,1999,,7763.8726,Asia
 Iraq,IRQ,2000,96.80883,8779.793,Asia
 Iraq,IRQ,2001,96.935,8654.454,Asia
 Iraq,IRQ,2002,97.05261,7693.858,Asia
@@ -3171,7 +2266,6 @@ Iraq,IRQ,2018,99.9,9995.05,Asia
 Iraq,IRQ,2019,99.99103,10299.316,Asia
 Iraq,IRQ,2020,100.0,8848.118,Asia
 Iraq,IRQ,2021,100.0,8786.582,Asia
-Iraq,IRQ,2022,,9199.0205,Asia
 Ireland,IRL,1990,100.0,26673.96,Europe
 Ireland,IRL,1991,100.0,27032.807,Europe
 Ireland,IRL,1992,100.0,27746.637,Europe
@@ -3204,44 +2298,6 @@ Ireland,IRL,2018,100.0,83746.15,Europe
 Ireland,IRL,2019,100.0,86984.984,Europe
 Ireland,IRL,2020,100.0,91791.44,Europe
 Ireland,IRL,2021,100.0,104671.875,Europe
-Ireland,IRL,2022,,112445.42,Europe
-Isle of Man,IMN,1990,100.0,,Europe
-Isle of Man,IMN,1991,100.0,,Europe
-Isle of Man,IMN,1992,100.0,,Europe
-Isle of Man,IMN,1993,100.0,,Europe
-Isle of Man,IMN,1994,100.0,,Europe
-Isle of Man,IMN,1995,100.0,,Europe
-Isle of Man,IMN,1996,100.0,,Europe
-Isle of Man,IMN,1997,100.0,,Europe
-Isle of Man,IMN,1998,100.0,,Europe
-Isle of Man,IMN,1999,100.0,,Europe
-Isle of Man,IMN,2000,100.0,,Europe
-Isle of Man,IMN,2001,100.0,,Europe
-Isle of Man,IMN,2002,100.0,,Europe
-Isle of Man,IMN,2003,100.0,,Europe
-Isle of Man,IMN,2004,100.0,,Europe
-Isle of Man,IMN,2005,100.0,,Europe
-Isle of Man,IMN,2006,100.0,,Europe
-Isle of Man,IMN,2007,100.0,,Europe
-Isle of Man,IMN,2008,100.0,,Europe
-Isle of Man,IMN,2009,100.0,,Europe
-Isle of Man,IMN,2010,100.0,,Europe
-Isle of Man,IMN,2011,100.0,,Europe
-Isle of Man,IMN,2012,100.0,,Europe
-Isle of Man,IMN,2013,100.0,,Europe
-Isle of Man,IMN,2014,100.0,,Europe
-Isle of Man,IMN,2015,100.0,,Europe
-Isle of Man,IMN,2016,100.0,,Europe
-Isle of Man,IMN,2017,100.0,,Europe
-Isle of Man,IMN,2018,100.0,,Europe
-Isle of Man,IMN,2019,100.0,,Europe
-Isle of Man,IMN,2020,100.0,,Europe
-Isle of Man,IMN,2021,100.0,,Europe
-Israel,ISR,1990,100.0,,Asia
-Israel,ISR,1991,100.0,,Asia
-Israel,ISR,1992,100.0,,Asia
-Israel,ISR,1993,100.0,,Asia
-Israel,ISR,1994,100.0,,Asia
 Israel,ISR,1995,100.0,26891.426,Asia
 Israel,ISR,1996,100.0,27749.965,Asia
 Israel,ISR,1997,100.0,28091.146,Asia
@@ -3269,7 +2325,6 @@ Israel,ISR,2018,100.0,40270.426,Asia
 Israel,ISR,2019,100.0,41151.008,Asia
 Israel,ISR,2020,100.0,39680.664,Asia
 Israel,ISR,2021,100.0,42379.156,Asia
-Israel,ISR,2022,,44393.3,Asia
 Italy,ITA,1990,100.0,36585.68,Europe
 Italy,ITA,1991,100.0,37122.82,Europe
 Italy,ITA,1992,100.0,37407.11,Europe
@@ -3302,7 +2357,6 @@ Italy,ITA,2018,100.0,42045.92,Europe
 Italy,ITA,2019,100.0,42739.05,Europe
 Italy,ITA,2020,100.0,39093.523,Europe
 Italy,ITA,2021,100.0,42562.555,Europe
-Italy,ITA,2022,,44292.19,Europe
 Jamaica,JAM,1990,70.33459,8692.502,North America
 Jamaica,JAM,1991,77.22887,9038.113,North America
 Jamaica,JAM,1992,78.03292,9128.912,North America
@@ -3335,7 +2389,6 @@ Jamaica,JAM,2018,98.15042,10160.764,North America
 Jamaica,JAM,2019,98.930305,10244.366,North America
 Jamaica,JAM,2020,99.70936,9206.292,North America
 Jamaica,JAM,2021,100.0,9605.191,North America
-Jamaica,JAM,2022,,10107.865,North America
 Japan,JPN,1990,100.0,32846.39,Asia
 Japan,JPN,1991,100.0,33870.375,Asia
 Japan,JPN,1992,100.0,34048.785,Asia
@@ -3368,8 +2421,6 @@ Japan,JPN,2018,100.0,41763.82,Asia
 Japan,JPN,2019,100.0,41654.33,Asia
 Japan,JPN,2020,100.0,40044.508,Asia
 Japan,JPN,2021,100.0,41258.71,Asia
-Japan,JPN,2022,,41837.91,Asia
-Jersey,JEY,2015,,,Europe
 Jordan,JOR,1990,96.8,8127.6265,Asia
 Jordan,JOR,1991,97.85468,7839.8735,Asia
 Jordan,JOR,1992,97.97486,8500.025,Asia
@@ -3402,12 +2453,6 @@ Jordan,JOR,2018,99.9,9584.507,Asia
 Jordan,JOR,2019,99.9,9534.661,Asia
 Jordan,JOR,2020,99.9,9231.036,Asia
 Jordan,JOR,2021,99.9,9380.045,Asia
-Jordan,JOR,2022,,9490.667,Asia
-Kazakhstan,KAZ,1990,,13475.64,Asia
-Kazakhstan,KAZ,1991,,11917.714,Asia
-Kazakhstan,KAZ,1992,,11294.736,Asia
-Kazakhstan,KAZ,1993,,10292.198,Asia
-Kazakhstan,KAZ,1994,,9126.256,Asia
 Kazakhstan,KAZ,1995,99.9,8552.452,Asia
 Kazakhstan,KAZ,1996,99.192116,8726.538,Asia
 Kazakhstan,KAZ,1997,99.26947,9016.003,Asia
@@ -3435,10 +2480,6 @@ Kazakhstan,KAZ,2018,100.0,25544.346,Asia
 Kazakhstan,KAZ,2019,100.0,26351.805,Asia
 Kazakhstan,KAZ,2020,100.0,25361.508,Asia
 Kazakhstan,KAZ,2021,100.0,26110.53,Asia
-Kazakhstan,KAZ,2022,,26093.295,Asia
-Kenya,KEN,1990,,3655.362,Africa
-Kenya,KEN,1991,,3590.7449,Africa
-Kenya,KEN,1992,,3455.4915,Africa
 Kenya,KEN,1993,10.9,3367.1677,Africa
 Kenya,KEN,1994,3.4734368,3357.7104,Africa
 Kenya,KEN,1995,5.4273434,3408.5422,Africa
@@ -3468,17 +2509,6 @@ Kenya,KEN,2018,61.180614,4464.813,Africa
 Kenya,KEN,2019,69.7,4601.2114,Africa
 Kenya,KEN,2020,71.492714,4497.363,Africa
 Kenya,KEN,2021,76.54245,4745.637,Africa
-Kenya,KEN,2022,,4881.5317,Africa
-Kiribati,KIR,1990,,2045.2723,Oceania
-Kiribati,KIR,1991,,2005.5479,Oceania
-Kiribati,KIR,1992,,1989.6642,Oceania
-Kiribati,KIR,1993,,1976.719,Oceania
-Kiribati,KIR,1994,,1981.464,Oceania
-Kiribati,KIR,1995,,1951.8689,Oceania
-Kiribati,KIR,1996,,1952.5767,Oceania
-Kiribati,KIR,1997,,1950.3656,Oceania
-Kiribati,KIR,1998,,2042.0,Oceania
-Kiribati,KIR,1999,,1976.4027,Oceania
 Kiribati,KIR,2000,55.569786,2063.5918,Oceania
 Kiribati,KIR,2001,57.287533,1994.952,Oceania
 Kiribati,KIR,2002,58.996735,2028.6294,Oceania
@@ -3501,35 +2531,6 @@ Kiribati,KIR,2018,87.46592,2039.4298,Oceania
 Kiribati,KIR,2019,89.25575,1963.5349,Oceania
 Kiribati,KIR,2020,91.04476,1897.0619,Oceania
 Kiribati,KIR,2021,92.83363,2007.987,Oceania
-Kiribati,KIR,2022,,2002.7183,Oceania
-Korea (former),OWID_KRU,2015,,,Asia
-Kosovo,OWID_KOS,1990,100.0,,Europe
-Kosovo,OWID_KOS,1991,100.0,,Europe
-Kosovo,OWID_KOS,1992,100.0,,Europe
-Kosovo,OWID_KOS,1993,100.0,,Europe
-Kosovo,OWID_KOS,1994,100.0,,Europe
-Kosovo,OWID_KOS,1995,100.0,,Europe
-Kosovo,OWID_KOS,1996,100.0,,Europe
-Kosovo,OWID_KOS,1997,100.0,,Europe
-Kosovo,OWID_KOS,1998,100.0,,Europe
-Kosovo,OWID_KOS,1999,100.0,,Europe
-Kosovo,OWID_KOS,2008,,7032.4683,Europe
-Kosovo,OWID_KOS,2009,,7327.454,Europe
-Kosovo,OWID_KOS,2010,,7627.9087,Europe
-Kosovo,OWID_KOS,2011,,8040.6064,Europe
-Kosovo,OWID_KOS,2012,,8105.3877,Europe
-Kosovo,OWID_KOS,2013,,8486.57,Europe
-Kosovo,OWID_KOS,2014,,8796.634,Europe
-Kosovo,OWID_KOS,2015,,9445.106,Europe
-Kosovo,OWID_KOS,2016,,10031.048,Europe
-Kosovo,OWID_KOS,2017,,10436.169,Europe
-Kosovo,OWID_KOS,2018,,10755.168,Europe
-Kosovo,OWID_KOS,2019,,11318.459,Europe
-Kosovo,OWID_KOS,2020,,10706.511,Europe
-Kosovo,OWID_KOS,2021,,11884.182,Europe
-Kosovo,OWID_KOS,2022,,12675.068,Europe
-Kuwait,KWT,1990,100.0,,Asia
-Kuwait,KWT,1991,100.0,,Asia
 Kuwait,KWT,1992,100.0,41446.965,Asia
 Kuwait,KWT,1993,100.0,54426.324,Asia
 Kuwait,KWT,1994,100.0,59468.75,Asia
@@ -3560,14 +2561,6 @@ Kuwait,KWT,2018,100.0,48943.008,Asia
 Kuwait,KWT,2019,100.0,47314.797,Asia
 Kuwait,KWT,2020,100.0,43922.63,Asia
 Kuwait,KWT,2021,100.0,45579.688,Asia
-Kuwait,KWT,2022,,49400.355,Asia
-Kyrgyzstan,KGZ,1990,,5158.3174,Asia
-Kyrgyzstan,KGZ,1991,,4671.523,Asia
-Kyrgyzstan,KGZ,1992,,3978.91,Asia
-Kyrgyzstan,KGZ,1993,,3362.829,Asia
-Kyrgyzstan,KGZ,1994,,2688.3518,Asia
-Kyrgyzstan,KGZ,1995,,2517.2844,Asia
-Kyrgyzstan,KGZ,1996,,2656.0178,Asia
 Kyrgyzstan,KGZ,1997,99.8,2877.0986,Asia
 Kyrgyzstan,KGZ,1998,99.553825,2893.4175,Asia
 Kyrgyzstan,KGZ,1999,99.56558,2954.954,Asia
@@ -3593,10 +2586,6 @@ Kyrgyzstan,KGZ,2018,100.0,5133.152,Asia
 Kyrgyzstan,KGZ,2019,99.884674,5258.3667,Asia
 Kyrgyzstan,KGZ,2020,99.86512,4790.6587,Asia
 Kyrgyzstan,KGZ,2021,99.67373,4910.0864,Asia
-Kyrgyzstan,KGZ,2022,,5070.1504,Asia
-Laos,LAO,1990,,1939.0862,Asia
-Laos,LAO,1991,,1966.4387,Asia
-Laos,LAO,1992,,2019.3914,Asia
 Laos,LAO,1993,31.0,2082.0977,Asia
 Laos,LAO,1994,25.605793,2194.5269,Asia
 Laos,LAO,1995,25.0,2291.8745,Asia
@@ -3626,45 +2615,6 @@ Laos,LAO,2018,92.9,7546.3345,Asia
 Laos,LAO,2019,98.39735,7840.0713,Asia
 Laos,LAO,2020,99.31136,7763.9487,Asia
 Laos,LAO,2021,100.0,7846.975,Asia
-Laos,LAO,2022,,7947.6587,Asia
-Latin America and Caribbean (WB),,1990,,10781.964,Other
-Latin America and Caribbean (WB),,1991,,10932.374,Other
-Latin America and Caribbean (WB),,1992,88.714325,11049.115,Other
-Latin America and Caribbean (WB),,1993,89.31822,11359.994,Other
-Latin America and Caribbean (WB),,1994,90.22308,11750.328,Other
-Latin America and Caribbean (WB),,1995,88.5995,11628.522,Other
-Latin America and Caribbean (WB),,1996,89.55791,11895.374,Other
-Latin America and Caribbean (WB),,1997,90.01586,12347.447,Other
-Latin America and Caribbean (WB),,1998,90.63689,12533.109,Other
-Latin America and Caribbean (WB),,1999,91.24759,12418.679,Other
-Latin America and Caribbean (WB),,2000,91.73369,12681.179,Other
-Latin America and Caribbean (WB),,2001,92.33919,12550.115,Other
-Latin America and Caribbean (WB),,2002,92.63024,12441.6,Other
-Latin America and Caribbean (WB),,2003,92.71474,12581.069,Other
-Latin America and Caribbean (WB),,2004,93.19872,13085.089,Other
-Latin America and Caribbean (WB),,2005,93.52376,13423.281,Other
-Latin America and Caribbean (WB),,2006,94.25588,13944.711,Other
-Latin America and Caribbean (WB),,2007,94.48735,14491.39,Other
-Latin America and Caribbean (WB),,2008,95.23412,14847.103,Other
-Latin America and Caribbean (WB),,2009,95.40683,14334.21,Other
-Latin America and Caribbean (WB),,2010,95.88326,15093.971,Other
-Latin America and Caribbean (WB),,2011,96.19956,15598.564,Other
-Latin America and Caribbean (WB),,2012,96.58371,15843.235,Other
-Latin America and Caribbean (WB),,2013,96.866104,16110.104,Other
-Latin America and Caribbean (WB),,2014,97.03592,16183.376,Other
-Latin America and Caribbean (WB),,2015,97.289986,16111.032,Other
-Latin America and Caribbean (WB),,2016,97.48072,15929.458,Other
-Latin America and Caribbean (WB),,2017,97.71354,16075.074,Other
-Latin America and Caribbean (WB),,2018,97.75991,16197.657,Other
-Latin America and Caribbean (WB),,2019,98.00484,16178.053,Other
-Latin America and Caribbean (WB),,2020,98.15789,14976.215,Other
-Latin America and Caribbean (WB),,2021,98.259315,15956.927,Other
-Latin America and Caribbean (WB),,2022,,16484.42,Other
-Latvia,LVA,1990,100.0,,Europe
-Latvia,LVA,1991,100.0,,Europe
-Latvia,LVA,1992,100.0,,Europe
-Latvia,LVA,1993,100.0,,Europe
-Latvia,LVA,1994,100.0,,Europe
 Latvia,LVA,1995,100.0,9599.146,Europe
 Latvia,LVA,1996,100.0,9959.121,Europe
 Latvia,LVA,1997,100.0,10947.781,Europe
@@ -3692,17 +2642,6 @@ Latvia,LVA,2018,100.0,30051.018,Europe
 Latvia,LVA,2019,100.0,30438.453,Europe
 Latvia,LVA,2020,100.0,29575.568,Europe
 Latvia,LVA,2021,100.0,31833.842,Europe
-Latvia,LVA,2022,,32992.383,Europe
-Lebanon,LBN,1990,,5855.805,Asia
-Lebanon,LBN,1991,,8577.038,Asia
-Lebanon,LBN,1992,,9777.184,Asia
-Lebanon,LBN,1993,,10621.638,Asia
-Lebanon,LBN,1994,,11277.747,Asia
-Lebanon,LBN,1995,,11788.269,Asia
-Lebanon,LBN,1996,,12876.089,Asia
-Lebanon,LBN,1997,,12779.701,Asia
-Lebanon,LBN,1998,,13022.337,Asia
-Lebanon,LBN,1999,,12736.77,Asia
 Lebanon,LBN,2000,99.30312,12696.701,Asia
 Lebanon,LBN,2001,99.282295,12978.278,Asia
 Lebanon,LBN,2002,99.252914,13249.08,Asia
@@ -3725,16 +2664,6 @@ Lebanon,LBN,2018,99.7,17937.568,Asia
 Lebanon,LBN,2019,99.950485,17185.047,Asia
 Lebanon,LBN,2020,99.98307,13791.2705,Asia
 Lebanon,LBN,2021,100.0,12986.913,Asia
-Lesotho,LSO,1990,,1265.5164,Africa
-Lesotho,LSO,1991,,1331.1036,Africa
-Lesotho,LSO,1992,,1401.4863,Africa
-Lesotho,LSO,1993,,1429.9238,Africa
-Lesotho,LSO,1994,,1495.4725,Africa
-Lesotho,LSO,1995,,1525.9692,Africa
-Lesotho,LSO,1996,,1594.0546,Africa
-Lesotho,LSO,1997,,1638.4424,Africa
-Lesotho,LSO,1998,,1652.6938,Africa
-Lesotho,LSO,1999,,1653.3967,Africa
 Lesotho,LSO,2000,4.25876,1713.7051,Africa
 Lesotho,LSO,2001,1.2961441,1773.9918,Africa
 Lesotho,LSO,2002,3.372064,1788.567,Africa
@@ -3757,14 +2686,6 @@ Lesotho,LSO,2018,47.0,2501.43,Africa
 Lesotho,LSO,2019,44.563396,2435.2864,Africa
 Lesotho,LSO,2020,47.497013,2225.253,Africa
 Lesotho,LSO,2021,50.377472,2239.3052,Africa
-Lesotho,LSO,2022,,2240.3394,Africa
-Liberia,LBR,2000,,1725.1449,Africa
-Liberia,LBR,2001,,1724.0597,Africa
-Liberia,LBR,2002,,1742.7892,Africa
-Liberia,LBR,2003,,1207.7261,Africa
-Liberia,LBR,2004,,1224.5718,Africa
-Liberia,LBR,2005,,1232.4569,Africa
-Liberia,LBR,2006,,1258.7299,Africa
 Liberia,LBR,2007,3.0,1311.4453,Africa
 Liberia,LBR,2008,1.2827094,1349.0282,Africa
 Liberia,LBR,2009,1.9,1376.4531,Africa
@@ -3780,8 +2701,6 @@ Liberia,LBR,2018,22.770136,1521.7335,Africa
 Liberia,LBR,2019,23.1,1455.6377,Africa
 Liberia,LBR,2020,27.55975,1383.8281,Africa
 Liberia,LBR,2021,29.848244,1423.2296,Africa
-Liberia,LBR,2022,,1460.9233,Africa
-Libya,LBY,1999,,26668.443,Africa
 Libya,LBY,2000,99.8,27130.469,Africa
 Libya,LBY,2001,96.94502,26040.312,Africa
 Libya,LBY,2002,95.23212,25173.154,Africa
@@ -3804,44 +2723,6 @@ Libya,LBY,2018,67.0,25734.168,Africa
 Libya,LBY,2019,68.47289,22535.445,Africa
 Libya,LBY,2020,69.36826,15621.0,Africa
 Libya,LBY,2021,70.21048,20273.88,Africa
-Libya,LBY,2022,,19796.588,Africa
-Liechtenstein,LIE,1990,100.0,,Europe
-Liechtenstein,LIE,1991,100.0,,Europe
-Liechtenstein,LIE,1992,100.0,,Europe
-Liechtenstein,LIE,1993,100.0,,Europe
-Liechtenstein,LIE,1994,100.0,,Europe
-Liechtenstein,LIE,1995,100.0,,Europe
-Liechtenstein,LIE,1996,100.0,,Europe
-Liechtenstein,LIE,1997,100.0,,Europe
-Liechtenstein,LIE,1998,100.0,,Europe
-Liechtenstein,LIE,1999,100.0,,Europe
-Liechtenstein,LIE,2000,100.0,,Europe
-Liechtenstein,LIE,2001,100.0,,Europe
-Liechtenstein,LIE,2002,100.0,,Europe
-Liechtenstein,LIE,2003,100.0,,Europe
-Liechtenstein,LIE,2004,100.0,,Europe
-Liechtenstein,LIE,2005,100.0,,Europe
-Liechtenstein,LIE,2006,100.0,,Europe
-Liechtenstein,LIE,2007,100.0,,Europe
-Liechtenstein,LIE,2008,100.0,,Europe
-Liechtenstein,LIE,2009,100.0,,Europe
-Liechtenstein,LIE,2010,100.0,,Europe
-Liechtenstein,LIE,2011,100.0,,Europe
-Liechtenstein,LIE,2012,100.0,,Europe
-Liechtenstein,LIE,2013,100.0,,Europe
-Liechtenstein,LIE,2014,100.0,,Europe
-Liechtenstein,LIE,2015,100.0,,Europe
-Liechtenstein,LIE,2016,100.0,,Europe
-Liechtenstein,LIE,2017,100.0,,Europe
-Liechtenstein,LIE,2018,100.0,,Europe
-Liechtenstein,LIE,2019,100.0,,Europe
-Liechtenstein,LIE,2020,100.0,,Europe
-Liechtenstein,LIE,2021,100.0,,Europe
-Lithuania,LTU,1990,100.0,,Europe
-Lithuania,LTU,1991,100.0,,Europe
-Lithuania,LTU,1992,100.0,,Europe
-Lithuania,LTU,1993,100.0,,Europe
-Lithuania,LTU,1994,100.0,,Europe
 Lithuania,LTU,1995,100.0,10640.36,Europe
 Lithuania,LTU,1996,100.0,11274.64,Europe
 Lithuania,LTU,1997,100.0,12302.102,Europe
@@ -3869,73 +2750,6 @@ Lithuania,LTU,2018,100.0,35446.707,Europe
 Lithuania,LTU,2019,100.0,37198.875,Europe
 Lithuania,LTU,2020,100.0,37179.766,Europe
 Lithuania,LTU,2021,100.0,39432.402,Europe
-Lithuania,LTU,2022,,39955.246,Europe
-Low-income countries,,1990,,1346.659,Other
-Low-income countries,,1991,,1318.258,Other
-Low-income countries,,1992,,1257.1407,Other
-Low-income countries,,1993,,1227.4645,Other
-Low-income countries,,1994,,1191.5602,Other
-Low-income countries,,1995,,1214.3345,Other
-Low-income countries,,1996,,1245.4845,Other
-Low-income countries,,1997,,1301.2438,Other
-Low-income countries,,1998,,1302.7703,Other
-Low-income countries,,1999,,1308.5696,Other
-Low-income countries,,2000,15.809195,1313.0515,Other
-Low-income countries,,2001,16.545765,1351.8302,Other
-Low-income countries,,2002,17.229599,1365.8,Other
-Low-income countries,,2003,18.973665,1393.5247,Other
-Low-income countries,,2004,19.780127,1441.1198,Other
-Low-income countries,,2005,19.52394,1497.073,Other
-Low-income countries,,2006,22.04508,1551.7616,Other
-Low-income countries,,2007,23.568336,1611.7389,Other
-Low-income countries,,2008,23.113111,1661.3624,Other
-Low-income countries,,2009,24.665518,1672.9292,Other
-Low-income countries,,2010,26.173681,1741.8258,Other
-Low-income countries,,2011,26.748945,1752.297,Other
-Low-income countries,,2012,29.838495,1715.1395,Other
-Low-income countries,,2013,30.875378,1762.0562,Other
-Low-income countries,,2014,32.28305,1826.4845,Other
-Low-income countries,,2015,32.20875,1866.6488,Other
-Low-income countries,,2016,37.441475,1903.5065,Other
-Low-income countries,,2017,39.07496,1933.1627,Other
-Low-income countries,,2018,40.495308,1950.5111,Other
-Low-income countries,,2019,41.841442,1979.0868,Other
-Low-income countries,,2020,43.22325,1937.6377,Other
-Low-income countries,,2021,44.809753,1921.8851,Other
-Low-income countries,,2022,,1949.1239,Other
-Lower-middle-income countries,,1990,,3150.4333,Other
-Lower-middle-income countries,,1991,,3118.311,Other
-Lower-middle-income countries,,1992,,3111.3457,Other
-Lower-middle-income countries,,1993,49.085308,3049.9758,Other
-Lower-middle-income countries,,1994,48.95282,3012.1309,Other
-Lower-middle-income countries,,1995,50.095184,3062.97,Other
-Lower-middle-income countries,,1996,51.65129,3160.977,Other
-Lower-middle-income countries,,1997,54.020752,3200.9604,Other
-Lower-middle-income countries,,1998,56.729103,3269.6914,Other
-Lower-middle-income countries,,1999,59.150764,3370.9895,Other
-Lower-middle-income countries,,2000,60.809383,3456.7622,Other
-Lower-middle-income countries,,2001,61.894405,3541.336,Other
-Lower-middle-income countries,,2002,62.76511,3642.7576,Other
-Lower-middle-income countries,,2003,64.97668,3814.4512,Other
-Lower-middle-income countries,,2004,64.78258,4009.4272,Other
-Lower-middle-income countries,,2005,67.359276,4188.707,Other
-Lower-middle-income countries,,2006,67.97914,4399.1885,Other
-Lower-middle-income countries,,2007,69.85263,4632.43,Other
-Lower-middle-income countries,,2008,71.596405,4736.2607,Other
-Lower-middle-income countries,,2009,72.300865,4864.477,Other
-Lower-middle-income countries,,2010,73.329704,5101.005,Other
-Lower-middle-income countries,,2011,76.07375,5249.0366,Other
-Lower-middle-income countries,,2012,76.57566,5382.8833,Other
-Lower-middle-income countries,,2013,78.45602,5555.3955,Other
-Lower-middle-income countries,,2014,79.56824,5766.327,Other
-Lower-middle-income countries,,2015,81.795784,5967.3896,Other
-Lower-middle-income countries,,2016,83.727165,6238.9507,Other
-Lower-middle-income countries,,2017,85.572235,6475.1855,Other
-Lower-middle-income countries,,2018,87.71012,6704.649,Other
-Lower-middle-income countries,,2019,88.35885,6852.3877,Other
-Lower-middle-income countries,,2020,89.08891,6541.0605,Other
-Lower-middle-income countries,,2021,91.128494,6865.1377,Other
-Lower-middle-income countries,,2022,,7137.511,Other
 Luxembourg,LUX,1990,100.0,70860.82,Europe
 Luxembourg,LUX,1991,100.0,75961.67,Europe
 Luxembourg,LUX,1992,100.0,76323.305,Europe
@@ -3968,7 +2782,6 @@ Luxembourg,LUX,2018,100.0,114164.47,Europe
 Luxembourg,LUX,2019,100.0,115209.6,Europe
 Luxembourg,LUX,2020,100.0,112274.82,Europe
 Luxembourg,LUX,2021,100.0,118510.0,Europe
-Luxembourg,LUX,2022,,117746.99,Europe
 Macao,MAC,1990,99.84928,47879.96,Asia
 Macao,MAC,1991,99.880585,47966.266,Asia
 Macao,MAC,1992,99.91143,52888.766,Asia
@@ -4001,9 +2814,6 @@ Macao,MAC,2018,100.0,128220.336,Asia
 Macao,MAC,2019,100.0,122549.74,Asia
 Macao,MAC,2020,100.0,54916.156,Asia
 Macao,MAC,2021,100.0,66820.91,Asia
-Macao,MAC,2022,,51840.14,Asia
-Madagascar,MDG,1990,,1808.7435,Africa
-Madagascar,MDG,1991,,1644.51,Africa
 Madagascar,MDG,1992,9.2,1614.0934,Africa
 Madagascar,MDG,1993,10.105623,1597.7694,Africa
 Madagascar,MDG,1994,10.561648,1547.646,Africa
@@ -4034,9 +2844,6 @@ Madagascar,MDG,2018,36.5,1557.3225,Africa
 Madagascar,MDG,2019,31.04,1585.4717,Africa
 Madagascar,MDG,2020,32.0,1436.2069,Africa
 Madagascar,MDG,2021,35.120934,1482.3761,Africa
-Madagascar,MDG,2022,,1502.4822,Africa
-Malawi,MWI,1990,,936.9863,Africa
-Malawi,MWI,1991,,988.5376,Africa
 Malawi,MWI,1992,3.2,890.34424,Africa
 Malawi,MWI,1993,1.5535558,963.1324,Africa
 Malawi,MWI,1994,2.0136614,875.2087,Africa
@@ -4067,17 +2874,6 @@ Malawi,MWI,2018,18.02,1478.4248,Africa
 Malawi,MWI,2019,11.2,1517.7031,Africa
 Malawi,MWI,2020,11.5,1489.6014,Africa
 Malawi,MWI,2021,14.188422,1491.1337,Africa
-Malawi,MWI,2022,,1466.8794,Africa
-Malaysia,MYS,1990,,10607.769,Asia
-Malaysia,MYS,1991,,11297.591,Asia
-Malaysia,MYS,1992,,11963.267,Asia
-Malaysia,MYS,1993,,12785.832,Asia
-Malaysia,MYS,1994,,13579.713,Asia
-Malaysia,MYS,1995,,14508.458,Asia
-Malaysia,MYS,1996,,15533.753,Asia
-Malaysia,MYS,1997,,16231.797,Asia
-Malaysia,MYS,1998,,14650.2,Asia
-Malaysia,MYS,1999,,15161.405,Asia
 Malaysia,MYS,2000,98.588135,16089.859,Asia
 Malaysia,MYS,2001,98.621864,15762.775,Asia
 Malaysia,MYS,2002,98.64705,16199.731,Asia
@@ -4100,12 +2896,6 @@ Malaysia,MYS,2018,99.997154,26835.807,Asia
 Malaysia,MYS,2019,100.0,27674.398,Asia
 Malaysia,MYS,2020,100.0,25852.19,Asia
 Malaysia,MYS,2021,100.0,26407.316,Asia
-Malaysia,MYS,2022,,28383.62,Asia
-Maldives,MDV,1995,,10709.803,Asia
-Maldives,MDV,1996,,11304.825,Asia
-Maldives,MDV,1997,,12017.395,Asia
-Maldives,MDV,1998,,12693.666,Asia
-Maldives,MDV,1999,,13268.474,Asia
 Maldives,MDV,2000,83.8,13564.347,Asia
 Maldives,MDV,2001,87.45767,12810.9795,Asia
 Maldives,MDV,2002,88.30175,13508.93,Asia
@@ -4128,13 +2918,6 @@ Maldives,MDV,2018,100.0,20149.604,Asia
 Maldives,MDV,2019,100.0,20988.092,Asia
 Maldives,MDV,2020,100.0,13809.354,Asia
 Maldives,MDV,2021,100.0,18757.78,Asia
-Maldives,MDV,2022,,21271.318,Asia
-Mali,MLI,1990,,1336.5719,Africa
-Mali,MLI,1991,,1464.2628,Africa
-Mali,MLI,1992,,1388.7308,Africa
-Mali,MLI,1993,,1403.2527,Africa
-Mali,MLI,1994,,1425.5117,Africa
-Mali,MLI,1995,,1408.2913,Africa
 Mali,MLI,1996,6.2,1476.2878,Africa
 Mali,MLI,1997,4.288541,1513.6075,Africa
 Mali,MLI,1998,6.0668635,1588.1725,Africa
@@ -4161,7 +2944,6 @@ Mali,MLI,2018,50.9,2185.5757,Africa
 Mali,MLI,2019,47.85479,2219.0466,Africa
 Mali,MLI,2020,50.644066,2123.8281,Africa
 Mali,MLI,2021,53.380188,2120.6233,Africa
-Mali,MLI,2022,,2132.6233,Africa
 Malta,MLT,1990,100.0,16130.334,Europe
 Malta,MLT,1991,100.0,16683.77,Europe
 Malta,MLT,1992,100.0,17287.13,Europe
@@ -4194,16 +2976,6 @@ Malta,MLT,2018,100.0,45116.074,Europe
 Malta,MLT,2019,100.0,46438.664,Europe
 Malta,MLT,2020,100.0,41753.812,Europe
 Malta,MLT,2021,100.0,46598.96,Europe
-Malta,MLT,2022,,48641.85,Europe
-Marshall Islands,MHL,1990,,3417.7197,Oceania
-Marshall Islands,MHL,1991,,3347.586,Oceania
-Marshall Islands,MHL,1992,,3514.7727,Oceania
-Marshall Islands,MHL,1993,,3655.158,Oceania
-Marshall Islands,MHL,1994,,3800.425,Oceania
-Marshall Islands,MHL,1995,,4042.6448,Oceania
-Marshall Islands,MHL,1996,,3567.3135,Oceania
-Marshall Islands,MHL,1997,,3285.1086,Oceania
-Marshall Islands,MHL,1998,,3208.7944,Oceania
 Marshall Islands,MHL,1999,68.52424,3129.085,Oceania
 Marshall Islands,MHL,2000,68.62479,3148.645,Oceania
 Marshall Islands,MHL,2001,70.05039,3351.891,Oceania
@@ -4227,18 +2999,6 @@ Marshall Islands,MHL,2018,95.2623,5040.306,Oceania
 Marshall Islands,MHL,2019,96.75999,5719.19,Oceania
 Marshall Islands,MHL,2020,98.25685,5724.7295,Oceania
 Marshall Islands,MHL,2021,99.75358,5976.0303,Oceania
-Marshall Islands,MHL,2022,,6004.343,Oceania
-Martinique,MTQ,2015,,,North America
-Mauritania,MRT,1990,,4611.9395,Africa
-Mauritania,MRT,1991,,4557.467,Africa
-Mauritania,MRT,1992,,4467.274,Africa
-Mauritania,MRT,1993,,4540.364,Africa
-Mauritania,MRT,1994,,4252.8687,Africa
-Mauritania,MRT,1995,,4542.66,Africa
-Mauritania,MRT,1996,,4711.0503,Africa
-Mauritania,MRT,1997,,4419.5815,Africa
-Mauritania,MRT,1998,,4424.408,Africa
-Mauritania,MRT,1999,,4464.209,Africa
 Mauritania,MRT,2000,19.146633,4170.9,Africa
 Mauritania,MRT,2001,22.2,4037.4492,Africa
 Mauritania,MRT,2002,21.743618,4006.3625,Africa
@@ -4261,7 +3021,6 @@ Mauritania,MRT,2018,43.58928,5367.2144,Africa
 Mauritania,MRT,2019,44.94793,5392.9326,Africa
 Mauritania,MRT,2020,45.4,5236.41,Africa
 Mauritania,MRT,2021,47.695843,5142.2812,Africa
-Mauritania,MRT,2022,,5330.2144,Africa
 Mauritius,MUS,1990,99.041565,8233.912,Africa
 Mauritius,MUS,1991,99.07068,8506.798,Africa
 Mauritius,MUS,1992,99.09968,8942.383,Africa
@@ -4294,11 +3053,6 @@ Mauritius,MUS,2018,99.78661,23018.516,Africa
 Mauritius,MUS,2019,100.0,23676.414,Africa
 Mauritius,MUS,2020,99.46402,20231.852,Africa
 Mauritius,MUS,2021,99.6,20915.217,Africa
-Mauritius,MUS,2022,,22841.35,Africa
-Mayotte,MYT,2015,,,Africa
-Mecklenburg Schwerin,OWID_MEC,2015,,,Europe
-Mexico,MEX,1990,,16370.869,North America
-Mexico,MEX,1991,,16688.648,North America
 Mexico,MEX,1992,93.14598,16950.371,North America
 Mexico,MEX,1993,95.44846,17103.244,North America
 Mexico,MEX,1994,95.2383,17517.969,North America
@@ -4329,17 +3083,6 @@ Mexico,MEX,2018,99.5,20789.361,North America
 Mexico,MEX,2019,99.6,20553.955,North America
 Mexico,MEX,2020,99.4,18639.662,North America
 Mexico,MEX,2021,100.0,19617.76,North America
-Mexico,MEX,2022,,20254.781,North America
-Micronesia (country),FSM,1990,,2925.3586,Oceania
-Micronesia (country),FSM,1991,,3085.5571,Oceania
-Micronesia (country),FSM,1992,,3132.3123,Oceania
-Micronesia (country),FSM,1993,,3287.0864,Oceania
-Micronesia (country),FSM,1994,,3184.9878,Oceania
-Micronesia (country),FSM,1995,,3362.552,Oceania
-Micronesia (country),FSM,1996,,3242.1135,Oceania
-Micronesia (country),FSM,1997,,3036.074,Oceania
-Micronesia (country),FSM,1998,,3114.9658,Oceania
-Micronesia (country),FSM,1999,,3154.014,Oceania
 Micronesia (country),FSM,2000,46.0,3301.444,Oceania
 Micronesia (country),FSM,2001,48.444916,3365.8052,Oceania
 Micronesia (country),FSM,2002,50.135815,3382.8862,Oceania
@@ -4362,79 +3105,6 @@ Micronesia (country),FSM,2018,78.312164,3513.9263,Oceania
 Micronesia (country),FSM,2019,80.0837,3540.8438,Oceania
 Micronesia (country),FSM,2020,81.85441,3420.516,Oceania
 Micronesia (country),FSM,2021,83.62498,3320.9114,Oceania
-Micronesia (country),FSM,2022,,3263.6653,Oceania
-Middle East and North Africa (WB),,1990,,10816.291,Other
-Middle East and North Africa (WB),,1991,,11013.418,Other
-Middle East and North Africa (WB),,1992,,11191.549,Other
-Middle East and North Africa (WB),,1993,,11116.125,Other
-Middle East and North Africa (WB),,1994,,11096.668,Other
-Middle East and North Africa (WB),,1995,,11132.061,Other
-Middle East and North Africa (WB),,1996,,11444.25,Other
-Middle East and North Africa (WB),,1997,,11579.553,Other
-Middle East and North Africa (WB),,1998,,11855.519,Other
-Middle East and North Africa (WB),,1999,,11848.948,Other
-Middle East and North Africa (WB),,2000,92.42557,12358.622,Other
-Middle East and North Africa (WB),,2001,92.624405,12307.973,Other
-Middle East and North Africa (WB),,2002,92.539406,12292.15,Other
-Middle East and North Africa (WB),,2003,93.36026,12722.017,Other
-Middle East and North Africa (WB),,2004,93.246796,13413.686,Other
-Middle East and North Africa (WB),,2005,93.92533,13779.078,Other
-Middle East and North Africa (WB),,2006,95.838005,14219.88,Other
-Middle East and North Africa (WB),,2007,94.15256,14619.928,Other
-Middle East and North Africa (WB),,2008,94.7734,14916.241,Other
-Middle East and North Africa (WB),,2009,94.90388,14674.8,Other
-Middle East and North Africa (WB),,2010,95.91353,15056.561,Other
-Middle East and North Africa (WB),,2011,95.92194,15286.814,Other
-Middle East and North Africa (WB),,2012,95.433304,15623.145,Other
-Middle East and North Africa (WB),,2013,97.07742,15611.711,Other
-Middle East and North Africa (WB),,2014,96.519226,15741.551,Other
-Middle East and North Africa (WB),,2015,96.50443,15918.007,Other
-Middle East and North Africa (WB),,2016,96.78563,16354.35,Other
-Middle East and North Africa (WB),,2017,97.631935,16391.51,Other
-Middle East and North Africa (WB),,2018,96.14943,16445.59,Other
-Middle East and North Africa (WB),,2019,97.12969,16331.92,Other
-Middle East and North Africa (WB),,2020,97.22992,15582.67,Other
-Middle East and North Africa (WB),,2021,97.290146,16066.921,Other
-Middle East and North Africa (WB),,2022,,16772.773,Other
-Middle-income countries,,1990,,4607.0444,Other
-Middle-income countries,,1991,,4564.838,Other
-Middle-income countries,,1992,,4516.5093,Other
-Middle-income countries,,1993,,4545.759,Other
-Middle-income countries,,1994,,4562.6343,Other
-Middle-income countries,,1995,,4644.7593,Other
-Middle-income countries,,1996,,4802.7007,Other
-Middle-income countries,,1997,,4951.985,Other
-Middle-income countries,,1998,,4979.279,Other
-Middle-income countries,,1999,,5097.4595,Other
-Middle-income countries,,2000,77.98027,5315.7866,Other
-Middle-income countries,,2001,78.65364,5433.7114,Other
-Middle-income countries,,2002,79.23993,5607.1753,Other
-Middle-income countries,,2003,80.36951,5865.0806,Other
-Middle-income countries,,2004,80.365715,6223.131,Other
-Middle-income countries,,2005,81.51182,6571.241,Other
-Middle-income countries,,2006,82.23513,6999.9443,Other
-Middle-income countries,,2007,83.17966,7491.251,Other
-Middle-income countries,,2008,84.23743,7798.062,Other
-Middle-income countries,,2009,84.73478,7896.448,Other
-Middle-income countries,,2010,85.46927,8384.964,Other
-Middle-income countries,,2011,86.930725,8769.056,Other
-Middle-income countries,,2012,87.296616,9118.47,Other
-Middle-income countries,,2013,88.2869,9463.998,Other
-Middle-income countries,,2014,88.87114,9785.806,Other
-Middle-income countries,,2015,89.92019,10083.457,Other
-Middle-income countries,,2016,91.01281,10426.732,Other
-Middle-income countries,,2017,92.03036,10833.217,Other
-Middle-income countries,,2018,93.13416,11231.761,Other
-Middle-income countries,,2019,93.49392,11539.141,Other
-Middle-income countries,,2020,93.83061,11222.781,Other
-Middle-income countries,,2021,94.998985,11907.978,Other
-Middle-income countries,,2022,,12264.593,Other
-Modena,OWID_MOD,2015,,,Europe
-Moldova,MDA,1990,100.0,,Europe
-Moldova,MDA,1991,100.0,,Europe
-Moldova,MDA,1992,100.0,,Europe
-Moldova,MDA,1993,100.0,,Europe
-Moldova,MDA,1994,100.0,,Europe
 Moldova,MDA,1995,100.0,5617.908,Europe
 Moldova,MDA,1996,100.0,5298.338,Europe
 Moldova,MDA,1997,100.0,5405.5596,Europe
@@ -4462,49 +3132,6 @@ Moldova,MDA,2018,99.99,12142.73,Europe
 Moldova,MDA,2019,100.0,12776.922,Europe
 Moldova,MDA,2020,100.0,11848.899,Europe
 Moldova,MDA,2021,100.0,13703.939,Europe
-Moldova,MDA,2022,,13308.417,Europe
-Monaco,MCO,1990,100.0,,Europe
-Monaco,MCO,1991,100.0,,Europe
-Monaco,MCO,1992,100.0,,Europe
-Monaco,MCO,1993,100.0,,Europe
-Monaco,MCO,1994,100.0,,Europe
-Monaco,MCO,1995,100.0,,Europe
-Monaco,MCO,1996,100.0,,Europe
-Monaco,MCO,1997,100.0,,Europe
-Monaco,MCO,1998,100.0,,Europe
-Monaco,MCO,1999,100.0,,Europe
-Monaco,MCO,2000,100.0,,Europe
-Monaco,MCO,2001,100.0,,Europe
-Monaco,MCO,2002,100.0,,Europe
-Monaco,MCO,2003,100.0,,Europe
-Monaco,MCO,2004,100.0,,Europe
-Monaco,MCO,2005,100.0,,Europe
-Monaco,MCO,2006,100.0,,Europe
-Monaco,MCO,2007,100.0,,Europe
-Monaco,MCO,2008,100.0,,Europe
-Monaco,MCO,2009,100.0,,Europe
-Monaco,MCO,2010,100.0,,Europe
-Monaco,MCO,2011,100.0,,Europe
-Monaco,MCO,2012,100.0,,Europe
-Monaco,MCO,2013,100.0,,Europe
-Monaco,MCO,2014,100.0,,Europe
-Monaco,MCO,2015,100.0,,Europe
-Monaco,MCO,2016,100.0,,Europe
-Monaco,MCO,2017,100.0,,Europe
-Monaco,MCO,2018,100.0,,Europe
-Monaco,MCO,2019,100.0,,Europe
-Monaco,MCO,2020,100.0,,Europe
-Monaco,MCO,2021,100.0,,Europe
-Mongolia,MNG,1990,,5030.073,Asia
-Mongolia,MNG,1991,,4512.1104,Asia
-Mongolia,MNG,1992,,4027.778,Asia
-Mongolia,MNG,1993,,3842.0522,Asia
-Mongolia,MNG,1994,,3870.8623,Asia
-Mongolia,MNG,1995,,4066.7532,Asia
-Mongolia,MNG,1996,,4110.5537,Asia
-Mongolia,MNG,1997,,4226.3726,Asia
-Mongolia,MNG,1998,,4325.08,Asia
-Mongolia,MNG,1999,,4415.0317,Asia
 Mongolia,MNG,2000,67.3,4424.653,Asia
 Mongolia,MNG,2001,71.720184,4515.4653,Asia
 Mongolia,MNG,2002,72.75764,4687.445,Asia
@@ -4527,14 +3154,6 @@ Mongolia,MNG,2018,98.1,12052.294,Asia
 Mongolia,MNG,2019,98.923256,12458.019,Asia
 Mongolia,MNG,2020,99.50217,11666.779,Asia
 Mongolia,MNG,2021,100.0,11668.431,Asia
-Mongolia,MNG,2022,,12073.245,Asia
-Montenegro,MNE,1990,100.0,,Europe
-Montenegro,MNE,1991,100.0,,Europe
-Montenegro,MNE,1992,100.0,,Europe
-Montenegro,MNE,1993,100.0,,Europe
-Montenegro,MNE,1994,100.0,,Europe
-Montenegro,MNE,1995,100.0,,Europe
-Montenegro,MNE,1996,100.0,,Europe
 Montenegro,MNE,1997,100.0,12579.359,Europe
 Montenegro,MNE,1998,100.0,13236.096,Europe
 Montenegro,MNE,1999,100.0,12024.771,Europe
@@ -4560,10 +3179,6 @@ Montenegro,MNE,2018,100.0,20686.713,Europe
 Montenegro,MNE,2019,99.96228,21534.09,Europe
 Montenegro,MNE,2020,99.85311,18259.084,Europe
 Montenegro,MNE,2021,99.79843,20710.535,Europe
-Montenegro,MNE,2022,,22108.73,Europe
-Montserrat,MSR,2015,,,North America
-Morocco,MAR,1990,,4119.872,Africa
-Morocco,MAR,1991,,4342.933,Africa
 Morocco,MAR,1992,49.2,4182.3667,Africa
 Morocco,MAR,1993,56.77265,4085.7014,Africa
 Morocco,MAR,1994,58.6089,4449.824,Africa
@@ -4594,14 +3209,6 @@ Morocco,MAR,2018,98.1,8072.0864,Africa
 Morocco,MAR,2019,99.6,8217.599,Africa
 Morocco,MAR,2020,100.0,7546.7163,Africa
 Morocco,MAR,2021,100.0,8065.986,Africa
-Morocco,MAR,2022,,8083.365,Africa
-Mozambique,MOZ,1990,,460.9659,Africa
-Mozambique,MOZ,1991,,474.4789,Africa
-Mozambique,MOZ,1992,,430.41354,Africa
-Mozambique,MOZ,1993,,464.415,Africa
-Mozambique,MOZ,1994,,470.90155,Africa
-Mozambique,MOZ,1995,,459.86874,Africa
-Mozambique,MOZ,1996,,493.71027,Africa
 Mozambique,MOZ,1997,6.6,537.2676,Africa
 Mozambique,MOZ,1998,3.6631756,578.91077,Africa
 Mozambique,MOZ,1999,4.8791237,631.8376,Africa
@@ -4627,17 +3234,6 @@ Mozambique,MOZ,2018,31.1,1297.8695,Africa
 Mozambique,MOZ,2019,29.686443,1290.1674,Africa
 Mozambique,MOZ,2020,30.612383,1237.946,Africa
 Mozambique,MOZ,2021,31.49404,1231.8641,Africa
-Mozambique,MOZ,2022,,1250.7725,Africa
-Myanmar,MMR,1990,,616.3129,Asia
-Myanmar,MMR,1991,,603.5585,Asia
-Myanmar,MMR,1992,,652.9236,Asia
-Myanmar,MMR,1993,,683.2357,Asia
-Myanmar,MMR,1994,,724.80884,Asia
-Myanmar,MMR,1995,,765.35144,Asia
-Myanmar,MMR,1996,,804.4702,Asia
-Myanmar,MMR,1997,,839.33014,Asia
-Myanmar,MMR,1998,,877.70575,Asia
-Myanmar,MMR,1999,,962.41187,Asia
 Myanmar,MMR,2000,41.873188,1082.7642,Asia
 Myanmar,MMR,2001,42.95208,1193.1088,Asia
 Myanmar,MMR,2002,47.0,1323.203,Asia
@@ -4660,10 +3256,6 @@ Myanmar,MMR,2018,66.10094,4927.2524,Asia
 Myanmar,MMR,2019,68.3115,5214.3735,Asia
 Myanmar,MMR,2020,70.41574,4708.5596,Asia
 Myanmar,MMR,2021,72.46682,4113.8936,Asia
-Myanmar,MMR,2022,,4249.876,Asia
-Nagorno-Karabakh,OWID_NAG,2015,,,Asia
-Namibia,NAM,1990,,6223.453,Africa
-Namibia,NAM,1991,,6510.012,Africa
 Namibia,NAM,1992,26.4,6758.1025,Africa
 Namibia,NAM,1993,27.0,6439.251,Africa
 Namibia,NAM,1994,28.932589,6346.299,Africa
@@ -4694,21 +3286,6 @@ Namibia,NAM,2018,52.321655,10266.171,Africa
 Namibia,NAM,2019,53.278584,10009.578,Africa
 Namibia,NAM,2020,52.3,9041.77,Africa
 Namibia,NAM,2021,55.22532,9208.583,Africa
-Namibia,NAM,2022,,9762.777,Africa
-Nauru,NRU,1990,98.999084,,Oceania
-Nauru,NRU,1991,99.041306,,Oceania
-Nauru,NRU,1992,99.08342,,Oceania
-Nauru,NRU,1993,99.124855,,Oceania
-Nauru,NRU,1994,99.164925,,Oceania
-Nauru,NRU,1995,99.20296,,Oceania
-Nauru,NRU,1996,99.238266,,Oceania
-Nauru,NRU,1997,99.27018,,Oceania
-Nauru,NRU,1998,99.29801,,Oceania
-Nauru,NRU,1999,99.32101,,Oceania
-Nauru,NRU,2000,99.061745,,Oceania
-Nauru,NRU,2001,99.04695,,Oceania
-Nauru,NRU,2002,99.02361,,Oceania
-Nauru,NRU,2003,98.99873,,Oceania
 Nauru,NRU,2004,98.97932,5342.3306,Oceania
 Nauru,NRU,2005,98.972374,4931.436,Oceania
 Nauru,NRU,2006,98.984695,4522.2583,Oceania
@@ -4727,13 +3304,6 @@ Nauru,NRU,2018,99.918785,9896.362,Oceania
 Nauru,NRU,2019,100.0,10529.813,Oceania
 Nauru,NRU,2020,100.0,10812.89,Oceania
 Nauru,NRU,2021,100.0,10989.622,Oceania
-Nauru,NRU,2022,,11024.343,Oceania
-Nepal,NPL,1990,,1554.602,Asia
-Nepal,NPL,1991,,1611.3595,Asia
-Nepal,NPL,1992,,1631.2307,Asia
-Nepal,NPL,1993,,1649.0082,Asia
-Nepal,NPL,1994,,1741.3093,Asia
-Nepal,NPL,1995,,1760.445,Asia
 Nepal,NPL,1996,17.9,1815.3126,Asia
 Nepal,NPL,1997,18.132868,1868.7838,Asia
 Nepal,NPL,1998,21.732533,1888.2875,Asia
@@ -4760,7 +3330,6 @@ Nepal,NPL,2018,93.92,3719.3079,Asia
 Nepal,NPL,2019,89.9,3922.0813,Asia
 Nepal,NPL,2020,89.9,3761.8027,Asia
 Nepal,NPL,2021,89.9,3853.6802,Asia
-Nepal,NPL,2022,,4001.7,Asia
 Netherlands,NLD,1990,100.0,36461.418,Europe
 Netherlands,NLD,1991,100.0,37057.582,Europe
 Netherlands,NLD,1992,100.0,37405.93,Europe
@@ -4793,40 +3362,6 @@ Netherlands,NLD,2018,100.0,56060.914,Europe
 Netherlands,NLD,2019,100.0,56784.04,Europe
 Netherlands,NLD,2020,100.0,54275.004,Europe
 Netherlands,NLD,2021,100.0,57334.703,Europe
-Netherlands,NLD,2022,,59249.168,Europe
-Netherlands Antilles,ANT,2015,,,North America
-New Caledonia,NCL,1990,99.84431,,Oceania
-New Caledonia,NCL,1991,99.87582,,Oceania
-New Caledonia,NCL,1992,99.90687,,Oceania
-New Caledonia,NCL,1993,99.937256,,Oceania
-New Caledonia,NCL,1994,99.96508,,Oceania
-New Caledonia,NCL,1995,100.0,,Oceania
-New Caledonia,NCL,1996,100.0,,Oceania
-New Caledonia,NCL,1997,100.0,,Oceania
-New Caledonia,NCL,1998,100.0,,Oceania
-New Caledonia,NCL,1999,100.0,,Oceania
-New Caledonia,NCL,2000,100.0,,Oceania
-New Caledonia,NCL,2001,100.0,,Oceania
-New Caledonia,NCL,2002,100.0,,Oceania
-New Caledonia,NCL,2003,100.0,,Oceania
-New Caledonia,NCL,2004,100.0,,Oceania
-New Caledonia,NCL,2005,100.0,,Oceania
-New Caledonia,NCL,2006,100.0,,Oceania
-New Caledonia,NCL,2007,100.0,,Oceania
-New Caledonia,NCL,2008,100.0,,Oceania
-New Caledonia,NCL,2009,100.0,,Oceania
-New Caledonia,NCL,2010,100.0,,Oceania
-New Caledonia,NCL,2011,100.0,,Oceania
-New Caledonia,NCL,2012,100.0,,Oceania
-New Caledonia,NCL,2013,100.0,,Oceania
-New Caledonia,NCL,2014,100.0,,Oceania
-New Caledonia,NCL,2015,100.0,,Oceania
-New Caledonia,NCL,2016,100.0,,Oceania
-New Caledonia,NCL,2017,100.0,,Oceania
-New Caledonia,NCL,2018,100.0,,Oceania
-New Caledonia,NCL,2019,100.0,,Oceania
-New Caledonia,NCL,2020,100.0,,Oceania
-New Caledonia,NCL,2021,100.0,,Oceania
 New Zealand,NZL,1990,100.0,27998.398,Oceania
 New Zealand,NZL,1991,100.0,26383.26,Oceania
 New Zealand,NZL,1992,100.0,26395.44,Oceania
@@ -4859,10 +3394,6 @@ New Zealand,NZL,2018,100.0,42916.87,Oceania
 New Zealand,NZL,2019,100.0,43272.566,Oceania
 New Zealand,NZL,2020,100.0,42052.14,Oceania
 New Zealand,NZL,2021,100.0,44041.902,Oceania
-New Zealand,NZL,2022,,45185.312,Oceania
-Nicaragua,NIC,1990,,3409.8025,North America
-Nicaragua,NIC,1991,,3325.1174,North America
-Nicaragua,NIC,1992,,3262.655,North America
 Nicaragua,NIC,1993,72.06417,3178.389,North America
 Nicaragua,NIC,1994,69.25383,3214.4778,North America
 Nicaragua,NIC,1995,69.84991,3334.8164,North America
@@ -4892,9 +3423,6 @@ Nicaragua,NIC,2018,85.21433,5636.7153,North America
 Nicaragua,NIC,2019,85.66198,5398.1074,North America
 Nicaragua,NIC,2020,86.0033,5230.574,North America
 Nicaragua,NIC,2021,86.29147,5692.035,North America
-Nicaragua,NIC,2022,,5822.3535,North America
-Niger,NER,1990,,1077.8706,Africa
-Niger,NER,1991,,1040.324,Africa
 Niger,NER,1992,4.4,1028.6162,Africa
 Niger,NER,1993,4.01214,999.8848,Africa
 Niger,NER,1994,4.5717764,986.22046,Africa
@@ -4925,7 +3453,6 @@ Niger,NER,2018,17.6,1193.2727,Africa
 Niger,NER,2019,18.457434,1217.4355,Africa
 Niger,NER,2020,18.72191,1214.541,Africa
 Niger,NER,2021,18.6,1186.53,Africa
-Niger,NER,2022,,1274.6417,Africa
 Nigeria,NGA,1990,27.3,3259.581,Africa
 Nigeria,NGA,1991,35.2346,3188.5103,Africa
 Nigeria,NGA,1992,36.09946,3253.034,Africa
@@ -4958,55 +3485,6 @@ Nigeria,NGA,2018,56.5,5089.778,Africa
 Nigeria,NGA,2019,55.4,5076.368,Africa
 Nigeria,NGA,2020,55.4,4865.087,Africa
 Nigeria,NGA,2021,59.5,4922.6323,Africa
-Nigeria,NGA,2022,,4963.16,Africa
-Niue,NIU,2015,,,Oceania
-Norfolk Island,NFK,2015,,,Oceania
-North America (WB),,1990,100.0,39867.25,Other
-North America (WB),,1991,100.0,39231.34,Other
-North America (WB),,1992,100.0,39975.17,Other
-North America (WB),,1993,100.0,40542.99,Other
-North America (WB),,1994,100.0,41682.79,Other
-North America (WB),,1995,100.0,42301.74,Other
-North America (WB),,1996,100.0,43322.297,Other
-North America (WB),,1997,100.0,44710.934,Other
-North America (WB),,1998,100.0,46167.246,Other
-North America (WB),,1999,100.0,47856.812,Other
-North America (WB),,2000,100.0,49307.312,Other
-North America (WB),,2001,100.0,49320.895,Other
-North America (WB),,2002,100.0,49738.582,Other
-North America (WB),,2003,100.0,50648.938,Other
-North America (WB),,2004,100.0,52083.34,Other
-North America (WB),,2005,100.0,53389.92,Other
-North America (WB),,2006,100.0,54340.824,Other
-North America (WB),,2007,100.0,54909.594,Other
-North America (WB),,2008,100.0,54490.5,Other
-North America (WB),,2009,100.0,52582.18,Other
-North America (WB),,2010,100.0,53561.14,Other
-North America (WB),,2011,100.0,54053.184,Other
-North America (WB),,2012,100.0,54837.805,Other
-North America (WB),,2013,100.0,55463.902,Other
-North America (WB),,2014,100.0,56329.223,Other
-North America (WB),,2015,100.0,57331.336,Other
-North America (WB),,2016,100.0,57812.95,Other
-North America (WB),,2017,100.0,58740.645,Other
-North America (WB),,2018,100.0,60088.99,Other
-North America (WB),,2019,100.0,61107.695,Other
-North America (WB),,2020,100.0,58725.46,Other
-North America (WB),,2021,100.0,62061.168,Other
-North America (WB),,2022,,63023.21,Other
-North Korea,PRK,2009,26.0,,Asia
-North Korea,PRK,2010,29.300306,,Asia
-North Korea,PRK,2011,31.433271,,Asia
-North Korea,PRK,2012,33.568104,,Asia
-North Korea,PRK,2013,35.70097,,Asia
-North Korea,PRK,2014,37.828804,,Asia
-North Korea,PRK,2015,39.95166,,Asia
-North Korea,PRK,2016,42.070366,,Asia
-North Korea,PRK,2017,44.18575,,Asia
-North Korea,PRK,2018,46.298645,,Asia
-North Korea,PRK,2019,48.409885,,Asia
-North Korea,PRK,2020,50.520294,,Asia
-North Korea,PRK,2021,52.63056,,Asia
 North Macedonia,MKD,1990,100.0,11111.286,Europe
 North Macedonia,MKD,1991,100.0,10463.965,Europe
 North Macedonia,MKD,1992,100.0,9867.403,Europe
@@ -5039,40 +3517,6 @@ North Macedonia,MKD,2018,99.8,16145.634,Europe
 North Macedonia,MKD,2019,100.0,16773.143,Europe
 North Macedonia,MKD,2020,100.0,15779.787,Europe
 North Macedonia,MKD,2021,100.0,16708.598,Europe
-North Macedonia,MKD,2022,,17128.76,Europe
-Northern Cyprus,OWID_CYN,2015,,,Asia
-Northern Mariana Islands,MNP,1990,99.853264,,Oceania
-Northern Mariana Islands,MNP,1991,99.88438,,Oceania
-Northern Mariana Islands,MNP,1992,99.91503,,Oceania
-Northern Mariana Islands,MNP,1993,99.94492,,Oceania
-Northern Mariana Islands,MNP,1994,99.97164,,Oceania
-Northern Mariana Islands,MNP,1995,100.0,,Oceania
-Northern Mariana Islands,MNP,1996,100.0,,Oceania
-Northern Mariana Islands,MNP,1997,100.0,,Oceania
-Northern Mariana Islands,MNP,1998,100.0,,Oceania
-Northern Mariana Islands,MNP,1999,100.0,,Oceania
-Northern Mariana Islands,MNP,2000,100.0,,Oceania
-Northern Mariana Islands,MNP,2001,100.0,,Oceania
-Northern Mariana Islands,MNP,2002,99.93063,,Oceania
-Northern Mariana Islands,MNP,2003,99.87239,,Oceania
-Northern Mariana Islands,MNP,2004,99.81595,,Oceania
-Northern Mariana Islands,MNP,2005,99.77197,,Oceania
-Northern Mariana Islands,MNP,2006,99.74725,,Oceania
-Northern Mariana Islands,MNP,2007,100.0,,Oceania
-Northern Mariana Islands,MNP,2008,100.0,,Oceania
-Northern Mariana Islands,MNP,2009,100.0,,Oceania
-Northern Mariana Islands,MNP,2010,100.0,,Oceania
-Northern Mariana Islands,MNP,2011,100.0,,Oceania
-Northern Mariana Islands,MNP,2012,100.0,,Oceania
-Northern Mariana Islands,MNP,2013,100.0,,Oceania
-Northern Mariana Islands,MNP,2014,100.0,,Oceania
-Northern Mariana Islands,MNP,2015,100.0,,Oceania
-Northern Mariana Islands,MNP,2016,100.0,,Oceania
-Northern Mariana Islands,MNP,2017,100.0,,Oceania
-Northern Mariana Islands,MNP,2018,100.0,,Oceania
-Northern Mariana Islands,MNP,2019,100.0,,Oceania
-Northern Mariana Islands,MNP,2020,100.0,,Oceania
-Northern Mariana Islands,MNP,2021,100.0,,Oceania
 Norway,NOR,1990,100.0,42302.26,Europe
 Norway,NOR,1991,100.0,43399.758,Europe
 Norway,NOR,1992,100.0,44692.36,Europe
@@ -5105,7 +3549,6 @@ Norway,NOR,2018,100.0,64696.473,Europe
 Norway,NOR,2019,100.0,64983.355,Europe
 Norway,NOR,2020,100.0,63776.16,Europe
 Norway,NOR,2021,100.0,65915.53,Europe
-Norway,NOR,2022,,67296.16,Europe
 Oman,OMN,1990,100.0,30462.201,Asia
 Oman,OMN,1991,100.0,30766.715,Asia
 Oman,OMN,1992,100.0,31842.557,Asia
@@ -5138,15 +3581,6 @@ Oman,OMN,2018,100.0,34212.105,Asia
 Oman,OMN,2019,100.0,33814.113,Asia
 Oman,OMN,2020,100.0,33098.21,Asia
 Oman,OMN,2021,100.0,34294.766,Asia
-Oman,OMN,2022,,35336.895,Asia
-Pakistan,PAK,1990,,3034.1133,Asia
-Pakistan,PAK,1991,,3086.3499,Asia
-Pakistan,PAK,1992,,3238.0278,Asia
-Pakistan,PAK,1993,,3211.7104,Asia
-Pakistan,PAK,1994,,3236.403,Asia
-Pakistan,PAK,1995,,3298.1953,Asia
-Pakistan,PAK,1996,,3354.2964,Asia
-Pakistan,PAK,1997,,3290.1355,Asia
 Pakistan,PAK,1998,70.46,3277.887,Asia
 Pakistan,PAK,1999,70.26535,3302.1108,Asia
 Pakistan,PAK,2000,72.816895,3338.5107,Asia
@@ -5171,17 +3605,6 @@ Pakistan,PAK,2018,93.39749,5113.434,Asia
 Pakistan,PAK,2019,93.9,5157.5464,Asia
 Pakistan,PAK,2020,94.48528,5004.352,Asia
 Pakistan,PAK,2021,94.92286,5233.4595,Asia
-Pakistan,PAK,2022,,5376.967,Asia
-Palau,PLW,1990,96.62535,,Oceania
-Palau,PLW,1991,96.7627,,Oceania
-Palau,PLW,1992,96.89993,,Oceania
-Palau,PLW,1993,97.03649,,Oceania
-Palau,PLW,1994,97.171684,,Oceania
-Palau,PLW,1995,97.30484,,Oceania
-Palau,PLW,1996,97.43527,,Oceania
-Palau,PLW,1997,97.56231,,Oceania
-Palau,PLW,1998,97.685265,,Oceania
-Palau,PLW,1999,97.803375,,Oceania
 Palau,PLW,2000,97.94817,13301.254,Oceania
 Palau,PLW,2001,98.00195,14085.038,Oceania
 Palau,PLW,2002,98.04719,14572.293,Oceania
@@ -5204,9 +3627,6 @@ Palau,PLW,2018,100.0,17816.092,Oceania
 Palau,PLW,2019,100.0,17799.605,Oceania
 Palau,PLW,2020,100.0,16404.549,Oceania
 Palau,PLW,2021,100.0,14112.668,Oceania
-Palestine,PSE,1994,,3951.2056,Asia
-Palestine,PSE,1995,,4047.1284,Asia
-Palestine,PSE,1996,,3916.9258,Asia
 Palestine,PSE,1997,97.9,4294.746,Asia
 Palestine,PSE,1998,98.5393,4786.4805,Asia
 Palestine,PSE,1999,98.62315,5052.064,Asia
@@ -5232,7 +3652,6 @@ Palestine,PSE,2018,100.0,6318.21,Asia
 Palestine,PSE,2019,100.0,6245.4487,Asia
 Palestine,PSE,2020,100.0,5402.5386,Asia
 Palestine,PSE,2021,100.0,5641.0444,Asia
-Palestine,PSE,2022,,5722.409,Asia
 Panama,PAN,1990,70.19,11211.831,North America
 Panama,PAN,1991,73.44313,12012.538,North America
 Panama,PAN,1992,74.25564,12731.45,North America
@@ -5265,13 +3684,6 @@ Panama,PAN,2018,93.8,32259.22,North America
 Panama,PAN,2019,93.9,32788.332,North America
 Panama,PAN,2020,95.33601,26606.295,North America
 Panama,PAN,2021,95.25108,30416.793,North America
-Panama,PAN,2022,,33266.477,North America
-Papua New Guinea,PNG,1990,,2907.4019,Oceania
-Papua New Guinea,PNG,1991,,3084.3972,Oceania
-Papua New Guinea,PNG,1992,,3387.918,Oceania
-Papua New Guinea,PNG,1993,,3860.0142,Oceania
-Papua New Guinea,PNG,1994,,3942.305,Oceania
-Papua New Guinea,PNG,1995,,3675.691,Oceania
 Papua New Guinea,PNG,1996,11.0,3819.7458,Oceania
 Papua New Guinea,PNG,1997,2.1584826,3541.4497,Oceania
 Papua New Guinea,PNG,1998,4.2950897,3289.6638,Oceania
@@ -5298,12 +3710,6 @@ Papua New Guinea,PNG,2018,16.6,3865.0115,Oceania
 Papua New Guinea,PNG,2019,23.6,3947.9338,Oceania
 Papua New Guinea,PNG,2020,20.496119,3741.6616,Oceania
 Papua New Guinea,PNG,2021,20.916601,3637.9133,Oceania
-Papua New Guinea,PNG,2022,,3752.945,Oceania
-Paraguay,PRY,1990,,8818.629,South America
-Paraguay,PRY,1991,,8888.479,South America
-Paraguay,PRY,1992,,8808.784,South America
-Paraguay,PRY,1993,,9013.59,South America
-Paraguay,PRY,1994,,9262.535,South America
 Paraguay,PRY,1995,77.46912,9661.069,South America
 Paraguay,PRY,1996,86.260056,9588.724,South America
 Paraguay,PRY,1997,86.41286,9774.315,South America
@@ -5331,10 +3737,6 @@ Paraguay,PRY,2018,99.6,13848.499,South America
 Paraguay,PRY,2019,99.7,13609.723,South America
 Paraguay,PRY,2020,99.7,13317.321,South America
 Paraguay,PRY,2021,100.0,13676.391,South America
-Paraguay,PRY,2022,,13531.396,South America
-Parma,OWID_PMA,2015,,,Europe
-Peru,PER,1990,,5240.258,South America
-Peru,PER,1991,,5244.1445,South America
 Peru,PER,1992,70.1,5110.7373,South America
 Peru,PER,1993,64.74899,5271.982,South America
 Peru,PER,1994,66.05293,5804.9995,South America
@@ -5365,10 +3767,6 @@ Peru,PER,2018,95.2,12696.236,South America
 Peru,PER,2019,95.55136,12735.168,South America
 Peru,PER,2020,96.2,11187.344,South America
 Peru,PER,2021,95.6,12533.842,South America
-Peru,PER,2022,,12743.942,South America
-Philippines,PHL,1990,,4232.4775,Asia
-Philippines,PHL,1991,,4115.017,Asia
-Philippines,PHL,1992,,4035.9282,Asia
 Philippines,PHL,1993,65.4,4027.8953,Asia
 Philippines,PHL,1994,68.018555,4106.6846,Asia
 Philippines,PHL,1995,69.13312,4197.3447,Asia
@@ -5398,8 +3796,6 @@ Philippines,PHL,2018,94.18983,8365.732,Asia
 Philippines,PHL,2019,95.290474,8731.861,Asia
 Philippines,PHL,2020,96.39029,7773.2603,Asia
 Philippines,PHL,2021,97.489975,8095.5796,Asia
-Philippines,PHL,2022,,8581.9375,Asia
-Pitcairn,PCN,2015,,,Oceania
 Poland,POL,1990,100.0,11259.4375,Europe
 Poland,POL,1991,100.0,10432.455,Europe
 Poland,POL,1992,100.0,10662.08,Europe
@@ -5432,7 +3828,6 @@ Poland,POL,2018,100.0,31739.258,Europe
 Poland,POL,2019,100.0,33159.75,Europe
 Poland,POL,2020,100.0,32546.826,Europe
 Poland,POL,2021,100.0,34944.04,Europe
-Poland,POL,2022,,37706.605,Europe
 Portugal,PRT,1990,100.0,23556.855,Europe
 Portugal,PRT,1991,100.0,24642.6,Europe
 Portugal,PRT,1992,100.0,24930.451,Europe
@@ -5465,7 +3860,6 @@ Portugal,PRT,2018,100.0,34040.727,Europe
 Portugal,PRT,2019,100.0,34945.66,Europe
 Portugal,PRT,2020,100.0,32011.324,Europe
 Portugal,PRT,2021,100.0,33636.44,Europe
-Portugal,PRT,2022,,35767.723,Europe
 Puerto Rico,PRI,1990,99.98343,21595.979,North America
 Puerto Rico,PRI,1991,99.993095,21937.893,North America
 Puerto Rico,PRI,1992,99.99862,22791.564,North America
@@ -5498,17 +3892,6 @@ Puerto Rico,PRI,2018,100.0,34223.094,North America
 Puerto Rico,PRI,2019,100.0,34792.65,North America
 Puerto Rico,PRI,2020,100.0,32437.965,North America
 Puerto Rico,PRI,2021,100.0,32766.666,North America
-Puerto Rico,PRI,2022,,34297.934,North America
-Qatar,QAT,1990,100.0,,Asia
-Qatar,QAT,1991,100.0,,Asia
-Qatar,QAT,1992,100.0,,Asia
-Qatar,QAT,1993,100.0,,Asia
-Qatar,QAT,1994,100.0,,Asia
-Qatar,QAT,1995,100.0,,Asia
-Qatar,QAT,1996,100.0,,Asia
-Qatar,QAT,1997,100.0,,Asia
-Qatar,QAT,1998,100.0,,Asia
-Qatar,QAT,1999,100.0,,Asia
 Qatar,QAT,2000,100.0,79400.43,Asia
 Qatar,QAT,2001,100.0,78498.13,Asia
 Qatar,QAT,2002,100.0,80083.06,Asia
@@ -5531,9 +3914,6 @@ Qatar,QAT,2018,100.0,91461.62,Asia
 Qatar,QAT,2019,100.0,90762.4,Asia
 Qatar,QAT,2020,100.0,89019.07,Asia
 Qatar,QAT,2021,100.0,92895.34,Asia
-Qatar,QAT,2022,,96557.81,Asia
-Republic of Vietnam,OWID_RVN,2015,,,Asia
-Reunion,REU,2015,,,Africa
 Romania,ROU,1990,100.0,13376.159,Europe
 Romania,ROU,1991,100.0,11749.826,Europe
 Romania,ROU,1992,100.0,10816.9795,Europe
@@ -5566,7 +3946,6 @@ Romania,ROU,2018,99.822655,28736.217,Europe
 Romania,ROU,2019,100.0,30001.105,Europe
 Romania,ROU,2020,99.99522,29057.408,Europe
 Romania,ROU,2021,100.0,30946.277,Europe
-Romania,ROU,2022,,32495.908,Europe
 Russia,RUS,1990,100.0,21482.748,Europe
 Russia,RUS,1991,100.0,20340.133,Europe
 Russia,RUS,1992,100.0,17367.64,Europe
@@ -5599,14 +3978,7 @@ Russia,RUS,2018,100.0,26656.41,Europe
 Russia,RUS,2019,99.77797,27254.574,Europe
 Russia,RUS,2020,99.89778,26586.555,Europe
 Russia,RUS,2021,100.0,28057.031,Europe
-Russia,RUS,2022,,27450.45,Europe
-Rwanda,RWA,1990,,933.083,Africa
-Rwanda,RWA,1991,,889.48444,Africa
 Rwanda,RWA,1992,2.3,920.62616,Africa
-Rwanda,RWA,1993,,819.48425,Africa
-Rwanda,RWA,1994,,478.68646,Africa
-Rwanda,RWA,1995,,766.3317,Africa
-Rwanda,RWA,1996,,731.66644,Africa
 Rwanda,RWA,1997,1.027836,729.6489,Africa
 Rwanda,RWA,1998,2.1741276,769.40643,Africa
 Rwanda,RWA,1999,3.315577,793.37305,Africa
@@ -5632,9 +4004,6 @@ Rwanda,RWA,2018,37.956833,2049.6235,Africa
 Rwanda,RWA,2019,46.6,2190.562,Africa
 Rwanda,RWA,2020,45.19011,2066.4717,Africa
 Rwanda,RWA,2021,48.700436,2237.514,Africa
-Rwanda,RWA,2022,,2364.802,Africa
-Saint Barthelemy,BLM,2015,,,North America
-Saint Helena,SHN,2015,,,Africa
 Saint Kitts and Nevis,KNA,1990,91.306816,14170.434,North America
 Saint Kitts and Nevis,KNA,1991,91.67117,13938.441,North America
 Saint Kitts and Nevis,KNA,1992,92.03543,14406.258,North America
@@ -5667,17 +4036,6 @@ Saint Kitts and Nevis,KNA,2018,100.0,29934.469,North America
 Saint Kitts and Nevis,KNA,2019,100.0,31178.648,North America
 Saint Kitts and Nevis,KNA,2020,100.0,26678.33,North America
 Saint Kitts and Nevis,KNA,2021,100.0,26460.477,North America
-Saint Kitts and Nevis,KNA,2022,,28770.139,North America
-Saint Lucia,LCA,1990,,11419.1045,North America
-Saint Lucia,LCA,1991,,11305.727,North America
-Saint Lucia,LCA,1992,,12025.499,North America
-Saint Lucia,LCA,1993,,11918.586,North America
-Saint Lucia,LCA,1994,,11950.993,North America
-Saint Lucia,LCA,1995,,12017.291,North America
-Saint Lucia,LCA,1996,,12238.29,North America
-Saint Lucia,LCA,1997,,12037.244,North America
-Saint Lucia,LCA,1998,,12679.688,North America
-Saint Lucia,LCA,1999,,12903.064,North America
 Saint Lucia,LCA,2000,86.04014,12808.67,North America
 Saint Lucia,LCA,2001,89.9,12287.86,North America
 Saint Lucia,LCA,2002,87.65425,12247.139,North America
@@ -5700,41 +4058,6 @@ Saint Lucia,LCA,2018,99.9905,15622.774,North America
 Saint Lucia,LCA,2019,100.0,15460.798,North America
 Saint Lucia,LCA,2020,100.0,11651.172,North America
 Saint Lucia,LCA,2021,100.0,13045.966,North America
-Saint Lucia,LCA,2022,,15100.286,North America
-Saint Martin (French part),MAF,1990,100.0,,North America
-Saint Martin (French part),MAF,1991,100.0,,North America
-Saint Martin (French part),MAF,1992,100.0,,North America
-Saint Martin (French part),MAF,1993,100.0,,North America
-Saint Martin (French part),MAF,1994,100.0,,North America
-Saint Martin (French part),MAF,1995,100.0,,North America
-Saint Martin (French part),MAF,1996,100.0,,North America
-Saint Martin (French part),MAF,1997,100.0,,North America
-Saint Martin (French part),MAF,1998,100.0,,North America
-Saint Martin (French part),MAF,1999,100.0,,North America
-Saint Martin (French part),MAF,2000,99.96133,,North America
-Saint Martin (French part),MAF,2001,99.920135,,North America
-Saint Martin (French part),MAF,2002,99.868095,,North America
-Saint Martin (French part),MAF,2003,99.809906,,North America
-Saint Martin (French part),MAF,2004,99.75719,,North America
-Saint Martin (French part),MAF,2005,99.71694,,North America
-Saint Martin (French part),MAF,2006,99.695946,,North America
-Saint Martin (French part),MAF,2007,99.69579,,North America
-Saint Martin (French part),MAF,2008,99.71287,,North America
-Saint Martin (French part),MAF,2009,99.743324,,North America
-Saint Martin (French part),MAF,2010,100.0,,North America
-Saint Martin (French part),MAF,2011,100.0,,North America
-Saint Martin (French part),MAF,2012,100.0,,North America
-Saint Martin (French part),MAF,2013,100.0,,North America
-Saint Martin (French part),MAF,2014,100.0,,North America
-Saint Martin (French part),MAF,2015,100.0,,North America
-Saint Martin (French part),MAF,2016,100.0,,North America
-Saint Martin (French part),MAF,2017,100.0,,North America
-Saint Martin (French part),MAF,2018,100.0,,North America
-Saint Martin (French part),MAF,2019,100.0,,North America
-Saint Martin (French part),MAF,2020,100.0,,North America
-Saint Martin (French part),MAF,2021,100.0,,North America
-Saint Pierre and Miquelon,SPM,2015,,,North America
-Saint Vincent and the Grenadines,VCT,1990,,6480.031,North America
 Saint Vincent and the Grenadines,VCT,1991,66.8,6536.5903,North America
 Saint Vincent and the Grenadines,VCT,1992,69.11443,6926.345,North America
 Saint Vincent and the Grenadines,VCT,1993,70.46484,7195.408,North America
@@ -5766,8 +4089,6 @@ Saint Vincent and the Grenadines,VCT,2018,100.0,14042.174,North America
 Saint Vincent and the Grenadines,VCT,2019,100.0,14183.188,North America
 Saint Vincent and the Grenadines,VCT,2020,100.0,13690.9,North America
 Saint Vincent and the Grenadines,VCT,2021,100.0,13839.464,North America
-Saint Vincent and the Grenadines,VCT,2022,,14572.607,North America
-Samoa,WSM,1990,,3655.952,Oceania
 Samoa,WSM,1991,78.8,3560.9604,Oceania
 Samoa,WSM,1992,81.64017,3530.8584,Oceania
 Samoa,WSM,1993,82.42459,3642.0977,Oceania
@@ -5799,14 +4120,6 @@ Samoa,WSM,2018,99.819275,6139.6294,Oceania
 Samoa,WSM,2019,99.2,6346.2563,Oceania
 Samoa,WSM,2020,100.0,6062.4717,Oceania
 Samoa,WSM,2021,98.3,5534.566,Oceania
-Samoa,WSM,2022,,5155.62,Oceania
-San Marino,SMR,1990,100.0,,Europe
-San Marino,SMR,1991,100.0,,Europe
-San Marino,SMR,1992,100.0,,Europe
-San Marino,SMR,1993,100.0,,Europe
-San Marino,SMR,1994,100.0,,Europe
-San Marino,SMR,1995,100.0,,Europe
-San Marino,SMR,1996,100.0,,Europe
 San Marino,SMR,1997,100.0,66407.516,Europe
 San Marino,SMR,1998,100.0,70264.445,Europe
 San Marino,SMR,1999,100.0,75441.836,Europe
@@ -5832,7 +4145,6 @@ San Marino,SMR,2018,100.0,58898.06,Europe
 San Marino,SMR,2019,100.0,60076.01,Europe
 San Marino,SMR,2020,100.0,56364.215,Europe
 San Marino,SMR,2021,100.0,61609.01,Europe
-Sao Tome and Principe,STP,2000,52.9,,Africa
 Sao Tome and Principe,STP,2001,51.458244,2401.268,Africa
 Sao Tome and Principe,STP,2002,52.526825,2422.6067,Africa
 Sao Tome and Principe,STP,2003,53.59386,2556.578,Africa
@@ -5854,7 +4166,6 @@ Sao Tome and Principe,STP,2018,71.0,3465.8398,Africa
 Sao Tome and Principe,STP,2019,75.12295,3482.0247,Africa
 Sao Tome and Principe,STP,2020,76.81361,3507.3613,Africa
 Sao Tome and Principe,STP,2021,78.45111,3502.4353,Africa
-Sao Tome and Principe,STP,2022,,3438.8599,Africa
 Saudi Arabia,SAU,1990,100.0,42163.8,Asia
 Saudi Arabia,SAU,1991,100.0,46600.53,Asia
 Saudi Arabia,SAU,1992,100.0,46700.363,Asia
@@ -5887,11 +4198,6 @@ Saudi Arabia,SAU,2018,99.89,47714.113,Asia
 Saudi Arabia,SAU,2019,99.99,47024.543,Asia
 Saudi Arabia,SAU,2020,99.99,44770.91,Asia
 Saudi Arabia,SAU,2021,100.0,46768.434,Asia
-Saudi Arabia,SAU,2022,,50188.297,Asia
-Saxony,OWID_SAX,2015,,,Europe
-Senegal,SEN,1990,,2469.6033,Africa
-Senegal,SEN,1991,,2463.9236,Africa
-Senegal,SEN,1992,,2427.5107,Africa
 Senegal,SEN,1993,26.0,2393.8767,Africa
 Senegal,SEN,1994,27.190487,2330.0718,Africa
 Senegal,SEN,1995,28.857191,2396.0945,Africa
@@ -5921,12 +4227,6 @@ Senegal,SEN,2018,66.0,3368.8586,Africa
 Senegal,SEN,2019,70.4,3430.484,Africa
 Senegal,SEN,2020,64.3,3384.442,Africa
 Senegal,SEN,2021,67.97534,3511.6375,Africa
-Senegal,SEN,2022,,3564.6282,Africa
-Serbia,SRB,1990,100.0,,Europe
-Serbia,SRB,1991,100.0,,Europe
-Serbia,SRB,1992,100.0,,Europe
-Serbia,SRB,1993,100.0,,Europe
-Serbia,SRB,1994,100.0,,Europe
 Serbia,SRB,1995,100.0,7752.2417,Europe
 Serbia,SRB,1996,100.0,8246.027,Europe
 Serbia,SRB,1997,100.0,8865.129,Europe
@@ -5954,13 +4254,6 @@ Serbia,SRB,2018,99.991905,17452.916,Europe
 Serbia,SRB,2019,99.8,18306.904,Europe
 Serbia,SRB,2020,100.0,18262.799,Europe
 Serbia,SRB,2021,100.0,19860.31,Europe
-Serbia,SRB,2022,,20885.889,Europe
-Serbia and Montenegro,OWID_SRM,2015,,,Europe
-Serbia excluding Kosovo,OWID_SEK,2015,,,Europe
-Seychelles,SYC,1990,,15538.385,Africa
-Seychelles,SYC,1991,,15756.042,Africa
-Seychelles,SYC,1992,,16808.914,Africa
-Seychelles,SYC,1993,,17664.582,Africa
 Seychelles,SYC,1994,90.0,16780.818,Africa
 Seychelles,SYC,1995,92.17365,16616.121,Africa
 Seychelles,SYC,1996,92.55249,18011.186,Africa
@@ -5989,17 +4282,6 @@ Seychelles,SYC,2018,100.0,28080.635,Africa
 Seychelles,SYC,2019,100.0,29189.785,Africa
 Seychelles,SYC,2020,100.0,26704.926,Africa
 Seychelles,SYC,2021,100.0,27928.373,Africa
-Seychelles,SYC,2022,,25205.736,Africa
-Sierra Leone,SLE,1990,,1433.1187,Africa
-Sierra Leone,SLE,1991,,1449.1417,Africa
-Sierra Leone,SLE,1992,,1194.5177,Africa
-Sierra Leone,SLE,1993,,1212.5936,Africa
-Sierra Leone,SLE,1994,,1183.6716,Africa
-Sierra Leone,SLE,1995,,1086.6649,Africa
-Sierra Leone,SLE,1996,,1099.817,Africa
-Sierra Leone,SLE,1997,,1021.63025,Africa
-Sierra Leone,SLE,1998,,1029.3633,Africa
-Sierra Leone,SLE,1999,,1003.3143,Africa
 Sierra Leone,SLE,2000,7.7283993,1044.6364,Africa
 Sierra Leone,SLE,2001,8.47394,923.354,Africa
 Sierra Leone,SLE,2002,9.210933,1103.9404,Africa
@@ -6022,7 +4304,6 @@ Sierra Leone,SLE,2018,26.1,1610.3232,Africa
 Sierra Leone,SLE,2019,22.7,1655.8433,Africa
 Sierra Leone,SLE,2020,26.310684,1586.355,Africa
 Sierra Leone,SLE,2021,27.49405,1614.8599,Africa
-Sierra Leone,SLE,2022,,1634.7638,Africa
 Singapore,SGP,1990,100.0,37326.305,Asia
 Singapore,SGP,1991,100.0,38705.652,Asia
 Singapore,SGP,1992,100.0,40054.05,Asia
@@ -6055,26 +4336,6 @@ Singapore,SGP,2018,100.0,98280.04,Asia
 Singapore,SGP,2019,100.0,98455.33,Asia
 Singapore,SGP,2020,100.0,94910.1,Asia
 Singapore,SGP,2021,100.0,107741.12,Asia
-Singapore,SGP,2022,,108036.11,Asia
-Sint Maarten (Dutch part),SXM,1990,100.0,,North America
-Sint Maarten (Dutch part),SXM,1991,100.0,,North America
-Sint Maarten (Dutch part),SXM,1992,100.0,,North America
-Sint Maarten (Dutch part),SXM,1993,100.0,,North America
-Sint Maarten (Dutch part),SXM,1994,100.0,,North America
-Sint Maarten (Dutch part),SXM,1995,100.0,,North America
-Sint Maarten (Dutch part),SXM,1996,100.0,,North America
-Sint Maarten (Dutch part),SXM,1997,100.0,,North America
-Sint Maarten (Dutch part),SXM,1998,100.0,,North America
-Sint Maarten (Dutch part),SXM,1999,100.0,,North America
-Sint Maarten (Dutch part),SXM,2000,99.96133,,North America
-Sint Maarten (Dutch part),SXM,2001,99.920135,,North America
-Sint Maarten (Dutch part),SXM,2002,99.868095,,North America
-Sint Maarten (Dutch part),SXM,2003,99.809906,,North America
-Sint Maarten (Dutch part),SXM,2004,99.75719,,North America
-Sint Maarten (Dutch part),SXM,2005,99.71694,,North America
-Sint Maarten (Dutch part),SXM,2006,99.695946,,North America
-Sint Maarten (Dutch part),SXM,2007,99.69579,,North America
-Sint Maarten (Dutch part),SXM,2008,99.71287,,North America
 Sint Maarten (Dutch part),SXM,2009,99.743324,48472.246,North America
 Sint Maarten (Dutch part),SXM,2010,100.0,50290.688,North America
 Sint Maarten (Dutch part),SXM,2011,100.0,53581.094,North America
@@ -6088,9 +4349,6 @@ Sint Maarten (Dutch part),SXM,2018,100.0,39788.445,North America
 Sint Maarten (Dutch part),SXM,2019,100.0,43394.668,North America
 Sint Maarten (Dutch part),SXM,2020,100.0,36991.777,North America
 Sint Maarten (Dutch part),SXM,2021,100.0,38360.527,North America
-Sint Maarten (Dutch part),SXM,2022,,41942.918,North America
-Slovakia,SVK,1990,100.0,,Europe
-Slovakia,SVK,1991,100.0,,Europe
 Slovakia,SVK,1992,100.0,11695.35,Europe
 Slovakia,SVK,1993,100.0,11872.311,Europe
 Slovakia,SVK,1994,100.0,12559.462,Europe
@@ -6121,12 +4379,6 @@ Slovakia,SVK,2018,100.0,31313.82,Europe
 Slovakia,SVK,2019,100.0,32056.78,Europe
 Slovakia,SVK,2020,100.0,30960.959,Europe
 Slovakia,SVK,2021,100.0,32512.695,Europe
-Slovakia,SVK,2022,,33176.184,Europe
-Slovenia,SVN,1990,100.0,,Europe
-Slovenia,SVN,1991,100.0,,Europe
-Slovenia,SVN,1992,100.0,,Europe
-Slovenia,SVN,1993,100.0,,Europe
-Slovenia,SVN,1994,100.0,,Europe
 Slovenia,SVN,1995,100.0,21480.328,Europe
 Slovenia,SVN,1996,100.0,22182.21,Europe
 Slovenia,SVN,1997,100.0,23333.719,Europe
@@ -6154,16 +4406,6 @@ Slovenia,SVN,2018,100.0,37995.715,Europe
 Slovenia,SVN,2019,100.0,39061.25,Europe
 Slovenia,SVN,2020,100.0,37155.023,Europe
 Slovenia,SVN,2021,100.0,40104.36,Europe
-Slovenia,SVN,2022,,41015.227,Europe
-Solomon Islands,SLB,1990,,2192.103,Oceania
-Solomon Islands,SLB,1991,,2255.5732,Oceania
-Solomon Islands,SLB,1992,,2468.3828,Oceania
-Solomon Islands,SLB,1993,,2493.3857,Oceania
-Solomon Islands,SLB,1994,,2618.3064,Oceania
-Solomon Islands,SLB,1995,,2800.3755,Oceania
-Solomon Islands,SLB,1996,,2765.2695,Oceania
-Solomon Islands,SLB,1997,,2664.2144,Oceania
-Solomon Islands,SLB,1998,,2625.2637,Oceania
 Solomon Islands,SLB,1999,15.7,2543.4397,Oceania
 Solomon Islands,SLB,2000,4.6778793,2125.8074,Oceania
 Solomon Islands,SLB,2001,7.5931225,1910.3827,Oceania
@@ -6187,20 +4429,6 @@ Solomon Islands,SLB,2018,65.78609,2633.3342,Oceania
 Solomon Islands,SLB,2019,69.395164,2616.9084,Oceania
 Solomon Islands,SLB,2020,72.89793,2469.1743,Oceania
 Solomon Islands,SLB,2021,76.34753,2397.3228,Oceania
-Solomon Islands,SLB,2022,,2247.785,Oceania
-Somalia,SOM,2000,2.1093535,,Africa
-Somalia,SOM,2001,4.6863813,,Africa
-Somalia,SOM,2002,7.4,,Africa
-Somalia,SOM,2003,9.821804,,Africa
-Somalia,SOM,2004,12.394212,,Africa
-Somalia,SOM,2005,14.9790945,,Africa
-Somalia,SOM,2006,15.233786,,Africa
-Somalia,SOM,2007,20.208208,,Africa
-Somalia,SOM,2008,22.85041,,Africa
-Somalia,SOM,2009,25.505999,,Africa
-Somalia,SOM,2010,52.27223,,Africa
-Somalia,SOM,2011,52.009727,,Africa
-Somalia,SOM,2012,51.76346,,Africa
 Somalia,SOM,2013,51.54966,1308.1309,Africa
 Somalia,SOM,2014,51.37919,1358.3143,Africa
 Somalia,SOM,2015,51.241367,1444.0901,Africa
@@ -6210,14 +4438,6 @@ Somalia,SOM,2018,50.73002,1547.9973,Africa
 Somalia,SOM,2019,49.2,1546.9055,Africa
 Somalia,SOM,2020,49.863564,1456.6559,Africa
 Somalia,SOM,2021,49.324024,1458.2279,Africa
-Somalia,SOM,2022,,1448.5568,Africa
-Somaliland,OWID_SML,2015,,,Africa
-South Africa,ZAF,1990,,10391.964,Africa
-South Africa,ZAF,1991,,10026.326,Africa
-South Africa,ZAF,1992,,9612.393,Africa
-South Africa,ZAF,1993,,9555.986,Africa
-South Africa,ZAF,1994,,9692.536,Africa
-South Africa,ZAF,1995,,9829.862,Africa
 South Africa,ZAF,1996,57.6,10097.474,Africa
 South Africa,ZAF,1997,69.48335,10217.38,Africa
 South Africa,ZAF,1998,64.9,10141.463,Africa
@@ -6244,41 +4464,6 @@ South Africa,ZAF,2018,84.7,13995.0625,Africa
 South Africa,ZAF,2019,85.0,13850.8955,Africa
 South Africa,ZAF,2020,90.0,12866.569,Africa
 South Africa,ZAF,2021,89.3,13337.79,Africa
-South Africa,ZAF,2022,,13478.754,Africa
-South Asia (WB),,1990,,1960.5931,Other
-South Asia (WB),,1991,,1958.0752,Other
-South Asia (WB),,1992,,2026.3389,Other
-South Asia (WB),,1993,46.73507,2067.1548,Other
-South Asia (WB),,1994,46.3227,2142.5286,Other
-South Asia (WB),,1995,47.808727,2240.8604,Other
-South Asia (WB),,1996,48.901203,2342.886,Other
-South Asia (WB),,1997,50.432564,2381.1755,Other
-South Asia (WB),,1998,54.357098,2461.7014,Other
-South Asia (WB),,1999,57.72028,2595.8467,Other
-South Asia (WB),,2000,57.888832,2650.5261,Other
-South Asia (WB),,2001,59.488728,2716.3018,Other
-South Asia (WB),,2002,60.55274,2760.747,Other
-South Asia (WB),,2003,63.27414,2904.886,Other
-South Asia (WB),,2004,62.697266,3069.7056,Other
-South Asia (WB),,2005,66.7271,3249.1597,Other
-South Asia (WB),,2006,66.93484,3441.6538,Other
-South Asia (WB),,2007,70.1181,3633.69,Other
-South Asia (WB),,2008,72.451164,3699.681,Other
-South Asia (WB),,2009,73.710686,3901.551,Other
-South Asia (WB),,2010,75.106514,4129.97,Other
-South Asia (WB),,2011,78.00089,4276.8936,Other
-South Asia (WB),,2012,79.47722,4445.006,Other
-South Asia (WB),,2013,81.669495,4650.317,Other
-South Asia (WB),,2014,83.88217,4906.2563,Other
-South Asia (WB),,2015,86.78482,5199.615,Other
-South Asia (WB),,2016,88.912735,5537.209,Other
-South Asia (WB),,2017,91.66742,5827.2603,Other
-South Asia (WB),,2018,94.61972,6124.37,Other
-South Asia (WB),,2019,95.31231,6294.5938,Other
-South Asia (WB),,2020,96.19496,5937.8115,Other
-South Asia (WB),,2021,98.768074,6361.804,Other
-South Asia (WB),,2022,,6719.767,Other
-South Georgia and the South Sandwich Islands,SGS,2015,,,South America
 South Korea,KOR,1990,99.88284,12656.396,Asia
 South Korea,KOR,1991,99.912674,13882.421,Asia
 South Korea,KOR,1992,99.942215,14590.533,Asia
@@ -6311,23 +4496,6 @@ South Korea,KOR,2018,100.0,41965.89,Asia
 South Korea,KOR,2019,100.0,42758.59,Asia
 South Korea,KOR,2020,100.0,42396.76,Asia
 South Korea,KOR,2021,100.0,44299.91,Asia
-South Korea,KOR,2022,,45560.125,Asia
-South Ossetia,OWID_SOS,2015,,,Asia
-South Sudan,SSD,2007,0.79638296,,Africa
-South Sudan,SSD,2008,1.2772647,,Africa
-South Sudan,SSD,2009,3.0,,Africa
-South Sudan,SSD,2010,1.5,,Africa
-South Sudan,SSD,2011,2.7848737,,Africa
-South Sudan,SSD,2012,3.296268,,Africa
-South Sudan,SSD,2013,3.8056922,,Africa
-South Sudan,SSD,2014,4.310086,,Africa
-South Sudan,SSD,2015,4.809501,,Africa
-South Sudan,SSD,2016,5.304766,,Africa
-South Sudan,SSD,2017,4.2,,Africa
-South Sudan,SSD,2018,6.2861686,,Africa
-South Sudan,SSD,2019,6.773966,,Africa
-South Sudan,SSD,2020,7.260934,,Africa
-South Sudan,SSD,2021,7.7477627,,Africa
 Spain,ESP,1990,100.0,27543.22,Europe
 Spain,ESP,1991,100.0,28172.674,Europe
 Spain,ESP,1992,100.0,28295.54,Europe
@@ -6360,17 +4528,6 @@ Spain,ESP,2018,100.0,40276.906,Europe
 Spain,ESP,2019,100.0,40782.234,Europe
 Spain,ESP,2020,100.0,36051.418,Europe
 Spain,ESP,2021,100.0,38319.29,Europe
-Spain,ESP,2022,,40223.01,Europe
-Sri Lanka,LKA,1990,,4040.0283,Asia
-Sri Lanka,LKA,1991,,4174.309,Asia
-Sri Lanka,LKA,1992,,4306.5806,Asia
-Sri Lanka,LKA,1993,,4551.786,Asia
-Sri Lanka,LKA,1994,,4757.0103,Asia
-Sri Lanka,LKA,1995,,4972.8667,Asia
-Sri Lanka,LKA,1996,,5121.003,Asia
-Sri Lanka,LKA,1997,,5411.627,Asia
-Sri Lanka,LKA,1998,,5631.798,Asia
-Sri Lanka,LKA,1999,,5839.51,Asia
 Sri Lanka,LKA,2000,70.3424,6154.951,Asia
 Sri Lanka,LKA,2001,63.6,6013.742,Asia
 Sri Lanka,LKA,2002,80.7,6189.8667,Asia
@@ -6393,40 +4550,6 @@ Sri Lanka,LKA,2018,99.58558,13753.055,Asia
 Sri Lanka,LKA,2019,99.76135,13639.021,Asia
 Sri Lanka,LKA,2020,99.9741,12939.44,Asia
 Sri Lanka,LKA,2021,100.0,13250.63,Asia
-Sri Lanka,LKA,2022,,12200.138,Asia
-Sub-Saharan Africa (WB),,1990,,2938.28,Other
-Sub-Saharan Africa (WB),,1991,,2874.4734,Other
-Sub-Saharan Africa (WB),,1992,,2792.8425,Other
-Sub-Saharan Africa (WB),,1993,,2701.335,Other
-Sub-Saharan Africa (WB),,1994,,2659.7427,Other
-Sub-Saharan Africa (WB),,1995,,2683.6587,Other
-Sub-Saharan Africa (WB),,1996,28.38855,2748.3877,Other
-Sub-Saharan Africa (WB),,1997,28.268345,2794.0144,Other
-Sub-Saharan Africa (WB),,1998,28.4812,2791.8208,Other
-Sub-Saharan Africa (WB),,1999,30.047,2784.1711,Other
-Sub-Saharan Africa (WB),,2000,25.653105,2806.9988,Other
-Sub-Saharan Africa (WB),,2001,26.112242,2850.8818,Other
-Sub-Saharan Africa (WB),,2002,27.29006,2944.241,Other
-Sub-Saharan Africa (WB),,2003,29.524847,2986.5955,Other
-Sub-Saharan Africa (WB),,2004,29.316021,3099.2036,Other
-Sub-Saharan Africa (WB),,2005,29.290947,3200.7,Other
-Sub-Saharan Africa (WB),,2006,31.126942,3307.187,Other
-Sub-Saharan Africa (WB),,2007,32.452618,3417.969,Other
-Sub-Saharan Africa (WB),,2008,32.335247,3499.8005,Other
-Sub-Saharan Africa (WB),,2009,32.540237,3502.228,Other
-Sub-Saharan Africa (WB),,2010,33.24831,3607.448,Other
-Sub-Saharan Africa (WB),,2011,35.8028,3664.4377,Other
-Sub-Saharan Africa (WB),,2012,36.689167,3693.0588,Other
-Sub-Saharan Africa (WB),,2013,37.920967,3773.191,Other
-Sub-Saharan Africa (WB),,2014,38.25901,3852.0571,Other
-Sub-Saharan Africa (WB),,2015,39.1121,3862.8228,Other
-Sub-Saharan Africa (WB),,2016,43.73394,3823.0452,Other
-Sub-Saharan Africa (WB),,2017,43.678547,3824.3796,Other
-Sub-Saharan Africa (WB),,2018,46.344738,3831.0264,Other
-Sub-Saharan Africa (WB),,2019,47.132523,3833.967,Other
-Sub-Saharan Africa (WB),,2020,48.48184,3665.7354,Other
-Sub-Saharan Africa (WB),,2021,50.581482,3726.195,Other
-Sub-Saharan Africa (WB),,2022,,3767.1772,Other
 Sudan,SDN,1990,32.8,2756.53,Africa
 Sudan,SDN,1991,26.919294,2909.6162,Africa
 Sudan,SDN,1992,27.408613,3052.7432,Africa
@@ -6459,16 +4582,6 @@ Sudan,SDN,2018,55.339027,4349.21,Africa
 Sudan,SDN,2019,57.57052,4133.1304,Africa
 Sudan,SDN,2020,59.695698,3874.8003,Africa
 Sudan,SDN,2021,61.76772,3701.069,Africa
-Sudan,SDN,2022,,3570.6074,Africa
-Suriname,SUR,1990,,13633.589,South America
-Suriname,SUR,1991,,13893.144,South America
-Suriname,SUR,1992,,13831.015,South America
-Suriname,SUR,1993,,12817.142,South America
-Suriname,SUR,1994,,13123.269,South America
-Suriname,SUR,1995,,12883.39,South America
-Suriname,SUR,1996,,12738.278,South America
-Suriname,SUR,1997,,13195.214,South America
-Suriname,SUR,1998,,13239.634,South America
 Suriname,SUR,1999,99.62406,12812.621,South America
 Suriname,SUR,2000,95.41635,12848.454,South America
 Suriname,SUR,2001,95.30744,13157.462,South America
@@ -6492,8 +4605,6 @@ Suriname,SUR,2018,97.4,18438.348,South America
 Suriname,SUR,2019,97.93016,18448.979,South America
 Suriname,SUR,2020,98.40329,15328.997,South America
 Suriname,SUR,2021,98.82326,14811.24,South America
-Suriname,SUR,2022,,15047.614,South America
-Svalbard and Jan Mayen,SJM,2015,,,Europe
 Sweden,SWE,1990,100.0,34156.82,Europe
 Sweden,SWE,1991,100.0,33536.016,Europe
 Sweden,SWE,1992,100.0,32953.617,Europe
@@ -6526,7 +4637,6 @@ Sweden,SWE,2018,100.0,52349.293,Europe
 Sweden,SWE,2019,100.0,52850.57,Europe
 Sweden,SWE,2020,100.0,51331.28,Europe
 Sweden,SWE,2021,100.0,54160.367,Europe
-Sweden,SWE,2022,,55359.344,Europe
 Switzerland,CHE,1990,100.0,56232.027,Europe
 Switzerland,CHE,1991,100.0,55025.01,Europe
 Switzerland,CHE,1992,100.0,54397.88,Europe
@@ -6559,39 +4669,6 @@ Switzerland,CHE,2018,100.0,69629.336,Europe
 Switzerland,CHE,2019,100.0,69923.93,Europe
 Switzerland,CHE,2020,100.0,67928.195,Europe
 Switzerland,CHE,2021,100.0,71044.87,Europe
-Switzerland,CHE,2022,,72278.21,Europe
-Syria,SYR,2000,93.391754,,Asia
-Syria,SYR,2001,93.117546,,Asia
-Syria,SYR,2002,86.6,,Asia
-Syria,SYR,2003,92.5505,,Asia
-Syria,SYR,2004,92.271675,,Asia
-Syria,SYR,2005,92.00532,,Asia
-Syria,SYR,2006,99.50576,,Asia
-Syria,SYR,2007,91.53196,,Asia
-Syria,SYR,2008,91.32293,,Asia
-Syria,SYR,2009,91.12728,,Asia
-Syria,SYR,2010,92.7,,Asia
-Syria,SYR,2011,91.45221,,Asia
-Syria,SYR,2012,90.70772,,Asia
-Syria,SYR,2013,90.40178,,Asia
-Syria,SYR,2014,90.21626,,Asia
-Syria,SYR,2015,90.02576,,Asia
-Syria,SYR,2016,89.83111,,Asia
-Syria,SYR,2017,89.63314,,Asia
-Syria,SYR,2018,86.0,,Asia
-Syria,SYR,2019,89.23057,,Asia
-Syria,SYR,2020,89.02762,,Asia
-Syria,SYR,2021,88.82453,,Asia
-Taiwan,TWN,2015,,,Asia
-Tajikistan,TJK,1990,,3990.8691,Asia
-Tajikistan,TJK,1991,,3615.1375,Asia
-Tajikistan,TJK,1992,,2521.4128,Asia
-Tajikistan,TJK,1993,,2085.1926,Asia
-Tajikistan,TJK,1994,,1616.6777,Asia
-Tajikistan,TJK,1995,,1389.0973,Asia
-Tajikistan,TJK,1996,,1134.222,Asia
-Tajikistan,TJK,1997,,1137.9248,Asia
-Tajikistan,TJK,1998,,1190.6469,Asia
 Tajikistan,TJK,1999,97.0,1228.1605,Asia
 Tajikistan,TJK,2000,98.46774,1312.7018,Asia
 Tajikistan,TJK,2001,98.60231,1407.9865,Asia
@@ -6615,9 +4692,6 @@ Tajikistan,TJK,2018,99.3,3405.1135,Asia
 Tajikistan,TJK,2019,99.445885,3575.282,Asia
 Tajikistan,TJK,2020,99.505745,3651.9426,Asia
 Tajikistan,TJK,2021,99.56547,3910.4626,Asia
-Tajikistan,TJK,2022,,4137.278,Asia
-Tanzania,TZA,1990,,1338.5645,Africa
-Tanzania,TZA,1991,,1331.5881,Africa
 Tanzania,TZA,1992,6.8,1305.9562,Africa
 Tanzania,TZA,1993,2.3301878,1280.548,Africa
 Tanzania,TZA,1994,3.3006473,1251.0809,Africa
@@ -6648,17 +4722,6 @@ Tanzania,TZA,2018,34.92961,2511.8293,Africa
 Tanzania,TZA,2019,37.7,2578.8403,Africa
 Tanzania,TZA,2020,39.9,2552.5469,Africa
 Tanzania,TZA,2021,42.743362,2584.3977,Africa
-Tanzania,TZA,2022,,2623.8616,Africa
-Thailand,THA,1990,,7273.059,Asia
-Thailand,THA,1991,,7772.858,Asia
-Thailand,THA,1992,,8277.354,Asia
-Thailand,THA,1993,,8830.575,Asia
-Thailand,THA,1994,,9401.065,Asia
-Thailand,THA,1995,,10025.088,Asia
-Thailand,THA,1996,,10453.39,Asia
-Thailand,THA,1997,,10035.87,Asia
-Thailand,THA,1998,,9156.215,Asia
-Thailand,THA,1999,,9467.921,Asia
 Thailand,THA,2000,82.1,9791.8955,Asia
 Thailand,THA,2001,90.366425,10036.329,Asia
 Thailand,THA,2002,90.976425,10558.468,Asia
@@ -6681,15 +4744,6 @@ Thailand,THA,2018,99.82,17669.045,Asia
 Thailand,THA,2019,99.9,17997.133,Asia
 Thailand,THA,2020,100.0,16865.549,Asia
 Thailand,THA,2021,100.0,17087.21,Asia
-Thailand,THA,2022,,17507.621,Asia
-Togo,TGO,1990,,1800.3202,Africa
-Togo,TGO,1991,,1736.5236,Africa
-Togo,TGO,1992,,1620.2926,Africa
-Togo,TGO,1993,,1385.0825,Africa
-Togo,TGO,1994,,1587.0676,Africa
-Togo,TGO,1995,,1636.8152,Africa
-Togo,TGO,1996,,1714.8052,Africa
-Togo,TGO,1997,,1898.7118,Africa
 Togo,TGO,1998,15.3,1801.7864,Africa
 Togo,TGO,1999,16.073,1793.5326,Africa
 Togo,TGO,2000,16.956234,1729.7018,Africa
@@ -6714,12 +4768,6 @@ Togo,TGO,2018,50.0,2014.9418,Africa
 Togo,TGO,2019,52.461918,2063.7588,Africa
 Togo,TGO,2020,54.127598,2058.565,Africa
 Togo,TGO,2021,55.740116,2130.859,Africa
-Togo,TGO,2022,,2202.7268,Africa
-Tokelau,TKL,2015,,,Oceania
-Tonga,TON,1990,,3625.4998,Oceania
-Tonga,TON,1991,,3847.0461,Oceania
-Tonga,TON,1992,,3847.026,Oceania
-Tonga,TON,1993,,3981.524,Oceania
 Tonga,TON,1994,80.0,4168.696,Oceania
 Tonga,TON,1995,81.788475,4465.27,Oceania
 Tonga,TON,1996,82.55437,4536.0015,Oceania
@@ -6748,17 +4796,6 @@ Tonga,TON,2018,99.00598,6287.9907,Oceania
 Tonga,TON,2019,98.4,6344.4214,Oceania
 Tonga,TON,2020,99.863495,6357.07,Oceania
 Tonga,TON,2021,100.0,6142.9634,Oceania
-Transnistria,OWID_TRS,2015,,,Europe
-Trinidad and Tobago,TTO,1990,,9861.298,North America
-Trinidad and Tobago,TTO,1991,,10090.891,North America
-Trinidad and Tobago,TTO,1992,,11029.181,North America
-Trinidad and Tobago,TTO,1993,,10883.655,North America
-Trinidad and Tobago,TTO,1994,,11207.636,North America
-Trinidad and Tobago,TTO,1995,,11577.443,North America
-Trinidad and Tobago,TTO,1996,,12350.437,North America
-Trinidad and Tobago,TTO,1997,,13231.82,North America
-Trinidad and Tobago,TTO,1998,,14259.24,North America
-Trinidad and Tobago,TTO,1999,,15351.391,North America
 Trinidad and Tobago,TTO,2000,91.29,16347.527,North America
 Trinidad and Tobago,TTO,2001,96.27635,16948.016,North America
 Trinidad and Tobago,TTO,2002,96.4655,18192.598,North America
@@ -6781,11 +4818,6 @@ Trinidad and Tobago,TTO,2018,100.0,25864.945,North America
 Trinidad and Tobago,TTO,2019,100.0,25698.006,North America
 Trinidad and Tobago,TTO,2020,100.0,23392.992,North America
 Trinidad and Tobago,TTO,2021,100.0,23036.256,North America
-Trinidad and Tobago,TTO,2022,,23295.547,North America
-Tunisia,TUN,1990,,5660.289,Africa
-Tunisia,TUN,1991,,5756.5967,Africa
-Tunisia,TUN,1992,,6079.259,Africa
-Tunisia,TUN,1993,,6091.534,Africa
 Tunisia,TUN,1994,86.8,6171.059,Africa
 Tunisia,TUN,1995,88.7,6213.5903,Africa
 Tunisia,TUN,1996,90.4,6561.2915,Africa
@@ -6814,17 +4846,6 @@ Tunisia,TUN,2018,99.8,11046.682,Africa
 Tunisia,TUN,2019,100.0,11113.796,Africa
 Tunisia,TUN,2020,99.9,10040.124,Africa
 Tunisia,TUN,2021,99.9,10395.913,Africa
-Tunisia,TUN,2022,,10569.051,Africa
-Turkey,TUR,1990,,12535.92,Asia
-Turkey,TUR,1991,,12398.656,Asia
-Turkey,TUR,1992,,12796.127,Asia
-Turkey,TUR,1993,,13536.221,Asia
-Turkey,TUR,1994,,12679.875,Asia
-Turkey,TUR,1995,,13449.275,Asia
-Turkey,TUR,1996,,14205.066,Asia
-Turkey,TUR,1997,,15036.177,Asia
-Turkey,TUR,1998,,15158.999,Asia
-Turkey,TUR,1999,,14445.386,Asia
 Turkey,TUR,2000,99.89973,15223.352,Asia
 Turkey,TUR,2001,99.86859,14136.671,Asia
 Turkey,TUR,2002,99.81643,14839.131,Asia
@@ -6847,17 +4868,6 @@ Turkey,TUR,2018,100.0,28652.21,Asia
 Turkey,TUR,2019,100.0,28476.684,Asia
 Turkey,TUR,2020,100.0,28726.191,Asia
 Turkey,TUR,2021,100.0,31722.16,Asia
-Turkey,TUR,2022,,33149.5,Asia
-Turkmenistan,TKM,1990,,7137.6035,Asia
-Turkmenistan,TKM,1991,,6628.0586,Asia
-Turkmenistan,TKM,1992,,5485.9746,Asia
-Turkmenistan,TKM,1993,,5422.7925,Asia
-Turkmenistan,TKM,1994,,4374.6963,Asia
-Turkmenistan,TKM,1995,,3969.826,Asia
-Turkmenistan,TKM,1996,,4162.4644,Asia
-Turkmenistan,TKM,1997,,3635.0552,Asia
-Turkmenistan,TKM,1998,,3833.5413,Asia
-Turkmenistan,TKM,1999,,4397.0547,Asia
 Turkmenistan,TKM,2000,99.6,4568.4604,Asia
 Turkmenistan,TKM,2001,99.63657,4699.07,Asia
 Turkmenistan,TKM,2002,99.606834,4647.115,Asia
@@ -6880,28 +4890,6 @@ Turkmenistan,TKM,2018,100.0,14321.14,Asia
 Turkmenistan,TKM,2019,99.9,14992.604,Asia
 Turkmenistan,TKM,2020,100.0,14269.641,Asia
 Turkmenistan,TKM,2021,100.0,14696.823,Asia
-Turkmenistan,TKM,2022,,14740.01,Asia
-Turks and Caicos Islands,TCA,1990,88.7,,North America
-Turks and Caicos Islands,TCA,1991,91.05391,,North America
-Turks and Caicos Islands,TCA,1992,91.43912,,North America
-Turks and Caicos Islands,TCA,1993,91.82365,,North America
-Turks and Caicos Islands,TCA,1994,92.20682,,North America
-Turks and Caicos Islands,TCA,1995,92.587944,,North America
-Turks and Caicos Islands,TCA,1996,92.96635,,North America
-Turks and Caicos Islands,TCA,1997,93.34136,,North America
-Turks and Caicos Islands,TCA,1998,93.71229,,North America
-Turks and Caicos Islands,TCA,1999,94.07838,,North America
-Turks and Caicos Islands,TCA,2000,95.6,,North America
-Turks and Caicos Islands,TCA,2001,94.92136,,North America
-Turks and Caicos Islands,TCA,2002,95.174774,,North America
-Turks and Caicos Islands,TCA,2003,95.42665,,North America
-Turks and Caicos Islands,TCA,2004,95.68399,,North America
-Turks and Caicos Islands,TCA,2005,95.95381,,North America
-Turks and Caicos Islands,TCA,2006,96.24289,,North America
-Turks and Caicos Islands,TCA,2007,96.552795,,North America
-Turks and Caicos Islands,TCA,2008,96.87994,,North America
-Turks and Caicos Islands,TCA,2009,100.0,,North America
-Turks and Caicos Islands,TCA,2010,100.0,,North America
 Turks and Caicos Islands,TCA,2011,100.0,25731.283,North America
 Turks and Caicos Islands,TCA,2012,93.1,24476.342,North America
 Turks and Caicos Islands,TCA,2013,100.0,23624.287,North America
@@ -6913,18 +4901,6 @@ Turks and Caicos Islands,TCA,2018,100.0,25567.918,North America
 Turks and Caicos Islands,TCA,2019,100.0,25933.512,North America
 Turks and Caicos Islands,TCA,2020,99.4,18474.865,North America
 Turks and Caicos Islands,TCA,2021,100.0,19763.545,North America
-Turks and Caicos Islands,TCA,2022,,20718.389,North America
-Tuscany,OWID_TUS,2015,,,Europe
-Tuvalu,TUV,1990,,2703.2937,Oceania
-Tuvalu,TUV,1991,,2749.359,Oceania
-Tuvalu,TUV,1992,,2792.5955,Oceania
-Tuvalu,TUV,1993,,2891.814,Oceania
-Tuvalu,TUV,1994,,3175.1775,Oceania
-Tuvalu,TUV,1995,,3008.0955,Oceania
-Tuvalu,TUV,1996,,2821.1191,Oceania
-Tuvalu,TUV,1997,,3097.2014,Oceania
-Tuvalu,TUV,1998,,3575.8186,Oceania
-Tuvalu,TUV,1999,,3517.7065,Oceania
 Tuvalu,TUV,2000,94.59021,3484.2905,Oceania
 Tuvalu,TUV,2001,94.77597,3490.447,Oceania
 Tuvalu,TUV,2002,94.62978,3827.6448,Oceania
@@ -6947,13 +4923,7 @@ Tuvalu,TUV,2018,98.96691,4280.5435,Oceania
 Tuvalu,TUV,2019,99.7,4831.7363,Oceania
 Tuvalu,TUV,2020,99.425476,4577.966,Oceania
 Tuvalu,TUV,2021,99.682365,4604.402,Oceania
-Tuvalu,TUV,2022,,4591.3306,Oceania
-Two Sicilies,OWID_SIC,2015,,,Europe
-USSR,OWID_USS,2015,,,Europe
-Uganda,UGA,1990,,901.6608,Africa
 Uganda,UGA,1991,5.6,921.085,Africa
-Uganda,UGA,1992,,920.65155,Africa
-Uganda,UGA,1993,,963.43756,Africa
 Uganda,UGA,1994,0.53389853,991.40826,Africa
 Uganda,UGA,1995,6.8,1075.9357,Africa
 Uganda,UGA,1996,2.8111043,1142.136,Africa
@@ -6982,7 +4952,6 @@ Uganda,UGA,2018,41.92,2186.9072,Africa
 Uganda,UGA,2019,41.3,2250.015,Africa
 Uganda,UGA,2020,42.139477,2240.4902,Africa
 Uganda,UGA,2021,45.22035,2246.414,Africa
-Uganda,UGA,2022,,2280.0737,Africa
 Ukraine,UKR,1990,100.0,16428.48,Europe
 Ukraine,UKR,1991,100.0,14967.733,Europe
 Ukraine,UKR,1992,100.0,13447.164,Europe
@@ -7015,7 +4984,6 @@ Ukraine,UKR,2018,100.0,12336.927,Europe
 Ukraine,UKR,2019,100.0,12804.955,Europe
 Ukraine,UKR,2020,100.0,12407.79,Europe
 Ukraine,UKR,2021,100.0,12949.326,Europe
-Ukraine,UKR,2022,,10731.44,Europe
 United Arab Emirates,ARE,1990,100.0,109694.56,Asia
 United Arab Emirates,ARE,1991,100.0,104675.73,Asia
 United Arab Emirates,ARE,1992,100.0,102664.12,Asia
@@ -7048,7 +5016,6 @@ United Arab Emirates,ARE,2018,100.0,71550.555,Asia
 United Arab Emirates,ARE,2019,100.0,71782.16,Asia
 United Arab Emirates,ARE,2020,100.0,67668.29,Asia
 United Arab Emirates,ARE,2021,100.0,70028.02,Asia
-United Arab Emirates,ARE,2022,,74917.67,Asia
 United Kingdom,GBR,1990,100.0,30657.84,Europe
 United Kingdom,GBR,1991,100.0,30226.027,Europe
 United Kingdom,GBR,1992,100.0,30265.3,Europe
@@ -7081,7 +5048,6 @@ United Kingdom,GBR,2018,100.0,46412.54,Europe
 United Kingdom,GBR,2019,100.0,46909.08,Europe
 United Kingdom,GBR,2020,100.0,41895.824,Europe
 United Kingdom,GBR,2021,100.0,45567.57,Europe
-United Kingdom,GBR,2022,,47587.168,Europe
 United States,USA,1990,100.0,40451.5,North America
 United States,USA,1991,100.0,39871.344,North America
 United States,USA,1992,100.0,40707.29,North America
@@ -7114,75 +5080,6 @@ United States,USA,2018,100.0,61348.457,North America
 United States,USA,2019,100.0,62470.93,North America
 United States,USA,2020,100.0,60158.91,North America
 United States,USA,2021,100.0,63635.824,North America
-United States,USA,2022,,64623.125,North America
-United States Minor Outlying Islands,UMI,2015,,,Oceania
-United States Virgin Islands,VIR,1990,100.0,,North America
-United States Virgin Islands,VIR,1991,100.0,,North America
-United States Virgin Islands,VIR,1992,100.0,,North America
-United States Virgin Islands,VIR,1993,100.0,,North America
-United States Virgin Islands,VIR,1994,100.0,,North America
-United States Virgin Islands,VIR,1995,100.0,,North America
-United States Virgin Islands,VIR,1996,100.0,,North America
-United States Virgin Islands,VIR,1997,100.0,,North America
-United States Virgin Islands,VIR,1998,100.0,,North America
-United States Virgin Islands,VIR,1999,100.0,,North America
-United States Virgin Islands,VIR,2000,100.0,,North America
-United States Virgin Islands,VIR,2001,100.0,,North America
-United States Virgin Islands,VIR,2002,100.0,,North America
-United States Virgin Islands,VIR,2003,100.0,,North America
-United States Virgin Islands,VIR,2004,100.0,,North America
-United States Virgin Islands,VIR,2005,100.0,,North America
-United States Virgin Islands,VIR,2006,100.0,,North America
-United States Virgin Islands,VIR,2007,100.0,,North America
-United States Virgin Islands,VIR,2008,100.0,,North America
-United States Virgin Islands,VIR,2009,100.0,,North America
-United States Virgin Islands,VIR,2010,100.0,,North America
-United States Virgin Islands,VIR,2011,100.0,,North America
-United States Virgin Islands,VIR,2012,100.0,,North America
-United States Virgin Islands,VIR,2013,100.0,,North America
-United States Virgin Islands,VIR,2014,100.0,,North America
-United States Virgin Islands,VIR,2015,100.0,,North America
-United States Virgin Islands,VIR,2016,100.0,,North America
-United States Virgin Islands,VIR,2017,100.0,,North America
-United States Virgin Islands,VIR,2018,100.0,,North America
-United States Virgin Islands,VIR,2019,100.0,,North America
-United States Virgin Islands,VIR,2020,100.0,,North America
-United States Virgin Islands,VIR,2021,100.0,,North America
-Upper-middle-income countries,,1990,,5874.9365,Other
-Upper-middle-income countries,,1991,,5834.563,Other
-Upper-middle-income countries,,1992,,5759.7944,Other
-Upper-middle-income countries,,1993,,5881.5776,Other
-Upper-middle-income countries,,1994,,5959.4966,Other
-Upper-middle-income countries,,1995,,6081.7993,Other
-Upper-middle-income countries,,1996,,6306.509,Other
-Upper-middle-income countries,,1997,,6569.9136,Other
-Upper-middle-income countries,,1998,,6571.8965,Other
-Upper-middle-income countries,,1999,,6720.0664,Other
-Upper-middle-income countries,,2000,94.32862,7080.297,Other
-Upper-middle-income countries,,2001,94.771286,7247.94,Other
-Upper-middle-income countries,,2002,95.238945,7508.9175,Other
-Upper-middle-income countries,,2003,95.46172,7869.3325,Other
-Upper-middle-income countries,,2004,95.79441,8408.197,Other
-Upper-middle-income countries,,2005,95.65556,8945.264,Other
-Upper-middle-income countries,,2006,96.61522,9615.936,Other
-Upper-middle-income countries,,2007,96.75074,10394.622,Other
-Upper-middle-income countries,,2008,97.2213,10934.953,Other
-Upper-middle-income countries,,2009,97.61373,11028.561,Other
-Upper-middle-income countries,,2010,98.15685,11808.331,Other
-Upper-middle-income countries,,2011,98.375145,12470.417,Other
-Upper-middle-income countries,,2012,98.68048,13075.677,Other
-Upper-middle-income countries,,2013,98.80108,13634.531,Other
-Upper-middle-income countries,,2014,98.89535,14106.693,Other
-Upper-middle-income countries,,2015,98.739876,14541.054,Other
-Upper-middle-income countries,,2016,98.98104,14995.433,Other
-Upper-middle-income countries,,2017,99.14453,15621.961,Other
-Upper-middle-income countries,,2018,99.15341,16243.095,Other
-Upper-middle-income countries,,2019,99.23595,16766.95,Other
-Upper-middle-income countries,,2020,99.17842,16490.66,Other
-Upper-middle-income countries,,2021,99.403984,17634.266,Other
-Upper-middle-income countries,,2022,,18129.36,Other
-Uruguay,URY,1990,,11112.736,South America
-Uruguay,URY,1991,,11438.611,South America
 Uruguay,URY,1992,96.18231,12274.009,South America
 Uruguay,URY,1993,96.36306,12528.629,South America
 Uruguay,URY,1994,96.54245,13364.204,South America
@@ -7213,13 +5110,6 @@ Uruguay,URY,2018,99.8,23388.129,South America
 Uruguay,URY,2019,99.9,23552.842,South America
 Uruguay,URY,2020,100.0,22073.375,South America
 Uruguay,URY,2021,100.0,23257.256,South America
-Uruguay,URY,2022,,24426.66,South America
-Uzbekistan,UZB,1990,,3638.877,Asia
-Uzbekistan,UZB,1991,,3544.5862,Asia
-Uzbekistan,UZB,1992,,3074.659,Asia
-Uzbekistan,UZB,1993,,2936.4482,Asia
-Uzbekistan,UZB,1994,,2729.6377,Asia
-Uzbekistan,UZB,1995,,2656.6326,Asia
 Uzbekistan,UZB,1996,99.6,2650.6096,Asia
 Uzbekistan,UZB,1997,99.379745,2736.365,Asia
 Uzbekistan,UZB,1998,99.44935,2808.461,Asia
@@ -7246,11 +5136,6 @@ Uzbekistan,UZB,2018,99.99219,7118.2036,Asia
 Uzbekistan,UZB,2019,99.99899,7403.7427,Asia
 Uzbekistan,UZB,2020,100.0,7407.7275,Asia
 Uzbekistan,UZB,2021,99.9,7800.5015,Asia
-Uzbekistan,UZB,2022,,8073.2104,Asia
-Vanuatu,VUT,1990,,2774.1384,Oceania
-Vanuatu,VUT,1991,,2791.2344,Oceania
-Vanuatu,VUT,1992,,2792.9956,Oceania
-Vanuatu,VUT,1993,,2744.8027,Oceania
 Vanuatu,VUT,1994,18.0,2921.9517,Oceania
 Vanuatu,VUT,1995,12.941644,2881.194,Oceania
 Vanuatu,VUT,1996,14.792361,2879.029,Oceania
@@ -7279,45 +5164,6 @@ Vanuatu,VUT,2018,61.59899,3045.0955,Oceania
 Vanuatu,VUT,2019,64.50218,3070.404,Oceania
 Vanuatu,VUT,2020,67.29906,2848.9702,Oceania
 Vanuatu,VUT,2021,70.04277,2800.494,Oceania
-Vanuatu,VUT,2022,,2785.9038,Oceania
-Vatican,VAT,2015,,,Europe
-Venezuela,VEN,1992,97.820206,,South America
-Venezuela,VEN,1993,98.23953,,South America
-Venezuela,VEN,1994,98.32333,,South America
-Venezuela,VEN,1995,99.0,,South America
-Venezuela,VEN,1996,98.48413,,South America
-Venezuela,VEN,1997,98.7,,South America
-Venezuela,VEN,1998,98.4,,South America
-Venezuela,VEN,1999,98.9,,South America
-Venezuela,VEN,2000,98.9,,South America
-Venezuela,VEN,2001,99.9,,South America
-Venezuela,VEN,2002,99.8,,South America
-Venezuela,VEN,2003,95.7,,South America
-Venezuela,VEN,2004,99.1,,South America
-Venezuela,VEN,2005,98.77676,,South America
-Venezuela,VEN,2006,99.3,,South America
-Venezuela,VEN,2007,98.85237,,South America
-Venezuela,VEN,2008,98.917816,,South America
-Venezuela,VEN,2009,98.99666,,South America
-Venezuela,VEN,2010,99.085045,,South America
-Venezuela,VEN,2011,98.84,,South America
-Venezuela,VEN,2012,99.2751,,South America
-Venezuela,VEN,2013,99.369095,,South America
-Venezuela,VEN,2014,100.0,,South America
-Venezuela,VEN,2015,100.0,,South America
-Venezuela,VEN,2016,99.4,,South America
-Venezuela,VEN,2017,99.2,,South America
-Venezuela,VEN,2018,99.8782,,South America
-Venezuela,VEN,2019,99.84478,,South America
-Venezuela,VEN,2020,99.91632,,South America
-Venezuela,VEN,2021,99.98772,,South America
-Vietnam,VNM,1990,,2099.3945,Asia
-Vietnam,VNM,1991,,2177.4736,Asia
-Vietnam,VNM,1992,,2317.2666,Asia
-Vietnam,VNM,1993,,2455.5088,Asia
-Vietnam,VNM,1994,,2623.72,Asia
-Vietnam,VNM,1995,,2825.0164,Asia
-Vietnam,VNM,1996,,3039.938,Asia
 Vietnam,VNM,1997,78.4,3239.6816,Asia
 Vietnam,VNM,1998,86.17599,3378.9048,Asia
 Vietnam,VNM,1999,86.99444,3495.098,Asia
@@ -7343,18 +5189,6 @@ Vietnam,VNM,2018,100.0,9636.014,Asia
 Vietnam,VNM,2019,99.4,10252.004,Asia
 Vietnam,VNM,2020,99.8,10450.621,Asia
 Vietnam,VNM,2021,100.0,10628.22,Asia
-Vietnam,VNM,2022,,11396.531,Asia
-Wallis and Futuna,WLF,2015,,,Oceania
-West Germany,OWID_GFR,2015,,,Europe
-Western Sahara,ESH,2015,,,Africa
-World,OWID_WRL,1990,,9718.008,Other
-World,OWID_WRL,1991,,9682.053,Other
-World,OWID_WRL,1992,,9679.046,Other
-World,OWID_WRL,1993,,9687.982,Other
-World,OWID_WRL,1994,,9811.624,Other
-World,OWID_WRL,1995,,9968.673,Other
-World,OWID_WRL,1996,,10192.945,Other
-World,OWID_WRL,1997,,10440.53,Other
 World,OWID_WRL,1998,73.35025,10553.451,Other
 World,OWID_WRL,1999,74.65785,10776.4795,Other
 World,OWID_WRL,2000,78.36437,11138.261,Other
@@ -7379,41 +5213,6 @@ World,OWID_WRL,2018,89.89187,16588.588,Other
 World,OWID_WRL,2019,90.193565,16877.473,Other
 World,OWID_WRL,2020,90.482704,16213.376,Other
 World,OWID_WRL,2021,91.41409,17091.352,Other
-World,OWID_WRL,2022,,17527.19,Other
-Wuerttemburg,OWID_WRT,2015,,,Europe
-Yemen,YEM,1992,44.1,,Asia
-Yemen,YEM,1993,40.774715,,Asia
-Yemen,YEM,1994,41.985134,,Asia
-Yemen,YEM,1995,43.193512,,Asia
-Yemen,YEM,1996,44.39917,,Asia
-Yemen,YEM,1997,42.6,,Asia
-Yemen,YEM,1998,46.79961,,Asia
-Yemen,YEM,1999,47.992947,,Asia
-Yemen,YEM,2000,49.23923,,Asia
-Yemen,YEM,2001,50.364323,,Asia
-Yemen,YEM,2002,51.48087,,Asia
-Yemen,YEM,2003,52.595875,,Asia
-Yemen,YEM,2004,49.59,,Asia
-Yemen,YEM,2005,54.849293,,Asia
-Yemen,YEM,2006,55.800335,,Asia
-Yemen,YEM,2007,57.174534,,Asia
-Yemen,YEM,2008,58.3648,,Asia
-Yemen,YEM,2009,59.56845,,Asia
-Yemen,YEM,2010,60.781654,,Asia
-Yemen,YEM,2011,62.00056,,Asia
-Yemen,YEM,2012,52.41,,Asia
-Yemen,YEM,2013,75.6,,Asia
-Yemen,YEM,2014,66.1,,Asia
-Yemen,YEM,2015,67.41489,,Asia
-Yemen,YEM,2016,68.855865,,Asia
-Yemen,YEM,2017,79.2,,Asia
-Yemen,YEM,2018,62.0,,Asia
-Yemen,YEM,2019,72.77657,,Asia
-Yemen,YEM,2020,73.85346,,Asia
-Yemen,YEM,2021,74.8772,,Asia
-Yemen Arab Republic,OWID_YAR,2015,,,Asia
-Yemen People's Republic,OWID_YPR,2015,,,Asia
-Yugoslavia,OWID_YGS,2015,,,Europe
 Zambia,ZMB,1990,13.9,2290.0393,Africa
 Zambia,ZMB,1991,12.752703,2232.8374,Africa
 Zambia,ZMB,1992,19.2,2141.5046,Africa
@@ -7446,10 +5245,6 @@ Zambia,ZMB,2018,40.22934,3425.949,Africa
 Zambia,ZMB,2019,43.0,3372.359,Africa
 Zambia,ZMB,2020,44.60407,3183.651,Africa
 Zambia,ZMB,2021,46.685116,3287.4204,Africa
-Zambia,ZMB,2022,,3365.8738,Africa
-Zanzibar,OWID_ZAN,2015,,,Africa
-Zimbabwe,ZWE,1990,,2704.7573,Africa
-Zimbabwe,ZWE,1991,,2781.7878,Africa
 Zimbabwe,ZWE,1992,28.2,2468.2783,Africa
 Zimbabwe,ZWE,1993,31.163668,2458.7832,Africa
 Zimbabwe,ZWE,1994,28.1,2670.1067,Africa
@@ -7480,4 +5275,3 @@ Zimbabwe,ZWE,2018,45.400288,2399.6216,Africa
 Zimbabwe,ZWE,2019,46.682095,2203.3967,Africa
 Zimbabwe,ZWE,2020,52.74767,1990.3195,Africa
 Zimbabwe,ZWE,2021,48.979927,2115.1445,Africa
-Zimbabwe,ZWE,2022,,2207.957,Africa
