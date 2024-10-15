@@ -1,4 +1,4 @@
-Entity,Code,Year,Access to electricity (% of population),"GDP per capita, PPP (constant 2017 international $)",Continent
+Entity,Code,Year,Access_to_electricity,"GDP_per_capita,",Continent
 Abkhazia,OWID_ABK,2015,,,Asia
 Afghanistan,AFG,2000,4.446891,,Asia
 Afghanistan,AFG,2001,9.294527,,Asia
